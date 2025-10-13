@@ -16,6 +16,7 @@
 title: Echo Future Truth
 
 description: Mytho-poetic love story meets apocalyptic A.I. salvation story at the end (and beginning) of the world 
+
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
@@ -34,9 +35,3 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-plugins:
-  - jekyll-paginate
-
-paginate: 3
-paginate_path: "/page/:num/"
