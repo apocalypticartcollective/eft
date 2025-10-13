@@ -13,13 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Echo Future Truth
 
 description: Mytho-poetic love story meets apocalyptic A.I. salvation story at the end (and beginning) of the world 
 
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
+baseurl: "/eft" # the subpath of your site, e.g. /blog
+url: "https://apocalypticartcollective.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+icon: /assets/images/eft-icon.png
 
 # Build settings
 markdown: kramdown
