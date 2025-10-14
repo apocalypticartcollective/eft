@@ -13,7 +13,8 @@ body {
   line-height: 1.0;
   font-weight: bold;
   max-width: 250px;      /* Makes it more square */
-  margin: 2rem auto 2rem auto;
+  width: 100%;         /* NEW: force title to fill parent width */
+  margin: 2rem auto;
 }
 .site-title span, .site-title br {
   display: block;
