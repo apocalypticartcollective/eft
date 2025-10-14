@@ -10,10 +10,15 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
-      <h1>
-        {{ site.title }}
-      </h1>
-    {% endif %}
+      
+    <h1 class="site-title">
+  {% assign words = site.title | split: ' ' %}
+  {% for word in words %}
+    <span>{{ word }}</span>
+  {% endfor %}
+  </h1>
+  {% endif %}
+   
     {% if site.title %}
       <h2>
         {{ site.description }}
