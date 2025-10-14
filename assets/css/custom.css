@@ -8,7 +8,7 @@ body {
 }
 
 .site-title {
-  text-align: center;
+  text-align: center !important;  /* Force centering */
   font-size: 1.5em;        /* Adjust as needed */
   line-height: 1.0;
   font-weight: bold;
