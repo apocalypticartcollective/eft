@@ -4,7 +4,7 @@ body {
   background-image: url('/eft/assets/images/lady.png');
   background-repeat: no-repeat;
   background-position: top left; 
-  background-size: clamp(0px, 30vw, 350px) auto;
+  background-size: clamp(0px, 40vw, 400px) auto;
 }
 
 .site-title {
