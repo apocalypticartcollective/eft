@@ -4,10 +4,10 @@ body {
   background-image: url('/eft/assets/images/fadylady.png');
   background-repeat: no-repeat;
   background-position: top left; 
-  background-size: clamp(0px, 40vw, 400px) auto;
+  background-size: clamp(0px, 65vw, 1000px) auto;
 }
 
-.site-title {
+<!-- .site-title {
   text-align: center !important;  /* Force centering */
   font-size: 1.5em;        /* Adjust as needed */
   line-height: 1.0;
@@ -24,4 +24,4 @@ body {
     font-size: 1.2em;
     max-width: 90vw;
   }
-}
+} -->
