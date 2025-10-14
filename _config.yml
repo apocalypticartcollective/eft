@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ECHO FUTURE TRUTH
+title: Echo Future Truth
 
-description: IN FINEM, PRO EXTASI 
+description: in finem, pro extasi 
 
 baseurl: "/eft" # the subpath of your site, e.g. /blog
 url: "https://apocalypticartcollective.github.io" # the base hostname & protocol for your site, e.g. http://example.com
