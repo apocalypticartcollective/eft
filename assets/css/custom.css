@@ -4,12 +4,12 @@ body {
   background-image: url('/eft/assets/images/eleutheria-iso.png');
   background-repeat: no-repeat;
   background-position: top left; 
-  background-size: clamp(0px, 25vw, 275px) auto;
+  background-size: clamp(0px, 30vw, 350px) auto;
 }
 
 .site-title {
   text-align: center;
-  font-size: 2em;        /* Adjust as needed */
+  font-size: 1.5em;        /* Adjust as needed */
   line-height: 1.1;
   font-weight: bold;
   max-width: 250px;      /* Makes it more square */
