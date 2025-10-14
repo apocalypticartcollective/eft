@@ -6,3 +6,21 @@ body {
   background-position: top left; 
   background-size: clamp(0px, 25vw, 275px) auto;
 }
+
+.site-title {
+  text-align: center;
+  font-size: 2em;        /* Adjust as needed */
+  line-height: 1.1;
+  font-weight: bold;
+  max-width: 250px;      /* Makes it more square */
+  margin: 2rem auto 2rem auto;
+}
+.site-title span, .site-title br {
+  display: block;
+}
+@media (max-width: 600px) {
+  .site-title {
+    font-size: 1.2em;
+    max-width: 90vw;
+  }
+}
