@@ -16,7 +16,9 @@
 
 title: Echo Future Truth
 
-description: in finem, pro extasi 
+description: By D.P. Maddalena 
+
+secretcode: in finem, pro extasi
 
 baseurl: "/eft" # the subpath of your site, e.g. /blog
 url: "https://apocalypticartcollective.github.io" # the base hostname & protocol for your site, e.g. http://example.com

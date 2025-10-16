@@ -21,6 +21,13 @@ layout: default
         {{ site.description }}
       </h2>
     {% endif %}
+    
+    {% if site.secretcode %}
+  <h3 class="site-secretcode">
+    {{ site.secretcode }}
+  </h3>
+{% endif %}
+
   </header>
 {% endif %}
 
