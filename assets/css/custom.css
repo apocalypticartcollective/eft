@@ -31,29 +31,10 @@ body {
 
 .site-masthead .site-secretcode {
   color: $muted-text-color;
-  font-size: 0.875em; /* 30% smaller than 1.25em
+  font-size: 0.875em;
   margin: 0;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
-    font-size: 2.1em; /* 3em * 0.7 */
+    font-size: 2.1em; 
   }
 }
-
-<!-- .site-title {
-  text-align: center !important;  /* Force centering */
-  font-size: 1.5em;        /* Adjust as needed */
-  line-height: 1.0;
-  font-weight: bold;
-  max-width: 250px;      /* Makes it more square */
-  width: 100%;         /* NEW: force title to fill parent width */
-  margin: 2rem auto;
-}
-.site-title span, .site-title br {
-  display: block;
-}
-@media (max-width: 600px) {
-  .site-title {
-    font-size: 1.2em;
-    max-width: 90vw;
-  }
-} -->
