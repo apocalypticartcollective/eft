@@ -29,12 +29,4 @@ body {
   font-family: 'OptiCloister', 'EB Garamond', Times, 'Times New Roman', serif;
 }
 
-.site-masthead .site-secretcode {
-  color: $muted-text-color;
-  font-size: 0.875em;
-  margin: 0;
-  padding: 0 2rem;
-  @media (min-width: $on-tablet) {
-    font-size: 2.1em; 
-  }
-}
+

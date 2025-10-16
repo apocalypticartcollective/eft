@@ -9,8 +9,8 @@ layout: default
 {% else %}
   <header class="site-masthead">
     {% include menu.html %}
-    {% if site.title %}
-      
+  
+    {% if site.title %}   
    <h1>
   {{ site.title }}
   </h1>
@@ -22,7 +22,7 @@ layout: default
       </h2>
     {% endif %}
     
-    {% if site.secretcode %}
+    {% if site.title %}
   <h3 class="site-secretcode">
     {{ site.secretcode }}
   </h3>
