@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acknowledgements
+title: Credits
 ---
 
 All the help that has made this possible
