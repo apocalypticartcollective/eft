@@ -1,5 +1,5 @@
 ---
-title: Abrasion Prologue - the Guerilla's Dream
+title: [Abrasion] Prologue - the Guerilla's Dream
 author: D.P. Maddalena
 category: Abrasion
 layout: post
