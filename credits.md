@@ -31,12 +31,12 @@ Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; 
 &nbsp;
 
 
-Echo Future Truth  © 2025 by D.P. Maddalena is licensed under CC BY-NC-ND 4.0. [View a copy of this license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Echo Future Truth  © 2025 by D.P. Maddalena is licensed under Creative Commons, ["CC BY-NC-ND 4.0"](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 &nbsp;
 
 &nbsp;
 
 <center>
-<img src='/assets/images/aacwordmark.png'>
+<img src='/eft/assets/images/aacwordmark.png'>
 </center>

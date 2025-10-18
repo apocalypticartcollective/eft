@@ -3,7 +3,7 @@ layout: post
 title: Support the Artist
 ---
 
-*Echo Future Truth* is released free for you to enjoy and to freely share. This series of audio recordings is a labor of love. Receive the love, and maybe show a little love for the labor. If you're thinking to yourself, 'That's worth a triple-seasonal-spice-coffeebomination-and-a-ham-and-cheese-croissant, you can support the author via the link below. 
+*Echo Future Truth* is released free for you to enjoy and to freely share. This series of audio recordings is a labor of love! Receive the love, and maybe show a little love for the laborer. If you're thinking to yourself, "That's worth a triple-seasonal-spice-coffeebomination-and-a-ham-and-cheese-croissant", consider supporting the author via the link below. 
 
 &nbsp;
 <center>
