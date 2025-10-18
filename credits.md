@@ -8,20 +8,21 @@ title: Credits
 ## Field Trip Buddies
 
 - Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
-- Nik Bartunek (engineering, marketing, commiseration)
+- Nik Bartunek (engineering, marketing, commiseration without capitulation)
 - Julie Maddalena (voice coaching and engineering)
 - Marge Boots (graphics)
-- Marilyn Mcentyre (editing)
-- Zoe Maddalena (vibe)
+- Marilyn Mcentyre (editing & encouragement)
+- Zoe Maddalena (vibe & wonder)
 - Michael Toy (soul brother, believer, original critic of choice)
+- Linda Toy (soul sister, networker, encourager)
 - Eric Mathis (early and eternal reader, epical support)
-- Kevin Marks (original field trip buddy) 
-- Russ Sampson (Saint Sampson, organizer of the Tonopolo Trapped)
-- Everyone trapped at Tonopolo (good vibes, good listeners, good feedback)
+- Kevin Marks (Original Field Trip Buddy) 
+- Russ Sampson (Saint Sampson, organizer of the *Tonopolo Trapped*)
+- Everyone trapped at Tonopolo (great vibes, great listeners, great feedback)
 - Heather Fosth (third-stage rocket ignition)
 - Carla Mathis (prayer and wisdom, performance edition)
 - Mike McKenna (prayer and wisdom, tech edition)
-- Timothy Maddalena (most reassuring fan, wisdom anchor)
+- Timothy Maddalena (Most Reassuring Fan, wisdom anchor)
 - A special thanks to the beautiful, skeptical, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
 
 &nbsp;
@@ -38,6 +39,6 @@ Echo Future Truth  © 2025 by D.P. Maddalena is licensed under Creative Commons,
 &nbsp;
 
 <div style="text-align:center">
-<img src='assets/images/aacwordmark.png' alt='Apocalyptic Art Collective wordmark" /><br />
-The Beginning is Nigh
+<img src='assets/images/aacwordmark.png' alt='Apocalyptic Art Collective wordmark' /> <br />
+*The Beginning is Nigh*
 </div>
