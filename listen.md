@@ -28,3 +28,17 @@ Here's an Overcast bit
 ### RSS for manual set up
 
 Here's the RSS feed and instructions on how to use it
+
+## Playlists
+
+### Abrasion
+
+Coming soon. (Available when the first chapter drops.)
+
+### Isolation
+
+Coming soon.
+
+### Resistance
+
+Coming soon. 

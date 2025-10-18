@@ -9,10 +9,10 @@ title: Credits
 
 - Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
 - Nik Bartunek (engineering, marketing, commiseration without capitulation)
-- Julie Maddalena (voice coaching and engineering)
+- Julie Maddalena (voice coaching and studio support)
 - Eric Mathis (early and eternal reader, epical support)
 - Marilyn Mcentyre (editing & encouragement)
-- Zoe Maddalena (vibe & wonder)
+- Zoe Maddalena (vibe & inspiration)
 - Michael Toy (soul brother, believer, original critic of choice)
 - Linda Toy (soul sister, networker, encourager)
 - Kevin Marks (Original Field Trip Buddy) 
@@ -20,9 +20,9 @@ title: Credits
 - Russ Sampson (Saint Sampson, organizer of the *Tonopolo Trapped*)
 - Everyone trapped at Tonopolo (great vibes, great listeners, great feedback)
 - Heather Fosth (third-stage rocket ignition)
-- Carla Mathis (prayer and wisdom, performance edition)
-- Mike McKenna (prayer and wisdom, tech edition)
-- Timothy Maddalena (Most Reassuring Fan, wise-anchor)
+- Carla Mathis (prayer and wisdom, theater edition)
+- Mike McKenna (prayer and wisdom, tech edition, dependable encouragement)
+- Timothy Maddalena (Most Reassuring Fan, culture wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
 
 &nbsp;
