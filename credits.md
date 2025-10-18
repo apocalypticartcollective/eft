@@ -37,6 +37,6 @@ Echo Future Truth  © 2025 by D.P. Maddalena is licensed under Creative Commons,
 
 &nbsp;
 
-<center>
-<img src='/eft/assets/images/aacwordmark.png'>
-</center>
+<div style="text-align:center">
+<img src='assets/images/aacwordmark.png'>
+</div>
