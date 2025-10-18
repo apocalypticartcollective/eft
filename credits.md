@@ -26,7 +26,7 @@ title: Credits
 
 &nbsp;
 
-Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; font, Monterchi Serif
+Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; and OPTICloister font
 
 &nbsp;
 
