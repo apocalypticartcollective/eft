@@ -9,4 +9,5 @@ Support the author with a tip or gift via
 
 &nbsp;
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="echofuturetruth" data-color="#FFDD00" data-emoji="☕"  data-font="Poppins" data-text="Support the Author" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="echofuturetruth" data-color="#444444" data-emoji="📖"  data-font="Lato" data-text="support the author" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
