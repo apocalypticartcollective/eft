@@ -18,7 +18,7 @@ title: Credits
 - Kevin Marks (original field trip buddy) 
 - Russ Sampson (Saint Sampson, organizer of the Tonopolo Trapped)
 - Everyone trapped at Tonopolo (good vibes, good listeners, good feedback)
-- Heather Fosth ()
+- Heather Fosth (third-stage rocket ignition)
 - Carla Mathis (prayer and wisdom, performance edition)
 - Mike McKenna (prayer and wisdom, tech edition)
 - Timothy Maddalena (most reassuring fan, wisdom anchor)
@@ -31,12 +31,13 @@ Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; 
 &nbsp;
 
 
-Echo Future Truth  © 2025 by D.P. Maddalena is licensed under Creative Commons, ["CC BY-NC-ND 4.0"](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Echo Future Truth  © 2025 by D.P. Maddalena is licensed under Creative Commons, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 &nbsp;
 
 &nbsp;
 
 <div style="text-align:center">
-<img src='assets/images/aacwordmark.png'>
+<img src='assets/images/aacwordmark.png' alt='Apocalyptic Art Collective wordmark" /><br />
+The Beginning is Nigh
 </div>
