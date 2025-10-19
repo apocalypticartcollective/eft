@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Echo Future Truth
-catgory: Isolation
+title: Echo Future Truth - Book Three
+category: Resistance
 ---
 
-## Book Three - Resistance
+## Resistance
 
 A Story About<br />
 Creation at the End<br />

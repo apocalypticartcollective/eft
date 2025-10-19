@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Echo Future Truth
-catgory: Isolation
+title: Echo Future Truth - Book Two
+category: Isolation
 ---
 
-## Book Two - Isolation
+## Isolation
 
 A Story About<br />
 The Present<br />
