@@ -41,6 +41,6 @@ Echo Future Truth  © 2025 by D.P. Maddalena is licensed under Creative Commons,
 &nbsp;
 
 <div style="text-align:center">
-<img src='assets/images/aacwordmark.png' alt='Apocalyptic Art Collective wordmark' /> <br />
+<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" alt='lectern' /><br />
 <em>The Beginning is Nigh</em>
 </div>
