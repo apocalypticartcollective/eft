@@ -1,10 +1,11 @@
 ---
-title: Abrasion - Prologue - the Guerilla's Dream
+title: Abrasion - Prologue
 author: D.P. Maddalena
 category: Abrasion
 layout: post
 ---
 
+## The Guerilla's Dream
 
 The woman was asleep, and dreaming.
 
