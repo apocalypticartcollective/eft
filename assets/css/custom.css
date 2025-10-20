@@ -1,7 +1,7 @@
 
 body {
   background-color: #f0ece2;
-  background-image: url('/eft/assets/images/fadylady.png');
+  background-image: url('/assets/images/fadylady.png');
   background-repeat: no-repeat;
   background-position: top left; 
   background-size: clamp(0px, 65vw, 1000px) auto;
