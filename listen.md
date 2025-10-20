@@ -10,7 +10,7 @@ You can read each chapter as it becomes available here on this site or on Substa
 
 If you prefer a good binge to weekly short episodes, note: the novel contains three separate-but-connected stories, *Abrasion*, *Isolation*, and *Resistance*, each of which has between 7-9 chapters. So each book will drop over a couple months. To listen to all the episodes for a given book, mark your calendar and hit up one of the sources listed below to listen all at once. 
 
-Substack for email delivery and to listen
+## Substack for email delivery and to listen
 
 Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to listen and/or subscribe to email releases (. Note that on the welcome page you will have the opportunity to share your email address to receive weekly emails (and *maybe* the odd announcement about this project only). But you can also click past that screen (via the 'I'll listen here' link below the form) to drop right into the page with the latest episodes, no subscription needed. 
 
