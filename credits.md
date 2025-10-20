@@ -7,6 +7,7 @@ title: Credits
 
 ## Acknowledgements
 
+<!--
 - First, the Word That Speaks Order to Chaos (with words that bring order to chaos)
 - Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
 - Nik Bartunek (engineering, marketing, commiseration without capitulation)
@@ -26,6 +27,7 @@ title: Credits
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
 - Timothy Maddalena (Most Reassuring Fan, culture wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
+-->
 
 &nbsp;
 
