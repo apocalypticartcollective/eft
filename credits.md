@@ -3,7 +3,7 @@ layout: post
 title: Credits
 ---
 
-*Echo Future Truth* is written by D.P. Maddalena and is published here for the first time in association with [Apocalyptic Art Collective](apocalypticartcollective.com), a loose association of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
+*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time in association with [Apocalyptic Art Collective](apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
 
 ## Acknowledgements
 
@@ -35,6 +35,9 @@ Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; 
 
 &nbsp;
 
+**Statement on AI**: every word in Echo Future Truth was written by the author. No AI was used in the writing, editing, or researching for this novel. 
+
+&nbsp;
 
 Echo Future Truth by D.P. Maddalena  © 2025, licensed under Creative Commons, &nbsp; [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
