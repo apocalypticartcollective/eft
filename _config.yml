@@ -20,8 +20,8 @@ description: By D.P. Maddalena
 
 secretcode: A Story of Creation in Three Parts
 
-baseurl: "/eft" # the subpath of your site, e.g. /blog
-url: "https://apocalypticartcollective.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://echofuturetruth.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 icon: /assets/images/eft-icon.png
 
