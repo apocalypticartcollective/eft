@@ -7,6 +7,8 @@ title: Credits
 
 ## Acknowledgements
 
+List of people who make me happy
+
 <!--
 - Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
 - Nik Bartunek (engineering, marketing, commiseration without capitulation)
