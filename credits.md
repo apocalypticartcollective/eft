@@ -37,23 +37,23 @@ Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat
 
 &nbsp;
 
-## works of special value to the author
+## works of special value in the writing of this work
 
 &nbsp;
 
-Mani by Patrick Leigh Fermor
+*Mani* by Patrick Leigh Fermor
 
 &nbsp;
 
-Deep into Mani, Journey to the Southern Tip of Greece by Peter Greenhalgh and Edward Eliopoulos
+*Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos
 
 &nbsp;
 
-The Problem of God by John Courtney Murray
+*The Problem of God* by John Courtney Murray
 
 &nbsp;
 
-The Priestly Author of Genesis 1 and St. John of The Revelation for standing the edges and telling us what they make of the mystery.  
+The Priestly Author of Genesis 1 and St. John of The Revelation for standing at the threshold of *beginnings* and *endings* and capturing some of the mystery.  
 
 
 &nbsp;
