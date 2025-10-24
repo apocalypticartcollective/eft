@@ -13,10 +13,10 @@ List of people who make me happy
 - Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
 - Nik Bartunek (engineering, marketing, commiseration without capitulation)
 - Julie Maddalena (voice coaching and studio support)
-- Eric Mathis (early and eternal reader, epical support)
-- Marilyn Mcentyre (editing & encouragement)
+- Eric Mathis (early and eternal reader, epical and erical support)
+- Marilyn Mcentyre (editing & encouragement, publishing wisdom)
 - Zoe Maddalena (vibe & inspiration)
-- Michael Toy (soul brother, believer, universal colaborator, honest appraiser)
+- Michael Toy (soul brother, faithful and universal colaborator, honest assessor)
 - Linda Toy (soul sister, networker, encourager)
 - Kevin Marks (Original Field Trip Buddy) 
 - Marge Boots (graphics)
@@ -26,9 +26,9 @@ List of people who make me happy
 - Carla Mathis (prayer and wisdom, theater edition)
 - Mike McKenna (prayer and wisdom, tech edition; dependable encouragement)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
-- Timothy Maddalena (Most Reassuring Fan, culture wisdom)
+- Timothy Maddalena (Most Reassuring Fan, grounded wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
-- Finally: God -- maker, rescuer, comforter; word that orders the mess (for ordering my mess)
+- Finally, my God, maker, rescuer, comforter; Word That Orders the Mess (for ordering my mess)
 -->
 
 &nbsp;
