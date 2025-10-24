@@ -4,7 +4,7 @@ title: Listen
 Category: Resources
 ---
 
-## Where to Listen
+## Where to Listen (and read)
 
 You can read each chapter as it becomes available here on this site or on Substack, where the audio is hosted. You may choose where to listen. Echo Future Truth audio will be released chapter by chapter on a weekly basis starting late 2025. Some chapters are short! Some are longer! Listen on Substack or via your favorite podcast player. 
 
