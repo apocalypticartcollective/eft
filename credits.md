@@ -3,7 +3,7 @@ layout: post
 title: Credits
 ---
 
-*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
+*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
 
 ## Acknowledgements
 
@@ -37,7 +37,28 @@ Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; 
 
 &nbsp;
 
-**Statement on AI**: every word in Echo Future Truth was written by the author. No AI was used in the writing, editing, or researching for this novel. 
+## works of special value to the author
+
+&nbsp;
+
+Mani by Patrick Leigh Fermor
+
+&nbsp;
+
+Deep into Mani, Journey to the Southern Tip of Greece by Peter Greenhalgh and Edward Eliopoulos
+
+&nbsp;
+
+The Problem of God by John Courtney Murray
+
+&nbsp;
+
+The Priestly Author of Genesis 1 and St. John of The Revelation for standing the edges and telling us what they make of the mystery.  
+
+
+&nbsp;
+
+**Statement on AI**: every word in Echo Future Truth was written by the author; no AI was used in the writing, editing, or researching for this novel. 
 
 &nbsp;
 
