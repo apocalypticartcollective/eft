@@ -1,26 +1,9 @@
-{% assign menu = site.data.menu %}
-
-{% if menu %}
-  <nav class="site-navigation" role="navigation">
-    <ul>
-      <li>
-        <a href="{{ '/' | prepend: site.baseurl }}">
-          Home
-        </a>
-      </li>
-    {% for item in site.data.menu %}
-      <li {% if page.url == item.url %}class="active"{% endif %}>
-        {% if item.url contains 'http' %}
-          <a href="{{ item.url }}">
-            {{ item.title }}
-          </a>
-        {% else %}
-          <a href="{{ item.url | prepend: site.baseurl }}">
-            {{ item.title }}
-          </a>
-        {% endif %}
-      </li>
-    {% endfor %}
-    </ul>
-  </nav>
-{% endif %}
+<aside class="site-contact" role="contentinfo" aria-label="Contact">
+  <p>
+    {% if site.email %}
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    {% else %}
+      <a href="mailto:you@example.com">you@example.com</a>
+    {% endif %}
+  </p>
+</aside>
