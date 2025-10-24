@@ -7,7 +7,7 @@ title: Credits
 
 ## Acknowledgements
 
-List of people who make me happy
+*List of people who make me happy goes here*
 
 <!--
 - Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
