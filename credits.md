@@ -3,7 +3,7 @@ layout: post
 title: Credits
 ---
 
-*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time in association with [Apocalyptic Art Collective](apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
+*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
 
 ## Acknowledgements
 
@@ -16,15 +16,15 @@ List of people who make me happy
 - Eric Mathis (early and eternal reader, epical support)
 - Marilyn Mcentyre (editing & encouragement)
 - Zoe Maddalena (vibe & inspiration)
-- Michael Toy (soul brother, believer, original critic of choice)
+- Michael Toy (soul brother, believer, universal colaborator, honest appraiser)
 - Linda Toy (soul sister, networker, encourager)
 - Kevin Marks (Original Field Trip Buddy) 
 - Marge Boots (graphics)
-- Russ Sampson (Saint Sampson, organizer of the *Tonopolo Trapped*)
+- Russ Sampson (Saint Sampson, organizer of the *Tonopolo readings*)
 - Everyone trapped at Tonopolo (great vibes, great listeners, great feedback)
 - Heather Fosth (third-stage rocket ignition)
 - Carla Mathis (prayer and wisdom, theater edition)
-- Mike McKenna (prayer and wisdom, tech edition, dependable encouragement)
+- Mike McKenna (prayer and wisdom, tech edition; dependable encouragement)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
 - Timothy Maddalena (Most Reassuring Fan, culture wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
