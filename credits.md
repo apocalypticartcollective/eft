@@ -33,7 +33,7 @@ List of people who make me happy
 
 &nbsp;
 
-Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; and OPTICloister font.
+Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; and layed out with OPTICloister font.
 
 &nbsp;
 
