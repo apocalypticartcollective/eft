@@ -11,7 +11,7 @@ That is, if you're listening along and thinking to yourself, "That's worth a tri
 
 <div style="text-align:center">
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="echofuturetruth" data-color="#606060" data-emoji="💰"  data-font="Lato" data-text="support the artist" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="echofuturetruth" data-color="#232323" data-emoji="☕"  data-font="Lato" data-text="Support the Artist" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 </div>
 
