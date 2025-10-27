@@ -4,11 +4,11 @@ title: About
 ---
 
 
-A Creation Story in Three Parts
+Echo Future Truth: A Creation Story in Three Parts
 
 &nbsp;
 
-If you're the kind of person that believes in a creator, then you have to believe that we are created to be *creative*. Made to make stuff, built to build, etc., and that this gift of creativity is meant to redound to the generosity of the one who made us. But, let's be honest: while we are spectacularly creative creatures, often our creations have more to say about our small fears, lusts, and greed than any good word about the meaning of life. *Echo Future Truth* considers the question of meaning from the perspective of a single, final, monumental creative work of humankind, designed to serve a final human being, whose own creativity is, at first, suppressed by the dwindling community surrounding her as she approaches the end, and then by the commodified community of a machine-curated reality that binds her thereafter. 
+If you're the kind of person that believes in a creator, then you may also believe that we are created to be *creative*. Made to make stuff, built to build, etc., and that this gift of creativity is meant to redound to the generosity of the one who made us. And yet, let's be honest: while we are spectacularly creative creatures, often our creations have more to say about our small fears, lusts, and greed than any good word about the meaning of life. *Echo Future Truth* considers the question of meaning from the perspective of a single, final, monumental creative work of humankind, designed to serve a final human being, whose own creativity will have to be unleashed for any of it to matter in the end. 
 
 &nbsp;
 

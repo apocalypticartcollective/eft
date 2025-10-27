@@ -37,7 +37,7 @@ Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat
 
 &nbsp;
 
-## Works of special value in the writing of this work
+## Works of Special Significance
 
 &nbsp;
 
