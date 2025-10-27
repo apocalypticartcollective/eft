@@ -37,7 +37,7 @@ Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat
 
 &nbsp;
 
-## works of special value in the writing of this work
+## Works of special value in the writing of this work
 
 &nbsp;
 
@@ -58,7 +58,9 @@ The Priestly Author of Genesis 1 and St. John of The Revelation for standing at 
 
 &nbsp;
 
-**Statement on AI**: every word in Echo Future Truth was written by the author; no AI was used in the writing, editing, or researching for this novel. 
+## Statement on AI
+
+Every word in Echo Future Truth was written by the author; no AI was used in the writing, editing, or researching for this novel. 
 
 &nbsp;
 
@@ -69,6 +71,5 @@ Echo Future Truth by D.P. Maddalena  © 2025, licensed under Creative Commons, &
 &nbsp;
 
 <div style="text-align:center">
-<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" alt='lectern' /><br />
-<em>The Beginning is Nigh</em>
+<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" alt='lectern' />
 </div>
