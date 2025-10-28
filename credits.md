@@ -10,21 +10,21 @@ title: Credits
 *List of people who make me happy goes here*
 
 <!--
-- Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
-- Nik Bartunek (engineering, marketing, commiseration without capitulation)
-- Julie Maddalena (voice coaching and studio support)
+- Bruce Charonnat (editing, design, promotion, production, vision, and chief provocateur)
+- Nik Bartunek (engineering, marketing, commiseration without capitulation, timely equipment dump)
+- Julie Maddalena (voice coaching and studio support, eye of newt and other medicinals)
 - Eric Mathis (early and eternal reader, epical and erical support)
 - Marilyn Mcentyre (editing & encouragement, publishing wisdom)
 - Zoe Maddalena (vibe & inspiration)
 - Michael Toy (soul brother, faithful and universal colaborator, honest assessor)
 - Linda Toy (soul sister, networker, encourager)
 - Kevin Marks (Original Field Trip Buddy) 
-- Marge Boots (graphics)
+- Marge Boots (graphics and <cough> typography support)
 - Russ Sampson (Saint Sampson, organizer of the *Tonopolo readings*)
-- Everyone trapped at Tonopolo (great vibes, great listeners, great feedback)
+- Everyone trapped at Tonopolo during the readings (great vibes, great listeners, great feedback)
 - Heather Fosth (third-stage rocket ignition)
 - Carla Mathis (prayer and wisdom, theater edition)
-- Mike McKenna (prayer and wisdom, tech edition; dependable encouragement)
+- Mike McKenna (prayer and wisdom, tech edition; faithful listener when it was only Shakespeare)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
 - Timothy Maddalena (Most Reassuring Fan, grounded wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
