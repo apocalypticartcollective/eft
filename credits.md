@@ -5,6 +5,8 @@ title: Credits
 
 *Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
 
+*Dedicated to Harry Reynolds and his bastard file, now never dull.* 
+
 ## Acknowledgements
 
 *List of people who make me happy goes here*

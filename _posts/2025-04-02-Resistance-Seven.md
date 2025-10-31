@@ -72,19 +72,19 @@ In second sealed room on the far side of the compound, the girl was asleep and d
 
 *A huge windstorm tore at the mountainside like a drunken giant stumbling against the cliff-side, crying out in search of some lost treasure. It was only a storm, but the mountain shook with it. Finally, the squall cleared: the sun, close to setting, burned through the retreating clouds to pierce the darkness of the cave, which opened to the West, face to the sea. But even this burning power was only prelude to some mightier agency, she sensed. This feeling also settled on the back of her head and neck like dust.*
 
-*A voice cut through the brightness, cut through the dark. That is, the light streaming into the cave was now, suddenly, shown to be dark compared to the sound of the word. It could also be said, if she had been able to find her own voice, that this word had* condescended *to ride the light of that setting sun. And though the light was dimmed to her eye, it had lost none of its own power in the bargain; like a golden bowl set in the hands of a blind beggar, no question of its value.*  *And for the first time in her life -- so much was being shown to her! She felt the intoxication of revelation! -- she thought, 'I now begin to understand the full meaning, the true nature, the ultimate paradox of light -- a wave and a particle; the First of All Things that remains the most common thing of all; life-power to plants, ultra-violet death to bacteria. Light ealing power to the revenant taking shaky steps out of the sick-room; also burning discipline to the fool in a bathing suit. ... Light! Banisher of darkness -- the revealer! Light! Blinding justice to all who prefer the dark -- the exposer!'*
+*A voice cut through the brightness, cut through the dark. That is, the light streaming into the cave was now, suddenly, shown to be dark compared to the sound of the word. It could also be said, if she had been able to find her own voice, that this word had* condescended *to ride the light of that setting sun. And though the light was dimmed to her eye, it had lost none of its own power in the bargain; like a golden bowl set in the hands of a blind beggar, no question of its value. And for the first time in her life -- so much was being shown to her! She felt the intoxication of revelation! -- she thought, 'I now begin to understand the full meaning, the true nature, the ultimate paradox of light -- a wave and a particle; the First of All Things that remains the most common thing of all; life-power to plants, ultra-violet death to bacteria. Light ealing power to the revenant taking shaky steps out of the sick-room; also burning discipline to the fool in a bathing suit. ... Light! Banisher of darkness -- the revealer! Light! Blinding justice to all who prefer the dark -- the exposer!'*
 
 *... But the truth was that she was only really thinking about the light because she was unable to think about* that voice *without ... without ....*
 
 *'Come!,' it insisted, clear, unmistakable, and somehow utterly confusing.*
 
-*She had little choice but to walk toward the opening of the cave, the light, and the Presence, shoulder to shoulder with the shivering figure who covered his face. She pitied him, imagining that she herself was secure against discovery, as if she had no face and therefore could not be exposed. Until ... they both emerged from the cave and came into the terrible silence revealed by that single word. 'Oh no!,' she thought with a wincing groan, realizing her mistake, 'My mask! I've lost my mask!'*
+*She had little choice but to walk toward the opening of the cave, the light, and the Presence, shoulder to shoulder with the shivering figure who covered his face. She pitied him, imagining that she herself was secure against discovery, as if, somehow, she had no face and therefore could not be exposed. Until ... they both emerged from the cave and came into the terrible silence revealed by that single word. 'Oh no!,' she thought with a wincing groan, realizing her mistake, 'My mask! I've lost my mask!'*
 
-*The voice came again, hidden in a wind born in the center of the vast expanse: 'Why are you here?'*
+*The voice came again, hidden in a wind born out of the center of a vast expanse: 'Why are you here?'*
 
 *Another ripple through her insides. And the shrinking figure next to her took a half-step forward, and answered with a cowering assertion: 'I have been very zealous for you, Mystery of Glory, though all your people have forgotten your words, torn down your temples, and terrorized the truth-tellers! I alone am left!' He finished on his knees, hands raised in a trembling semaphore that might have appeared to an observer equal parts worship and terror.*
 
-*And the voice, quiet but with the power to divide the mountain, spoke, and the aroma of it rushed over her like the smell of split rock: flint and ozone and sulfur. 'No. It isn't so. It's only pride that makes it seem that way. You have been zealous only in judgment. But in matters of mercy, you shrink and are in retreat. Go back. There are still those who have not become bent with fear, and some who have that might yet be saved. Get up and go back!'*
+*And the voice, quiet but with the power to divide the mountain, spoke, and the aroma of it rushed over her like the smell of split rock: flint and ozone and sulfur. 'No. It isn't so. It's only pride that makes it seem that way. You have been zealous only in judgment. But in matters of mercy, you shrink and are in retreat. Go back. There are still some not bent with fear, and some who are that might yet be saved. Get up and go back!'*
 
 *She felt her own stomach jump at the command; the ragged man shrank from the voice and retreated from the edge of the cliff. She turned to watch him go and saw her own coronal outline reflected in the iridescence of the damp cliff face, next to the mouth of the cave. She watched the humbled pilgrim stumble down the passage to a dark corner, climb into a marble box, and collapse -- decomposed -- into a pile of dry bones.*
 
@@ -92,14 +92,13 @@ In second sealed room on the far side of the compound, the girl was asleep and d
 
 The girl heard the command again, but this time the voice was a familiar one: 'Get up!'
 
-She opened her eyes and quickly sat up. The dream-image of her sun-lit body in silhouette had faded, and was replaced by the sight of her pale skin under artificial light reflected in a mirror from across the small room. She turned toward the source of the voice and saw a soldier
-'s face, maskless, grimacing at her from the screen by her bed. 
-'Yo! Time to get up! You have a meeting. There
-'s someone waiting for you, girl.'
+She opened her eyes and quickly sat up. The dream-image of her sun-lit body in silhouette had faded, and was replaced by the sight of her pale skin under artificial light reflected in a mirror from across the small room. She turned toward the source of the voice and saw a soldier's face, maskless, grimacing at her from the screen by her bed. 
 
-She rose and stood on the cold floor, shivering, and blinked against the brightening light. As warmer air blew in from unseen apertures, she began to move, pulling herself together for another uneventful day in her typical, boring, adolescent life. She swung open the glass door of the fridge set back in the wall and took out a drink marked with the date, a scanner-code, and some other numbers that meant nothing to her; she pried off the plastic lid and downed the purple juice, ignoring the slightly metallic taste. She carefully pushed a packaged muffin back against a second door on the opposite side of the box, a simple act of resistance calculated to communicate to hidden agents her dislike of bran. And muffins. And processed food in general.
+'Yo! Time to get up! You have a meeting. There's someone waiting for you, girl.'
 
-She removed a small package from a tray above the food. Peeling back a paper seal revealed a circle of thick adhesive around a disk of gel filled with tiny copper flecks. She tapped the patch against a wrist monitor, waited for a vibration in response, then lined it up with a circular rash on her forearm, where she pressed it down.
+She rose and stood on the cold floor, shivering, and blinked against the brightening light. As warmer air blew in from unseen apertures, she began to move, pulling herself together for another uneventful day in her typical, boring, adolescent life. She swung open the glass door of the fridge set back in the wall and took out a drink marked with the date, a scanner-code, and some other numbers that meant nothing to her; she pried off the lid and downed the purple juice, ignoring the slightly metallic taste. She carefully pushed a packaged muffin back against a second door on the opposite side of the box, a simple act of resistance calculated to communicate to hidden agents her dislike of bran. And muffins. And against pre-packaged food in general.
+
+She retrieved a small sealed tray from a shelf above the food. Peeling back a plastic covering revealed a circle of thick adhesive around a disk of gel filled with tiny copper flecks. She tapped the patch against a wrist monitor, waited for a vibration in response, then lined it up with a circular rash on her forearm, where she pressed it down.
 
 She skipped to the door and punched the panel next to it with the side of her fist. This action resulted in a disapproving 'Boop!'
 
@@ -107,7 +106,7 @@ She took a deep breath, and frowned. In slow motion she lined up her wrist with 
 
 'Beep!'
 
-She pushed her way into the hall, absentmindedly counting off armed soldiers in biohazard suits along the corridor. She turned to face the one to the right of her door, the soldier who'd appeared on her bedside monitor. His armored presence loomed above her, his face now mostly hidden behind a thick plastic face shield. She could see enough to know he was giving her his best war-face. She resisted a smile and scowled right back at him.
+She pushed her way into the hall, absentmindedly counting off armed soldiers in biohazard suits along the corridor. She turned to face one of them, to the right of her door, the soldier who'd appeared on her bedside monitor. His armored presence loomed above her, his face now mostly hidden behind a thick plastic face shield. She could see enough to know he was giving her his best war-face. She resisted a smile and scowled right back at him.
 
 She tossed her forehead up, 'Goose.'
 
@@ -128,7 +127,7 @@ He laughed and it shook his imposing frame, making all his layers of military eq
 She turned away. '*You* are not my wingman anymore.'
  
 
-She was directed through a maze of passages by a young technician whose name she couldn't remember.
+The girl was directed through a maze of passages by a young technician whose name she couldn't remember.
 
 At a point roughly halfway along their meandering route, they passed through a room with a large window on the south wall providing a view into an unfamiliar courtyard, where a surprising scene was playing out. There, a young man with a stunned look on his face lay on his back as if tackled, before a striking woman who stood over him frozen in a catatonic embrace ... of nothing. The girl came to a stop, then turned to look at the tech, who also seemed to have frozen as he looked out at the scene. She saw his name tag, '*Abdul*', remembered that he liked to be called ...
 

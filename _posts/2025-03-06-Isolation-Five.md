@@ -4,7 +4,7 @@ title: Isolation - Five
 category: Isolation
 ---
 
-## A Seat in the Bows is Dangerous
+## A Seat in the Bow is Dangerous
 
 *In his dream, Arpaxos was in a cavernous, cold, and sterile room. He wasn't alone. Two men in flowing lab coats could be seen, sitting opposite a child. The two older men leaned in, clutching their clipboards, with intense interest on their faces. The taller one looked nervous and frustrated, biting his thumbnail and glaring at the subject from under wild and scowling eyebrows. The shorter, and younger, of the two appeared more focused and confident in his task, an effect only a little undermined by his overgrown crew cut, thin beard, and disheveled appearance.*
 

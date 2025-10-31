@@ -26,7 +26,7 @@ It had been a harrowing process for the operators, because they couldn't predict
 
 *In her dream, she stood next to a river, alone and empty-handed, under a darkly radiant indigo sky. A short distance upstream, standing across from each-other on opposite banks, were two men in long, asphalt-gray cloaks, watching her, and holding clipboards in a way that she could only interpret as menacing. Somehow she knew that as soon as she made a move -- to go forward or return the way she came -- one of them would take her name down on his tablet. And on the other? There her name would remain unwritten and so forgotten. This would be the final record: once decided, no going back. They watched and waited unmoving, each atop a low heap of rubble, pens dripping dark ink, which trickled over the shattered stones and between them, navigating through the cracks to the hidden earth below. She felt unable to move, as though there was a great obstacle blocking her way. But she would not have been able to say whether that thing was outside of her, or inside.*
 
-*Her family had gone ahead, at her urging, and were now out of sight. In a kind of dream-terror she'd sent them, not knowing if they'd ever be together again. She gave them careful instructions to bow as they went, prostrating themselves before some looming confrontation, the details of which she could not recall. Everything she ever owned -- inherited treasure, stolen trinkets -- was also sent ahead, as payment of a debt, the relevance of which had also been forgotten.*
+*Her family had gone ahead, at her urging, and were now out of sight. In a kind of dream-terror she'd sent them, not knowing if they'd ever be together again. She'd given them careful instructions to bow as they went, prostrating themselves before some looming confrontation, the details of which she could not recall. Everything she ever owned -- inherited treasure, stolen trinkets -- was also sent ahead, as payment of a debt, the relevance of which had also been forgotten.*
 
 *A third presence revealed itself, across the water, standing between the shimmering, luminescent trees. She perceived that it was fear of this one that held the Watchers at bay*.
 
@@ -48,7 +48,7 @@ It had been a harrowing process for the operators, because they couldn't predict
 
 *'I can't choose. I won't.'*
 
-*'Ah. Your fate, and your privilege; clearly stated!' (Those trees, stirring again!) 'But, which is more true?'*
+*'Ahh. Your fate, and your privilege; clearly stated!' (Those trees, stirring again!) 'But, which is more true?'*
 
 *Her cheeks flushed. 'So laugh it up while I suffer; you won't have to wait long--I'm forced to choose and there's no way for me to know what's right, though I'm sure you'll let me know when I've chosen wrong.'*
 

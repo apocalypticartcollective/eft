@@ -25,7 +25,7 @@ The engineers were signed off, and the Director was the last to log out of the s
 
 This tension revealed itself in surprising ways in his relationships at the end: he was surprised to have experienced a kind of peace in the middle of profoundly uncomfortable circumstances. Much of this discomfort was caused by the increasing distance between the survivors. But some of the discomfort came by way of increased intimacy. He wasn't always comfortable around Brigid, but he had sought out her perspective more and more, even if it meant exposing himself to a passionate debate over one thing or another.
 
-He missed these arguments, because, while she may have challenged him endlessly, he also grew to believe that she *got him*, that she knew something about him that he himself didn't know so well, and that gave him a kind of peace at the end of the day. She seemed to believe that she had a claim on him, not merely to berate him for some past decision, but to insist on something better for the future, and even to insist on something better for himself.
+He missed the arguments, because, while she may have challenged him endlessly, he also grew to believe that she *saw him*, understood him, that she knew something about him that he himself maybe didn't know so well, and that gave him a kind of peace at the end of the day. She seemed to believe that she had some kind of claim on him, not only to berate him for some past decision, but to insist on something better for the future, even to insist on something better for himself.
 
 He would have been happy to explore the center of gravity that had begun to develop between them, where to be exposed was to be known. Time had run out on that connection, but he was glad that she, at least, was still able to respond to the pull she felt ... to the trees, and the ocean, in the North.
 
@@ -34,7 +34,7 @@ What possibilities for connection remained? None for him, he knew, but what abou
 He felt the urge to cross the square, burst into City Hall, and demand action. So he did.
  
 
-He pushed open the door, and walked across the hardwood floor, which creaked in a reassuring way. He approached the receptionist, who became alert to his presence in a way that appeared, somehow, aggressively passive. He displayed a pleasant authority suggesting years of experience, and he calmly met the Director's gaze as if Albert was not the first person ever to require his services, was not the first real interaction to have taken place in this room since it appeared on this spot exactly one week before.
+He pushed open the door, and walked across the hardwood floor, which creaked in a reassuring way. He approached the receptionist, who became alert to his presence in a way that appeared, somehow, aggressively passive. He displayed a pleasant authority suggesting years of experience, and he calmly met the Director's gaze as if Albert was not the first person ever to require his services, was not the first real interaction to have taken place in this room since it appeared out of nowhere, on this spot, exactly one week before.
 
 'Afternoon, how can I help?,' asked the man sitting behind the desk, at the boundary between worlds, front-door receptionist to the here-and-now ... back-door receptionist to the future. Above him, a curiously verbose printed notice: 'Paying your utility bill? Fill out form CC-106B-R and insert it with your check into one of the provided envelopes before depositing in the dropbox. Submissions without the form, or checks drawn on insufficient funds may result in suspension of services!'
 
@@ -44,9 +44,9 @@ Watching the clerk eagerly shuffle around to collect hardcopy documents containi
 
 The Director retreated to a small carrel near a bulletin board covered with advertisements for local events and services. *Cooking classes*. *Singing lessons*. *Auditions for a mime troupe*. Mime troupe ...? Where did that come from? Focus, Albert. No time to worry about the details, he told himself; the system was going to have to figure some things out for itself. Focus.
 
-Flipping through the large binder, he asked himself what he was looking for. The town was complete -- well-drawn, as it were. Yet it felt empty. Was he wasting his time searching for meaning in the mob of characters that made up the town, like the one behind the counter here? Finally, he knew that he had seen all there was to see. He knew that any face looking back at him would reveal nothing new because it could only reflect his own, which really meant the creeps could only reflect the limitations of a corporate process written in fear. *Made in the image of*. The creatures he'd foolishly brought into the world were hopelessly limited, developmentally disabled, and destined to carry on the family tradition of timidity and passivity. Saint Brigid had done her best for Medalion's bastard children; she insisted on more, for Eva's sake. She should have been set free, to use her full power.
+Flipping through the large binder, he asked himself what he was looking for. The town was complete -- well-drawn, as it were. Yet it felt empty. Was he wasting his time searching for meaning in the mob of characters that made up the town, like the one behind the counter here? Finally, he knew that he had seen all there was to see. He knew that any face looking back at him would reveal nothing new because it could only reflect his own, which really meant the creeps could only reflect the limitations of his own corporate process, written in fear. *Made in the image of*. The creatures he'd foolishly brought into the world were hopelessly limited, developmentally disabled, and destined to carry on the family tradition of timidity and passivity. Saint Brigid had done her best for Medalion's bastard children; she insisted on more, for Eva's sake. She should have been set free, to use her full power.
 
-A fire was growing in his belly, an unsettling, and he knew he was approaching a dangerous place -- not a line in the sand, but the edge of an abyss; a wide open place, without shape or boundary. The creeps should bear a better image, Eva deserved more. But what image was there to provide a better reference? What face might the Machine look into to learn its true purpose? There was only one face left, after all.
+A fire was growing in his belly, an unsettling, and he knew he was approaching a dangerous place -- not a line in the sand, but the edge of an abyss; a wide open place, chaotic, without shape or boundary. The creeps should bear a better image. Eva deserved more. But what image was there to provide a better reference? What face might the Machine look into to learn its true purpose? There was only one face left, after all.
 
 He slapped the binder shut, and carried it back to the receptionist whose eagerly empathetic face rose to meet him.
 
@@ -54,13 +54,15 @@ He slapped the binder shut, and carried it back to the receptionist whose eagerl
 
 'No. I did not.'
 
-The creep replied with an odd combination of regret and enthusiasm: 'I'm sorry to hear that! Is there anything else I can help you with?'
+The creep replied with a combination of regret and enthusiasm: 'I'm sorry to hear that! Is there anything else I can help you with?'
 
 Albert considered this last moment, this last act, searching, scanning internally, externally for any warning -- to stop, to leave well enough alone -- awake to any input, a sign, a check on his impulse to flip one last switch, or for some assurance that his work could be finished and that he could lay down to rest.
 
-They were right. Brigid, Eva, all of them. She wouldn't be free if the system was fixed. There could be no redemption without reciprocity. How did they expect her to appreciate the gift of life, relationship, community, if she were allowed to have no claim on the system she was a part of? She wasn't impressed when they told her that she'd been given a chance at a future, because, she said, they hadn't given her a choice. He knew he wasn't the one to make a choice for her, but he could give her the chance at a hopeful future by making a choice *possible*.
+They were right. Brigid, Abdul, Eva, all of them. She wouldn't be free if the system was fixed. There could be no redemption without reciprocity. How did they expect her to appreciate the gift of life, relationship, community, if she were allowed to have no claim on the system she was a part of? She wasn't impressed when they told her that she'd been given a chance at a future, because, she said, they hadn't given her a choice. 
 
-Albert turned again to the receptionist, who was now looking at him with a mix of concern and unsettling good humor.
+Alber knew he wasn't the one to make a choice for her. But he could give her the chance at a hopeful future by making a choice *possible*.
+
+He turned again to the receptionist, who was now looking at him with a mix of concern and unsettling good humor.
 
 The Director leaned forward, carefully placed his hand on the countertop, and spoke.
 
