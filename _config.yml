@@ -23,7 +23,7 @@ secretcode: A Creation Story in Three Parts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://echofuturetruth.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-icon: /assets/images/eft-icon.png
+icon: /assets/images/eft-icon.ico
 
 # Build settings
 markdown: kramdown
