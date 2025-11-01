@@ -36,3 +36,18 @@
     opacity: 1;
   }
 }
+
+/* Contact email under the menu */
+.site-contact {
+  text-align: center;
+  margin-top: .5rem;
+  p {
+    margin: .25rem 0;
+    font-size: .875em;
+  }
+  a {
+    color: $text-color;
+    text-decoration: none;
+    border-bottom: 1px dotted $muted-text-color;
+  }
+}

@@ -23,8 +23,8 @@ layout: default
     {% endif %}
     
     {% if site.title %}
-  <h3 class="site-secretcode">
-    {{ site.secretcode }}
+  <h3 class="site-author">
+    {{ site.author }}
   </h3>
 {% endif %}
 
@@ -37,7 +37,7 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Contents
+      Latest
     {% endif %}
   </h1>
 

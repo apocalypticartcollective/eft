@@ -1,0 +1,9 @@
+<aside class="site-contact" role="contentinfo" aria-label="Contact">
+  <p>
+    {% if site.email %}
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    {% else %}
+      <a href="mailto:you@example.com">you@example.com</a>
+    {% endif %}
+  </p>
+</aside>

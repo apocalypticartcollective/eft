@@ -3,41 +3,68 @@ layout: post
 title: Credits
 ---
 
-*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time in association with [Apocalyptic Art Collective](apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
+*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
+
+## Dedication
+
+*To Harry Reynolds and his bastard file, now never dull.* 
 
 ## Acknowledgements
 
-List of people who make me happy
+*List of people who make me happy goes here*
 
 <!--
-- Bruce Charonnat (editing, design, promotion, vision, and chief provocateur)
-- Nik Bartunek (engineering, marketing, commiseration without capitulation)
-- Julie Maddalena (voice coaching and studio support)
-- Eric Mathis (early and eternal reader, epical support)
-- Marilyn Mcentyre (editing & encouragement)
-- Zoe Maddalena (vibe & inspiration)
-- Michael Toy (soul brother, believer, original critic of choice)
+- Bruce Charonnat (editing, design, promotion and publication support, production, vision, and chief provocateur)
+- Nik Bartunek (engineering and marketing support, social media, photography, commiseration without capitulation, providential hand-me-downs)
+- Julie Maddalena (voice coaching and studio support, eye of newt and other medicinals)
+- Eric Mathis (early and eternal reader, epical and erical support)
+- Marilyn Mcentyre (editing & encouragement, publishing wisdom)
+- Zoe Maddalena (vibe & inspiration, straight talk)
+- Michael Toy (soul brother, faithful and universal colaborator, honest assessor)
 - Linda Toy (soul sister, networker, encourager)
 - Kevin Marks (Original Field Trip Buddy) 
-- Marge Boots (graphics)
-- Russ Sampson (Saint Sampson, organizer of the *Tonopolo Trapped*)
-- Everyone trapped at Tonopolo (great vibes, great listeners, great feedback)
+- Marge Boots (graphics and <cough> typography support)
+- Russ Sampson (Saint Sampson, organizer of the *Tonopolo readings*)
+- Everyone trapped at Tonopolo during the readings (great vibes, great listeners, great feedback)
 - Heather Fosth (third-stage rocket ignition)
 - Carla Mathis (prayer and wisdom, theater edition)
-- Mike McKenna (prayer and wisdom, tech edition, dependable encouragement)
+- Mike McKenna (prayer and wisdom, tech edition; brand fanboy)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
-- Timothy Maddalena (Most Reassuring Fan, culture wisdom)
+- Timothy Maddalena (Most Reassuring Fan, grounded wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
-- Finally: God -- maker, rescuer, comforter; word that orders the mess (for ordering my mess)
+- Finally, my God -- maker, rescuer, comforter; Word That Orders the Mess (for ordering my mess)
 -->
 
 &nbsp;
 
-Web design by D.P. Maddalena, based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; and OPTICloister font.
+Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; and layed out with OPTICloister font.
 
 &nbsp;
 
-**Statement on AI**: every word in Echo Future Truth was written by the author. No AI was used in the writing, editing, or researching for this novel. 
+## Thanks to these authors
+
+&nbsp;
+
+*Mani* by Patrick Leigh Fermor
+
+&nbsp;
+
+*Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos
+
+&nbsp;
+
+*The Problem of God* by John Courtney Murray
+
+&nbsp;
+
+The Priestly Author of *Genesis* 1 and St. John of *The Revelation* for standing at the threshold, looking past beginnings and endings, and capturing some of the mystery.  
+
+
+&nbsp;
+
+## Statement on AI
+
+Every word in Echo Future Truth was written by the author; no AI was used in the writing, editing, or researching for this novel. Some AI was used in the making of this website, but I don't claim to be a web developer.
 
 &nbsp;
 
@@ -48,6 +75,5 @@ Echo Future Truth by D.P. Maddalena  © 2025, licensed under Creative Commons, &
 &nbsp;
 
 <div style="text-align:center">
-<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" alt='lectern' /><br />
-<em>The Beginning is Nigh</em>
+<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" alt='lectern' />
 </div>
