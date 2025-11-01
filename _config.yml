@@ -14,7 +14,7 @@ author: By D.P. Maddalena
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://echofuturetruth.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-icon: /assets/images/eft-icon.ico
+icon: /assets/images/favicon.ico
 
 email: hello@echofuturetruth.com
 
