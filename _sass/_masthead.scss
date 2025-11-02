@@ -17,52 +17,35 @@
   word-wrap: break-word;
 }
 
-/* If you insert a manual break inside the title use a span like:
-   <h1>First part <span class="mobile-break">Second part</span></h1>
-   Keep the break span inline-block so it inherits/obeys line-height reliably. */
-.mobile-break {
-  display: inline-block;
-  line-height: 1.02; /* keep the span compact too */
-  margin: 0;
-  padding: 0;
-}
-
 /* On larger screens where the title normally fits in one line, raise the line-height for rhythm */
 @media (min-width: $on-tablet) {
   .site-masthead h1 {
     font-size: 6em;
     line-height: 1.25;
   }
+  
   /* ensure break span also follows the higher line-height when present */
   .mobile-break {
     line-height: 1.25;
   }
-}
 
-/* You can keep a mobile-only rule if needed, but avoid line-height:0 */
-@media (max-width: ($on-tablet - 1px)) {
-  .mobile-break {
-    /* inline-block + compact line-height is already set above.
-       if you want to force a specific smaller font size or letter-spacing
-       on the wrapped part, do that here. */
-    /* e.g. font-size: 0.98em; */
-  }
-}
 
 .site-masthead h2 {
   color: $muted-text-color;
   font-size: 1.25em;
-  margin: 0;
+  margin-bottom: 0;
+  margin-top: .5;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
     font-size: 3em;
   }
 }
 
-.site-masthead .site-author {
+.site-masthead h3 {
   color: $muted-text-color;
   font-size: 1em;
-  margin: 0;
+  margin-bottom: 0;
+  margin-top: 1;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
     font-size: 2em; 
