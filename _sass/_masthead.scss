@@ -9,8 +9,31 @@
   margin-bottom: 0;
   margin-top: 1em;
   padding: 0 2rem;
+  line-height: 1.25; // desktop baseline — adjust if you want different spacing on wide screens
+
   @media (min-width: $on-tablet) {
     font-size: 6em;
+  }
+
+// tighten vertical spacing when viewport is smaller than $on-tablet
+
+  @media (max-width: ($on-tablet - 1px)) {
+    line-height: 1.02; // tweak between 1.00 and 1.10 for best results; 1.02 is a good start
+    // optional: slightly reduce font-size on very small screens to avoid extra wrapping
+    // font-size: 2.6em;
+  }
+}
+
+// mobile-only break element: hidden on wide screens, shown on small screens
+
+.mobile-break { display: none; }
+
+@media (max-width: ($on-tablet - 1px)) {
+  .mobile-break {
+    display: block;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
   }
 }
 
