@@ -23,9 +23,6 @@
   }
 }
 
-/* mobile-only break element: hidden on wide screens, shown on small screens
-   (keep if you still use <br class="mobile-break"> elsewhere) */
-.mobile-break { display: none; }
 
 @media (max-width: ($on-tablet - 1px)) {
   .mobile-break {
@@ -40,7 +37,6 @@
 .site-masthead h2 {
   color: $muted-text-color;
   font-size: 1.25em;
-  margin-top: 3em;
   margin: 0;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
