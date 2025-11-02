@@ -10,29 +10,44 @@
   margin-top: 1em;
   padding: 0 2rem;
 
-  // Use a tight baseline by default so whenever the title wraps it will use this
-  // compact spacing (1.02). On wide screens where the heading is single-line,
-  // restore a more relaxed desktop line-height via the min-width rule below.
+  // Tight baseline by default so wrapped titles are compact
   line-height: 1.02;
+  /* Make sure the heading and its internal break spans behave consistently */
+  display: block;
+  word-wrap: break-word;
+}
 
-  @media (min-width: $on-tablet) {
+/* If you insert a manual break inside the title use a span like:
+   <h1>First part <span class="mobile-break">Second part</span></h1>
+   Keep the break span inline-block so it inherits/obeys line-height reliably. */
+.mobile-break {
+  display: inline-block;
+  line-height: 1.02; /* keep the span compact too */
+  margin: 0;
+  padding: 0;
+}
+
+/* On larger screens where the title normally fits in one line, raise the line-height for rhythm */
+@media (min-width: $on-tablet) {
+  .site-masthead h1 {
     font-size: 6em;
-    // On tablet/desktop we typically have enough horizontal space for one line,
-    // so increase the line-height for better vertical rhythm there.
+    line-height: 1.25;
+  }
+  /* ensure break span also follows the higher line-height when present */
+  .mobile-break {
     line-height: 1.25;
   }
 }
 
-
+/* You can keep a mobile-only rule if needed, but avoid line-height:0 */
 @media (max-width: ($on-tablet - 1px)) {
   .mobile-break {
-    display: block;
-    line-height: 0;
-    margin: 0;
-    padding: 0;
+    /* inline-block + compact line-height is already set above.
+       if you want to force a specific smaller font size or letter-spacing
+       on the wrapped part, do that here. */
+    /* e.g. font-size: 0.98em; */
   }
 }
-
 
 .site-masthead h2 {
   color: $muted-text-color;
