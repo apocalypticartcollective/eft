@@ -12,8 +12,7 @@ layout: default
   
     {% if site.title %}   
    <h1>
-  {%- assign words = site.title | split: ' ' -%}
-  {{ words[0] }}<br class="mobile-break"> {{ words[1] }} {{ words[2] }}
+  {{ site.title }}
   </h1>
   {% endif %}
    
