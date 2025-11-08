@@ -51,3 +51,32 @@
     font-size: 2em; 
   }
 }
+
+/* ---- Additional rules to adjust spacing between title, subtitle, and author ----
+   These rules only change margins/display. They do NOT touch line-height or the
+   .mobile-break rules, so wrapped titles will keep the existing line-height behavior.
+*/
+.site-masthead .site-title-group {
+  display: inline-block;       /* treat title+subtitle as one visual unit */
+  margin-bottom: 0.9rem;       /* distance between that unit and the author */
+}
+
+/* tighten gap between title and subtitle so the subtitle reads attached to title */
+.site-masthead .site-title-group .site-title {
+  /* original file sets margin-bottom: 0 on .site-masthead h1; we give a tiny gap */
+  margin-bottom: 0.12rem;
+}
+
+/* ensure subtitle stays attached to the title block; do NOT change line-height */
+.site-masthead .site-title-group .site-description {
+  margin-top: 0;
+  margin-bottom: 0;
+  /* keep existing font-size rules already set by .site-masthead h2 */
+}
+
+/* push author farther away from subtitle to visually separate it */
+.site-masthead .site-author {
+  margin-top: 1.4rem;
+  margin-bottom: 0;
+  /* keep existing font-size & color via .site-masthead h3 */
+}

@@ -10,30 +10,31 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
   
-    {% if site.title %}   
-   <h1>
-  {{ site.title }}
-  </h1>
-  {% endif %}
-   
     {% if site.title %}
-      <h2>
-        {{ site.description }}
-      </h2>
+      <div class="site-title-group">
+        <h1 class="site-title">
+          {{ site.title }}
+        </h1>
+        {% if site.description %}
+          <h2 class="site-description">
+            {{ site.description }}
+          </h2>
+        {% endif %}
+      </div>
     {% endif %}
     
-    {% if site.title %}
-       <h3>
-         {{ site.author }}
-       </h3>
-{% endif %}
+    {% if site.author %}
+      <h3 class="site-author">
+        {{ site.author }}
+      </h3>
+    {% endif %}
 
   </header>
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
 
-  <h1 class="content-title divided">
+   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
