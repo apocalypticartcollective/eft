@@ -16,9 +16,9 @@ email: hello@echofuturetruth.com
 markdown: kramdown
 
 kramdown:
-  smart_quotes: ["apos", "apos", "quot", "quot"]
   input: GFM
   entity_output: as_char
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
   typographic_symbols:
     hellip: "..."
 
