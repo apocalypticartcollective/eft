@@ -7,10 +7,13 @@ layout: post
 
 ## The Guerilla's Dream
 
+<div align='center'>
 <audio controls preload="none" playsinline>
   <source src="/assets/audio/eft-abr-pro.mp3" type="audio/mpeg">
 </audio>
+</div>
 
+&nbsp;
 
 The woman was asleep, and dreaming.
 
