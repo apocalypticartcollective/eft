@@ -36,6 +36,7 @@
   margin-bottom: 0;
   margin-top: .5;
   padding: 0 2rem;
+  font-style: italic;
   @media (min-width: $on-tablet) {
     font-size: 3em;
   }
@@ -64,7 +65,7 @@
 /* tighten gap between title and subtitle so the subtitle reads attached to title */
 .site-masthead .site-title-group .site-title {
   /* original file sets margin-bottom: 0 on .site-masthead h1; we give a tiny gap */
-  margin-bottom: 0.12rem;
+  margin-bottom: 0.10rem;
 }
 
 /* ensure subtitle stays attached to the title block; do NOT change line-height */
@@ -76,7 +77,7 @@
 
 /* push author farther away from subtitle to visually separate it */
 .site-masthead .site-author {
-  margin-top: 1.4rem;
+  margin-top: 1.5rem;
   margin-bottom: 0;
   /* keep existing font-size & color via .site-masthead h3 */
 }
