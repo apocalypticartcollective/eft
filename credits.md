@@ -41,6 +41,7 @@ Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat
 
 &nbsp;
 
+<!--
 ## Thanks to these authors
 
 &nbsp;
@@ -58,13 +59,13 @@ Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat
 &nbsp;
 
 The Priestly Author of *Genesis* 1 and St. John of *The Revelation* for standing at the threshold, looking past beginnings and endings, and capturing some of the mystery.  
-
+-->
 
 &nbsp;
 
 ## Statement on AI
 
-Every word in Echo Future Truth was written by the author; no AI was used in the writing, editing, or researching for this novel. Some AI was used in the making of this website, but I don't claim to be a web developer.
+No AI was used in the creation of this work: all writing, editing, and research was done by the author (with the exception of editorial support performed by human beings as noted elsewhere on this page). Some AI was used to support the development of this website -- the author does not claim to be a web developer.
 
 &nbsp;
 
