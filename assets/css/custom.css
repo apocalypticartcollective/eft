@@ -29,19 +29,9 @@ body {
   font-family: 'OptiCloister', 'EB Garamond', Times, 'Times New Roman', serif;
 }
 
-/* Ensure post content is left-aligned */
-.post,
-.post-content,
-.post-body,
-.entry-content,
-article.post,
-.page.post {
-  text-align: left;
-}
 
-/* If a layout-specific class is added to <body> (see next section),
-   this is a more specific rule that avoids !important */
-body.layout-post .post,
-body.layout-post .post-content {
-  text-align: left;
+/* Ensure post content is left-aligned even if main.css sets more specific selectors */
+article.post .post-content,
+article.post .post-content p {
+  text-align: left !important;
 }
