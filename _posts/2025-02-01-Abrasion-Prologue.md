@@ -4,6 +4,11 @@ author: D.P. Maddalena
 category: Abrasion
 layout: post
 ---
+
+## The Guerilla's Dream
+
+&nbsp;
+
 <div align='center'>
 <audio controls preload="none" playsinline>
   <source src="/assets/audio/eft-abr-pro.mp3" type="audio/mpeg">
@@ -11,9 +16,6 @@ layout: post
 </div>
 
 &nbsp;
-
-## The Guerilla's Dream
-
 
 The woman was asleep, and dreaming.
 
