@@ -6,14 +6,16 @@ category: Resistance
 
 ## Resistance
 
+<div align='center'>
+
 A Story About<br />
 Creation at the End<br />
-Of the World<br />
+Of the World
 
-
+</div>
 
 <div style="text-align:center">
-<img src="{{ '/assets/images/resistance.png' | relative_url }}" alt="alternate text" />
+<img src="{{ '/assets/images/resistance.png' | relative_url }}" />
 </div>
 
 
