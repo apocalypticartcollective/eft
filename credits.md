@@ -37,7 +37,7 @@ title: Credits
 
 &nbsp;
 
-Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou (Athens, Greece, ca. 1945) and layed out with OPTICloister font.
+Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by Pat Dryburgh; artwork by Spyros Vassiliou (ca. 1945); site laid out with OPTICloister font.
 
 &nbsp;
 
