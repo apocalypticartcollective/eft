@@ -15,8 +15,11 @@
     {% endif %}
   {% endfor %}
 
-  
-  
+  {%- comment -%}
+    Class logic:
+      - .both: place prev at left and next at right (space-between)
+      - .single: center the single available link
+  {%- endcomment -%}
   {% if prev_post and next_post %}
     {% assign nav_class = "post-navigation both" %}
   {% elsif prev_post or next_post %}
@@ -31,10 +34,6 @@
         ←
         <span class="post-nav-title">{{ prev_post.title }}</span>
       </a>
-    {% endif %}
-
-    {% if prev_post and next_post %}
-      <span class="post-nav-sep" aria-hidden="true"> | </span>
     {% endif %}
 
     {% if next_post %}

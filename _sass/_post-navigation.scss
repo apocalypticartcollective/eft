@@ -3,23 +3,18 @@
 /* Wrapper sits under the post content and centers the nav container */
 .post-navigation-wrapper {
   margin-top: 3rem;
-  text-align: center; /* ensures the nav container is centered if it is narrower than the article */
+  text-align: center; /* centers the nav container when narrower than content */
 }
 
-/* Default nav styling — the nav will stretch to the available content width */
+/* Default nav styling — the nav stretches to the content width */
 .post-navigation {
   display: flex;
   align-items: center;
   width: 100%;
-  /* If you want to constrain nav width to the main content column,
-     you can set max-width to the same value your content uses, e.g.
-     max-width: 48rem;
-     margin: 0 auto;
-  */
   gap: 1rem;
 }
 
-/* When both links exist, push them to the edges */
+/* When both links exist, push them to the edges of the content column */
 .post-navigation.both {
   justify-content: space-between;
 }
@@ -29,29 +24,28 @@
   justify-content: center;
 }
 
-/* Muted color usage from your variables */
+/* Use your site muted color variable */
 $post-muted: $muted-text-color !default;
 
 .post-nav-link {
   padding: 0.4rem 0.8rem;
-  border: 1px solid rgba($post-muted, 0.18);
+  border: none; /* removed border as requested */
   border-radius: 4px;
   text-decoration: none;
   color: $post-muted;
   background: transparent;
-  transition: background-color 160ms ease, color 160ms ease, border-color 160ms ease;
+  transition: background-color 160ms ease, color 160ms ease;
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
   font-weight: 500;
 }
 
-/* Hover affordance */
+/* Subtle hover/focus affordance without adding a visible border */
 .post-nav-link:hover,
 .post-nav-link:focus {
   background: rgba($post-muted, 0.04);
   color: rgba($post-muted, 0.95);
-  border-color: rgba($post-muted, 0.28);
   outline: none;
 }
 
@@ -66,5 +60,5 @@ $post-muted: $muted-text-color !default;
 .post-nav-prev .post-nav-title { margin-left: .25rem; }
 .post-nav-next .post-nav-title { margin-right: .25rem; }
 
-/* hide separator if not needed (safety) */
-.post-nav-sep { color: rgba($post-muted, 0.6); margin: 0 .5rem; }
+/* separator removed entirely — no stray pipe or nbsp shown */
+.post-nav-sep { display: none; }
