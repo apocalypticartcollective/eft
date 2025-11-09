@@ -29,3 +29,6 @@ Finally, from desolation she would rise, one final time, high above the ruin, to
 
 This was the entire dream. This dream was hidden from the watchers; and the woman herself would struggle to recall it when she woke. Whenever she had a long sleep she dreamed the entire dream; and every time she was put to sleep for a long time, the dream was always the same. And the duration of the dream was always the same: from the time the dream began to the time it ended, twenty-five years would pass.
 
+<div style="text-align:center">
+<img src="{{ '/assets/images/divider.svg' | relative_url }}" />
+</div>

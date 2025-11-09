@@ -1,4 +1,4 @@
-.post-navigation-wrapper { margin-top: 2rem; }
+.post-navigation-wrapper { margin-top: 3rem; }
 .post-navigation { display: flex; justify-content: space-between; gap: 1rem; align-items: center; }
 .post-nav-link { padding: 0.5rem 1rem; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: inherit; background: #fff; }
 .post-nav-link:hover { background: #f6f6f6; }

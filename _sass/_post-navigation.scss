@@ -1,0 +1,70 @@
+@import "variables";
+
+/* Wrapper sits under the post content and centers the nav container */
+.post-navigation-wrapper {
+  margin-top: 3rem;
+  text-align: center; /* ensures the nav container is centered if it is narrower than the article */
+}
+
+/* Default nav styling — the nav will stretch to the available content width */
+.post-navigation {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* If you want to constrain nav width to the main content column,
+     you can set max-width to the same value your content uses, e.g.
+     max-width: 48rem;
+     margin: 0 auto;
+  */
+  gap: 1rem;
+}
+
+/* When both links exist, push them to the edges */
+.post-navigation.both {
+  justify-content: space-between;
+}
+
+/* When only one link exists, center it */
+.post-navigation.single {
+  justify-content: center;
+}
+
+/* Muted color usage from your variables */
+$post-muted: $muted-text-color !default;
+
+.post-nav-link {
+  padding: 0.4rem 0.8rem;
+  border: 1px solid rgba($post-muted, 0.18);
+  border-radius: 4px;
+  text-decoration: none;
+  color: $post-muted;
+  background: transparent;
+  transition: background-color 160ms ease, color 160ms ease, border-color 160ms ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+
+/* Hover affordance */
+.post-nav-link:hover,
+.post-nav-link:focus {
+  background: rgba($post-muted, 0.04);
+  color: rgba($post-muted, 0.95);
+  border-color: rgba($post-muted, 0.28);
+  outline: none;
+}
+
+/* Title text within the link follows the muted color */
+.post-nav-title {
+  display: inline-block;
+  color: inherit;
+  font-weight: 500;
+}
+
+/* small spacing tweaks */
+.post-nav-prev .post-nav-title { margin-left: .25rem; }
+.post-nav-next .post-nav-title { margin-right: .25rem; }
+
+/* hide separator if not needed (safety) */
+.post-nav-sep { color: rgba($post-muted, 0.6); margin: 0 .5rem; }

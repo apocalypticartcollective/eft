@@ -1,4 +1,4 @@
-<div class="post-navigation-wrapper" style="text-align: center;">
+<div class="post-navigation-wrapper">
 
   {% assign ordered_posts = site.posts | sort: "date" %}
   {% for p in ordered_posts %}
@@ -15,22 +15,32 @@
     {% endif %}
   {% endfor %}
 
-  <nav class="post-navigation" role="navigation" aria-label="Post navigation" style="display: inline-block;">
+  
+  
+  {% if prev_post and next_post %}
+    {% assign nav_class = "post-navigation both" %}
+  {% elsif prev_post or next_post %}
+    {% assign nav_class = "post-navigation single" %}
+  {% else %}
+    {% assign nav_class = "post-navigation none" %}
+  {% endif %}
+
+  <nav class="{{ nav_class }}" role="navigation" aria-label="Post navigation">
     {% if prev_post %}
       <a class="post-nav-link post-nav-prev" href="{{ prev_post.url | relative_url }}" title="{{ prev_post.title }}">
-        &larr;
+        ←
         <span class="post-nav-title">{{ prev_post.title }}</span>
       </a>
     {% endif %}
 
     {% if prev_post and next_post %}
-      &nbsp; | &nbsp;
+      <span class="post-nav-sep" aria-hidden="true"> | </span>
     {% endif %}
 
     {% if next_post %}
       <a class="post-nav-link post-nav-next" href="{{ next_post.url | relative_url }}" title="{{ next_post.title }}">
         <span class="post-nav-title">{{ next_post.title }}</span>
-        &rarr;
+        →
       </a>
     {% endif %}
   </nav>
