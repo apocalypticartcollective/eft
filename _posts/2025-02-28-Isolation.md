@@ -8,6 +8,8 @@ category: Isolation
 
 <div align='center'>
 
+&nbsp;<br />
+
 A Story About<br />
 The Present<br />
 In Pictures

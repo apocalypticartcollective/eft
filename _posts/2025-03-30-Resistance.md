@@ -8,6 +8,8 @@ category: Resistance
 
 <div align='center'>
 
+&nbsp;<br />
+
 A Story About<br />
 Creation at the End<br />
 Of the World
