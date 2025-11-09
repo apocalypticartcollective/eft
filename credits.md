@@ -45,7 +45,7 @@ Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by
 
 *Some of what I was marinating in during this project.* 
 
-*A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein (architecture as manifesto for human-centered design); *The Problem of God* by John Courtney Murray (on the essential I Am); *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos (travel writing as a peek into primitive culture at the threshold of modernism); The Priestly Author of *Genesis* 1 and St. John of *The Revelation* (who stand at the threshold looking past beginnings and endings, and captured some of the mystery); every technology podcast.  
+*A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein (architecture as manifesto for human-centered design); *The Problem of God* by John Courtney Murray (on the essential I Am); *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos (travel writing as a peek into primitive culture at the threshold of modernism); The Priestly Author of *Genesis* chapter 1 and St. John of *The Revelation* (who stand at the threshold looking past beginnings and endings, and capture some of the mystery); every technology podcast.  
 
 &nbsp;
 
