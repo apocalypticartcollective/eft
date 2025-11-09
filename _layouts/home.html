@@ -2,79 +2,39 @@
 layout: default
 ---
 
-{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+<header class="site-masthead">
   {% include menu.html %}
-{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include back-link.html %}
-{% else %}
-  <header class="site-masthead">
-    {% include menu.html %}
   
-    {% if site.title %}
-      <div class="site-title-group">
-        <h1 class="site-title">
-          {{ site.title }}
-        </h1>
-        {% if site.description %}
-          <h2 class="site-description">
-            {{ site.description }}
-          </h2>
-        {% endif %}
-      </div>
-    {% endif %}
-    
-    {% if site.author %}
-      <h3 class="site-author">
-        {{ site.author }}
-      </h3>
-    {% endif %}
-
-  </header>
-{% endif %}
+  {% if site.title %}
+    <div class="site-title-group">
+      <h1 class="site-title">
+        {{ site.title }}
+      </h1>
+      {% if site.description %}
+        <h2 class="site-description">
+          {{ site.description }}
+        </h2>
+      {% endif %}
+    </div>
+  {% endif %}
+  
+  {% if site.author %}
+    <h3 class="site-author">
+      {{ site.author }}
+    </h3>
+  {% endif %}
+</header>
 
 <main class="home" id="main" role="main" aria-label="Content">
 
-   <h1 class="content-title divided">
-
-      Latest
-
+  <h1 class="content-title divided">
+    Latest
   </h1>
 
-  {% if site.paginate and site.paginate_path %}
-    
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-
-    {% if paginator.total_pages > 1 %}
-
-      <div class="post-pagination">
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-      </div>
-
-    {% endif %}
-
-  {% else %}
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-  
-  {% endif %}
-    
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% include post-list-item.html %}
+    {% endfor %}
+  </ul>
 
 </main>
