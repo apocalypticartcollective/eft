@@ -4,7 +4,7 @@ author: D.P. Maddalena
 category: Abrasion
 layout: post
 ---
-<div text-align="center">
+<div align='center'>
 <audio controls preload="none" playsinline>
   <source src="/assets/audio/eft-abr-pro.mp3" type="audio/mpeg">
 </audio>
