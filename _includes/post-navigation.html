@@ -1,10 +1,4 @@
 <div class="post-navigation-wrapper">
-  {%- comment -%}
-  We build an ordered list of posts by date ascending so:
-  - prev_post = older post (earlier date)
-  - next_post = newer post (later date)
-  This avoids confusion with Jekyll's default ordering.
-  {%- endcomment -%}
 
   {% assign ordered_posts = site.posts | sort: "date" %}
   {% for p in ordered_posts %}
@@ -24,14 +18,17 @@
   <nav class="post-navigation" role="navigation" aria-label="Post navigation">
     {% if prev_post %}
       <a class="post-nav-link post-nav-prev" href="{{ prev_post.url | relative_url }}" title="{{ prev_post.title }}">
-        &larr; Previous
+        &larr;
         <span class="post-nav-title">{{ prev_post.title }}</span>
       </a>
     {% endif %}
+    
+    &nbsp; | &nbsp;
+    
     {% if next_post %}
       <a class="post-nav-link post-nav-next" href="{{ next_post.url | relative_url }}" title="{{ next_post.title }}">
         <span class="post-nav-title">{{ next_post.title }}</span>
-        Next &rarr;
+        &rarr;
       </a>
     {% endif %}
   </nav>
