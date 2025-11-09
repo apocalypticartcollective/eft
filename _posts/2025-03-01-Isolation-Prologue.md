@@ -6,6 +6,19 @@ category: Isolation
 
 ## To Understand a Proverb and Its Interpretation, the Words of the Wise and Their Dark Sayings
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-pro.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 Standing up from the single, rush-covered chair, the philosopher Arpaxos broke the chill silence with a sharp intake of breath. He took two shaky, sibilant steps across the marble floor in the direction of the apse, extending his hand toward the icon. At the sight of his dirt-stained fingers he drew back in a grip of shame.
 
 But why? This was no museum. No alarm would sound if he touched the art. In fact there was little sign this tiny room had benefited in 900 years from either curate or curator. The single portrait was tilted a little too casually against the back of the chapel. White plaster walls rose to a half-dome above the narrow, uneven shelf littered with spent matches, thin beeswax candles, and a dented plastic water bottle holding decanted oil for a makeshift lamp. Leaning a little more carefully against the image were three tamata: a hand, a ship, and an eye. The hand and the eye, stamped from real silver, were tarnished and dull. Miracles had been done here. Or had been looked for.

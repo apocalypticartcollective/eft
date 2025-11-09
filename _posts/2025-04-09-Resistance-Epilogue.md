@@ -4,7 +4,20 @@ title: Resistance - Epilogue
 category: Resistance
 ---
 
-## Void (Check)
+## Void Check
+
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-epi.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
 
 He was feeling un-made, as if all the parts of his body were no longer separate, but blending together into a churning, indistinct mass; it was hard to keep track of all his symptoms. He awoke on this morning to a throbbing pain in his joints, which sent him into a brief panic until he remembered that he had been feeling the same thing for weeks. This confusion of thought paralleled the breakdown of his body's systems, and it stoked a fear that had been building for some time. He was afraid, but not about the end. He gave no more thought to survival, had no concern for death -- his own, or Eva's. He would die, she would not. But he was thinking a lot about what he was leaving behind.
 
@@ -67,6 +80,8 @@ He turned again to the receptionist, who was now looking at him with a mix of co
 The Director leaned forward, carefully placed his hand on the countertop, and spoke.
 
 'I'd like to file a complaint.'
+
+&nbsp;
 
 &nbsp;
 

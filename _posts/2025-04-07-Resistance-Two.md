@@ -6,6 +6,19 @@ category: Resistance
 
 ## Heaven Freezes Over
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-two.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 A half-hour later the Director had joined her, and he'd brought tea. He was eager to report on his talk with Eva and discuss the girl's response to the news that she would not be "alone" when she woke up *alone*. He also very much wanted to process his own experience of the conversation, which had left him feeling uncomfortable -- he didn't get the chance: he hadn't considered that Brigid would also be hearing much of the same information for the first time.
 
 Normally, he would have been excited to share the story -- how Medalion had been able to reproduce a limitless array of things from the "raw material" of the *swarm*, even to the point of creating fully habitable environments filled with dynamic community life. But there was nothing normal about these conversations anymore, and the audiences were less friendly now than they used to be. He could see that Brigid was no longer listening, and so he allowed a moment of silence, that she might gather her thoughts; it could be a lot to take in.

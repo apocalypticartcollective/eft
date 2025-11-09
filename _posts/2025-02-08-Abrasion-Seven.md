@@ -6,6 +6,19 @@ category: Abrasion
 
 ## Rest
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-abr-seven.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 After several months of labor, a simple group of structures were taking shape outside of town. The work was slow, even with the help of the *neighbors*, who had provided mortar for the walls, to bind the rubble of ancient buildings together again. The neighbors. She was trying to find new, less-disparaging ways to acknowledge the creeps, on whom their survival continued to depend, and whose help was, now and then, still very much appreciated. They could, if they wanted to, rely on the collective for *all* their needs. But the two of them preferred to work by hand, chiseling and lifting, together. Time and effort were gifts, and she treasured being alive and awake. It didn't matter how hard the work was. And anyway, the important thing was that the *toil* had ended. Her yearning against the crushing burden of eternal solitude was over: from now on, all effort was shared, and all effort would be joy. Her hands were becoming rough like his.
 
 Nor did it matter that their home was currently little more than four walls and a roof -- it was a real house, made of real stuff, and it soon would have many rooms. The walls were thick and painted white with lime from the lowlands to the east. They'd settled a short distance from town, below the summit of a gentle rise. From their porch they could see hills to the west, and sometimes smell the sea. In the other direction was a long low valley with a great body of water stretching away to the north.

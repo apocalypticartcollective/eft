@@ -6,6 +6,19 @@ category: Isolation
 
 ## Consult Not the Physician, but the One Who Has Been Ill
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-one.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 Evie looked down at him from the threshold. She stood apart, appearing untroubled, as if she existed in a reality entirely different from the one in which he lay pinned on the ground with a soldier's knee on his neck. Gloved hands held his limbs, and something cold and hard was pressed to the side of his head. But he was no longer struggling against the small army that had filled his sister's apartment, and it seemed they no longer regarded him as a threat: hands and voices gradually softened. A soldier, almost completely obscured behind full armor, leaned down to look into his face. She was asking something. He couldn't make out her words though she appeared to be shouting ... 'Sir what is your ... [ringing in his ears] ... Can you ... [a shout and hail of gunfire outside the apartment] ... relationship to the ...?' The commotion outside got the attention of the two by the door. One of the soldiers quickly raised his weapon and moved toward the noise. Two concussive gunshots, far louder than the previous volley, and out of the silence that followed he heard Evie's steady voice and knew that she was saying that he was her father, because that had been his instruction to her. From the way the soldiers looked at each other and the tone of the brief conversation that followed, he could tell that her mother and father were known to be dead. A man in civilian clothes began to survey the pile of bags near the door, easily identifying those belonging to the girl by the bright colors and cartoon branding of an earlier age.
 
 There were more voices, but he couldn't hear what was being said above the rising fear in his head. He knew that he was losing her. He had really known for some time, but wanted to believe that he had a right to steal her away and keep her to himself.

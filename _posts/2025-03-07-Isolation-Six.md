@@ -6,6 +6,19 @@ category: Isolation
 
 ## Truth Lies at the Bottom of a Well
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-six.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 She was right to be angry. She was right to be angry at the machine for grinding her down until she could be made to fit into the fearsome hole at the center of the world. She was right to be angry at Arpa for his selfish, monomaniacal protectionism. She was right to be angry at being told how to bear the burden that nobody but she would have to bear. His heart was more broken than the rest of his body after the dream encounter. It all felt so real that he was certain, 'If only I had reached out, and held on to her, I could have stayed with her forever'. But now he was awake, and alone again, and he really didn't know what was real. Maybe Orpheus never had a chance. Grab ahold, or don't. Eurydice was lost.
  
 \

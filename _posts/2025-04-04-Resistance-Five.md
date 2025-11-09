@@ -6,6 +6,19 @@ category: Resistance
 
 ## Swarms in the Expanse
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-five.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 The Machine had not observed the day's events because it had been powered down.
 
 The Machine was powered down because an experiment earlier in the day had mostly failed, while also highlighting a profound need for more effective sandboxing. Somehow the whole system had come under threat even though the experiment took place in an isolated lab running off the network. Several months of steady progress were being put at risk by pressure from the Director, who's enthusiasm for adding features only increased as Zero Day approached, and also by that day itself, which loomed in everyone's imagination in spite of being as opaque and impenetrable a boundary as the Big Bang was to the backward glance of history: something, here at the whimpering end of things, past which there is no conception, and after which, according to our conception, there may as well be no more creation.

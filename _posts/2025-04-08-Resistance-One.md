@@ -6,6 +6,19 @@ category: Resistance
 
 ## Light and Dark, Morning and Evening, the Last Day
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-one.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 They were now twenty-four hours into one of the last, most-critical tests of the project: the last Day and Night, so to speak, of the current era of human history. The Director and a tech named Rashon sat in a surreally dark and quiet room looking at a bank of screens for signs that the girl might be dreaming.
 
 Even in better times, Rashon struggled with ambivalence at his role in the company. He was hired almost before he finished his PhD in sleep psychology. The company was beginning to amass huge volumes of data from unconscious hosts; since the Machine itself never slept, any time a Medalion customer nodded off it was just a different context for data gathering and analysis. The ultimate goal was not physiological health alone, but total health and well-being.

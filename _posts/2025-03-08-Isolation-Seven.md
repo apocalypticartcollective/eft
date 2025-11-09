@@ -6,6 +6,19 @@ category: Isolation
 
 ## Drink to Me Only with Thine Eyes
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-seven.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 He returned often to the pile of stones behind the bushes to look at the Faiyum portrait -- the hope, barely acknowledged, was that this icon might prove a window ... that something of the spirit of the hospitable monk might smile on him. His relationship to the images of Mani had been rocky of late, especially before his fall from grace. He regretted defacing the Christ icon in the church above, but life mediated by images had become hard to bear: he was losing the memory of what a real face looked like. He judged it unfair that his first human contact in ages was with the hirsute holy man, a (presumably) living image cloistered behind locks of dirty black hair.
 
 Why was this portrait different? He was honestly stirred by the act of devotion showed by the pirate, but the image itself was moving too. He wished he could talk to this face, wished he could unburden himself to the priest in the picture, not really because he had so much to confess (though he really did), but because he shyly imagined that repentance was the cost of entry with such a one as this.

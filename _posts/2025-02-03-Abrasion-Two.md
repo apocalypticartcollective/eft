@@ -6,6 +6,19 @@ category: Abrasion
 
 ## Death
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-abr-two.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 If it were possible to have a real conversation in this town, one in which a visitor -- whatever that might mean -- arrived as a kind of tourist and asked the woman to describe her life, she might say that it was *normal*. Normal like the morning news in a place where nothing bad ever happened.
 
 But in her favorite bar, it wasn't exactly like that. At the bar it wasn't like the *news*: life in the bar was more like a rerun of an old sitcom where everybody knows your name, only none of those people go there anymore. Because, nobody goes there anymore.

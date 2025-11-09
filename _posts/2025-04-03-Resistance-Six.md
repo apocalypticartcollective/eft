@@ -6,6 +6,19 @@ category: Resistance
 
 ## Cattle and Creeping Things
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-six.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 At the world headquarters of Medalion, Inc., the company that was both heir and executor of all the promises Silicon Valley ever made, the mood was more tense than usual. Today's crisis was ostensibly concerned with reference frameworks for empathetic interaction between the subjects and what the Director liked to call VIEPs (for Virtual Intrinsically-Encoded Persons), but what others had taken to calling *creeps* behind his back. Medalion's first product was a plasma of microscopic robots that could repair pretty much anything that wasn't functioning inside a person; today the company was using its deep knowledge of the workings of the human body to build a believable substitute for it. The hope was that these VIEPs would serve as a kind of society for the remnant, when everyone else was gone. The big question was how to make the VIEPs a vital, comforting, encouraging presence, and not just a herd of cattle in the middle of the road stupidly blocking the way. How do you teach an empty vessel to respond to a living person in a living way? The question for the engineers of Medalion, really, was how do you teach empathy to a creep?
 
 The original promise of the company

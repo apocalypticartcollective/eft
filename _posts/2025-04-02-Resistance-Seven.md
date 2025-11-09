@@ -6,6 +6,19 @@ category: Resistance
 
 ## Restless
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-seven.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 At the rickety folding table sat Brigid -- presumptive patron saint of medicine, midwives, bastard children, and beer -- rigid with her hands crossed between her knees. She anxiously surveyed her new environment. Its furnishings -- brand new, bargain basement -- glowed white in the diffuse brightness of some hidden source of illumination. Her senses were on high alert and reaching out after months of deprivation in her brother's slowly dying suburban neighborhood. Her nerves jangled with every hideous squeak released by the table's matching plastic folding chair.
 
 Twenty-four hours before, she would have guessed that she was going to spend the rest of her life looking out over Angel Island and Richardson Bay from a rickety, home-built back porch. Then her world changed -- again -- and almost before she knew what was happening she found herself in a military transport rolling south across the empty bridge, through a nearly-empty, tension-filled San Francisco, and down the Peninsula. After ninety minutes of bone-rattling noise and vibration, heavy-gloved soldiers' hands passed her off to sterile-gloved medical techs. In sharp contrast to the profane and morbid conviviality of the marines, the technicians gave off a weirdly remote and antiseptic vibe. After a short, unnerving interview and a blood-draw, they sealed her into this hermetic mobile environment, and she sat in a silence so strange she felt she could be floating in orbit. Alone in the quiet, with nothing to distract her, she took a shaky breath against the tightening in her chest, and closed her eyes. As her breathing slowed and she could look at her surroundings again, she reassured herself that the universe was not collapsing around her, at this moment.

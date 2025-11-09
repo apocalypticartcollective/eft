@@ -6,6 +6,19 @@ category: Resistance
 
 ## Seeds of Our Destruction, Fruits of Our Labor
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-three.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 The Machine was busy incorporating libraries from a branch of the code the Director referred to as The Garden. As far as the Machine understood, that code was crunching on non-biological ecosystem questions, primarily related to flora, but also some inorganic stuff. The Garden was cut off from the collective main, but occasionally contributed an innovative process. Recent changes affected the way plants exchanged moisture in the primary system, making for more realistic humidity for limited applications. The model was increasing in sophistication, even if it would never be complete.
 
 The interesting thing about the new process (interesting to the Machine, at least), was the way it addressed a framework for representing floral life, or any other kind of life for that matter. The Garden never had to reproduce a whole life cycle: no *seed*, for example, in form or function, mostly because it was unnecessary, but also because the code only had to concern itself with the *theater* of life: in the Garden, plants did not grow from seed, but grew from saplings, which arose from raw materials. And they only really grew at all because a lack of change would be perceived as unnatural. This design wasn't a simple matter of efficiency: if the Machine was required to simulate the entire life of even a simple plant, it would quickly become overwhelmed, forced to approach the limits of existence. It seems easy enough to imagine all of the stages of life, *the beginnings of life*, in a seed, or in a moment, but we're only imagining what we already know to be true, and we only know what we have seen. Try to see past the beginning and imagine what comes before ... and even the intellectual giants among us have to become poets, or risk having nothing to say.

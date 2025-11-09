@@ -6,6 +6,19 @@ category: Isolation
 
 ## The One Who Runs Away Will Fight Again
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-three.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 Eighteen months had passed since the arrival of Arpaxos in Mani, and the solitude that attracted him to the place was becoming complicated. He was, for the most part, glad for the quiet: before he'd escaped the city, it had become clear that most people had lost all sense of purpose or power, and in the bargain were losing what remained of their voices. Old wives like his aunt were not so easily silenced. They confidently offered up impotent proverbs and pithy wisdoms, each a self-assured attempt to toss salt back in time to correct the obvious misalignment of the planet and misunderstandings of men. He could not bear the simplistic bickering of the gray-haired, black-clad elders of the city, each of them with their metaphorical side tables over-decorated with the wreck and ruin of ancient philosophy. Wasn't it obvious that the wisdom of the world was passing away? If the scientists could not save the species, what purpose did the old words serve? (To her credit, Tía Íno soon abandoned the annoying -- and popular -- debate over whose fault the plague was, and turned her proverbial attention to stirring the doomed to reverence. 'Regard well the end of life!')
 
 Arpa left it all behind -- his father's rants, the widows' judgements, the endless bickering sadness -- and in the bargain he might have lost what remained of his own voice, and his connection to the human race. Leaving the city may have seemed like a choice to die hungry and alone, but he meant it as a choice to die in peace and quiet. Finding food turned out to be easy; finding peace not so much. 

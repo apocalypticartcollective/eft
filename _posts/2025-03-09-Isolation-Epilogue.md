@@ -6,6 +6,19 @@ category: Isolation
 
 ## God Can Raise to Abraham Children of Stones
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-epi.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 Arpaxos sat quietly in the shade of a bright plane tree, tried to slow his ragged breathing, and listened for sounds from the outer edges of the square. A throbbing in his left leg fought for his attention. He ignored the pain but reached down gently to lift from behind his left knee and set his useless foot on the cross-bar of the chair, kicking with his good leg to lean back against the doorpost. He began to cough and spat out a throat-full of rusty humor. Before long, he was settled again, quieted his breathing, said thanks, and closed his eyes so that he could better picture their faces. He waited in silence for their return -- the buildings that outlined the square, he knew, sat vacant; every facade an empty promise from a busier time. His attention was fixed further out; he would be able to hear his people when they were still a couple blocks away.
 
 Arpa was one of a shrinking tribe who were committed to stay together until the end. Every time their parish shrunk by one -- with every loss -- he worried that hopelessness would set in. How few humans is too few? Turns out three is enough to keep from losing faith entirely ... a single person can despair, and might be able to withstand the hopeful words of just one other, but when two witnesses gang up on you, it's harder to resist. There had been frank philosophical and theological discussions about what it would mean when only two were left, and whence the fraying cord might achieve its third strand.

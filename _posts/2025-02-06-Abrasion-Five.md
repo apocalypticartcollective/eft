@@ -6,6 +6,19 @@ category: Abrasion
 
 ## Courtship
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-abr-five.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 Just as the sky outside was starting to warm with color, the artist disappeared with the explanation that he had to prepare for a delivery, leaving her to find in this gallery of chaos some way to stay occupied and awake.
 
 This wasn't difficult. Everything in the place had an abrasive or shocking quality to it, whether because it was dangerously unfinished -- rough with splinters or covered with metal filings -- or simply because it was upsetting to look at. This latter category was populated with figural examples of representation that jerked at her idea of what it meant to be human -- it had been so long since she'd seen what *emotion* looks like (she knew well enough what it felt like), that she had grown a bit self-centered and skewed in her belief that there was no point in looking for authentic feeling in the characters she was surrounded by. Yet here in front of her, daring her to look away, were chunks of rock, tree trunks, and painted metal that appeared to *feel* so much that she was shamed for having been so shallow. How could it be that these statues -- unmoving, elemental -- could contain more real life than all the elaborations cooked up by a machine using all the world's history as raw material? And, how could this created man's creations be so powerful?

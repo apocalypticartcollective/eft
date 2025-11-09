@@ -6,6 +6,19 @@ category: Resistance
 
 ## Greater and Lesser Lights
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-four.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 Albert sat back in the plastic deck chair and tried to take in the full dome of stars from the roof of his company's headquarters, where the tradition had been for workers to retreat for a drink and relaxation at the end of a work day. Albert's work days were longer than most, and he always seemed to come up after everyone else had gone home (or had gone back to work). He enjoyed the brief retreat from the buzz of the factory- (and the valley) -floor. These days he was struggling with new feelings of loneliness -- emptiness -- whenever he left behind the busywork that filled the maze of rooms and hallways below. He didn't fully understand his own feelings in this regard. The Director was at one point as famous as any tech mogul, and more loved because what his company produced was profoundly more meaningful, until it meant nothing. In simple terms, any prestige or privilege associated with starting a successful tech company had faded long before the lights in the valley blinked out. But while some things had faded, others had become more clear. For example, after the streets went dark, the skies above exploded in light and color, a sight not seen in California since before the Gold Rush. In a similar way, at the waning of Albert's worldwide fame, his own personal story would come more clearly into focus, at least to himself.
 
 And his fame had truly reached around the world. At Medalion, Albert could claim descendants that numbered as the stars in the sky: the world-famous Encoded Serum, AKA The Intelligent Swarm, AKA the *Medical Battalion* that gave the company its name -- trillions of tiny microscopic machines that were responsible for eliminating most of the world's diseases within a few years, until there was only one disease left.

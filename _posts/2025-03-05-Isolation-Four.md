@@ -6,6 +6,19 @@ category: Isolation
 
 ## Wonder at Nothing
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-four.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 He stumbled out of the church, down the stone steps, and moved with increasing speed toward the top of the high cliff to the west. Arriving at the edge, he approached with no respect for the drop, repeatedly advancing and retreating, as if picking a fight with the open expanse. The wind whipping up the face of the cliff and the stirring of the waters of the Mediterranean before him seemed an open challenge, calling attention to his impotence, like a smirking schoolyard bully gently pushing open fingers against his chest, softly, but repeatedly. He felt the buttresses of his fatalistic tower crumbling, exposing as folly his assurance that he was secure in his isolation, that nothing more could be required of him, that he would simply cease to exist in solitude, that there was nothing left to say. These facts he long ago accepted and taken as a comfort. But no more. Alone! ... Not alone! Barking anger, he punched and swung at the vast openness, and bellowed a final agitation. 'I'm dying! Let me be!' This was as close to a prayer as the solitary figure could manage, before falling to his knees.
 
 The ground beneath him, damp from the sea air and a recent storm, surprised him with its softness, provoking in him a sense of wonder. It was open, breathing, like fresh-turned soil, and he thought in that moment that the earth had chosen to receive him in answer to his nihilistic prayer. He felt his arms lift, allowing a moment of gratitude (of worship?), as he reveled in the feeling of unexpected release.

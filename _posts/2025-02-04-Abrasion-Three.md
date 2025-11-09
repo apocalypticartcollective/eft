@@ -6,6 +6,19 @@ category: Abrasion
 
 ## Disease
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-abr-three.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 After thirty centuries, she remained the only living being on Earth. And it was her belief that she was the last organic life in the universe -- an audacious presumption that she never had to defend. If her theory was to be disproved, it would have to be sometime within the next 15,000 years (or so), but the timing only mattered if it was important for an actual human to bear witness to the fact of extraterrestrial intelligence. If *seeing is believing*, then she wasn't going to believe it unless some alien explorer stumbled onto her mostly-silent planet during one of the month-long periods that happened every twenty-five years (or so), because it was only then that she was awake.
 
 Such an event was not only unlikely, but practically unwelcome. The code that dictated her sleep-wake cycle and everything else about her curated life had long ago determined that sending signals into the emptiness of space was a bad idea. As the human race had dwindled to almost nothing, so had its capacity for self-defense; what if a signal sent into deep space were to get a response? There were no guarantees that what comes back would be a message of good will. The prime directive, or whatever you want to call it, was To Preserve Human Kind, and that function was now marked by a paranoid hermetic seclusion, as if a shipwreck survivor floating on a raft in the middle of the ocean were hidden under a dark blue tarp in the hope that no passing ships would take notice.

@@ -6,6 +6,19 @@ category: Resistance
 
 ## Manifest Destiny
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-res-pro.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 When explorers of this latter age arrived at the western edge of the North American continent, followed quickly by conquistadors, missionaries, and miners of precious metals, they came as vanguard of the manifest destiny that would be embraced by a new nation eager for justification ... to circle the planet, claim it all for their cause, and leave nothing undiscovered. What these explorers could not see clearly at the time (besides those peoples already settled there) was that the frontier would never be conquered, could only be extended, and that the grandchildren of emigrants would never be allowed to rest.
 
 Here, in the coming years, were ships conceived to breach the boundaries between planets, and occult mechanisms made to probe the space in between the smallest things, smashing atoms into strange and charming lesser parts. And when, desperate for new trails to break, the *conquistadors* made to circle back around the planet by virtual means, new paths were opened up until all that remained were noisy tracks crisscrossing the wilderness of silence. Finally, when death came speeding along the Via Romana and its asphalt heirs, these new ways provided no escape. The spirit of the new frontier would have to wait -- for the destroyer to pass through the cities, and for the remnant to pass between the waters -- before it could resume its search through the wide open spaces of the coming age for something like an answer or an end.

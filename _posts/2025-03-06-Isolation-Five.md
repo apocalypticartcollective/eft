@@ -6,6 +6,19 @@ category: Isolation
 
 ## A Seat in the Bow is Dangerous
 
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-iso-five.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
 *In his dream, Arpaxos was in a cavernous, cold, and sterile room. He wasn't alone. Two men in flowing lab coats could be seen, sitting opposite a child. The two older men leaned in, clutching their clipboards, with intense interest on their faces. The taller one looked nervous and frustrated, biting his thumbnail and glaring at the subject from under wild and scowling eyebrows. The shorter, and younger, of the two appeared more focused and confident in his task, an effect only a little undermined by his overgrown crew cut, thin beard, and disheveled appearance.*
 
 *The setting was a clean room, a room within a room -- double doors, raised floor, sealed and separated from a womb-like larger space by a tangle of umbilical cords, hoses, and ventilation tubes serving to mediate between the inner and the outer chamber. Through the glass, the surrounding edifice revealed details as he looked up and out from the scene at the center: a monumental stone enclosure whose perimeter was described by giant square columns supporting an ornately carved ceiling. Rich saffron-yellow beams of light streamed between the columns and through the larger temple-like space, and floating particles highlighted the rays of a late-afternoon sun. But inside the fluorescent and dust-free atmosphere of the interior room, there were only a few objects half-lit in the warmer cast. The temple space was ancient. The interior room was, Arpaxos could tell, very much in the present.*
