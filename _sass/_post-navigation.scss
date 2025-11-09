@@ -2,7 +2,7 @@
 
 /* Wrapper sits under the post content and centers the nav container */
 .post-navigation-wrapper {
-  margin-top: 3rem;
+  margin-top: 4rem;
   text-align: center; /* centers the nav container when narrower than content */
 }
 
@@ -41,7 +41,6 @@ $post-muted: $muted-text-color !default;
   font-weight: 500;
 }
 
-/* Subtle hover/focus affordance without adding a visible border */
 .post-nav-link:hover,
 .post-nav-link:focus {
   background: rgba($post-muted, 0.04);
@@ -49,14 +48,13 @@ $post-muted: $muted-text-color !default;
   outline: none;
 }
 
-/* Title text within the link follows the muted color */
+
 .post-nav-title {
   display: inline-block;
   color: inherit;
   font-weight: 500;
 }
 
-/* small spacing tweaks */
 .post-nav-prev .post-nav-title { margin-left: .25rem; }
 .post-nav-next .post-nav-title { margin-right: .25rem; }
 
