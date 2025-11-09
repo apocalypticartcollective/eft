@@ -1,0 +1,7 @@
+.post-navigation-wrapper { margin-top: 2rem; }
+.post-navigation { display: flex; justify-content: space-between; gap: 1rem; align-items: center; }
+.post-nav-link { padding: 0.5rem 1rem; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: inherit; background: #fff; }
+.post-nav-link:hover { background: #f6f6f6; }
+.post-nav-title { display: inline-block; margin-left: 0.5rem; font-weight: 600; }
+.post-nav-prev .post-nav-title { margin-left: .5rem; }
+.post-nav-next .post-nav-title { margin-right: .5rem; }
