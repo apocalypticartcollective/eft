@@ -50,32 +50,3 @@
 .post-link__title + .post-link__excerpt {
   opacity: .6;
 }
-
-.post-pagination {
-  margin-top: 4rem;
-  font-size: .75em;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  text-align: center;
-  > * {
-    flex-grow: 1;
-    flex-basis: 0;
-    padding: 1em 0;
-  }
-  &:hover,
-  &:focus-within {
-    a {
-      opacity: .6;
-    }
-  }
-  a {
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: opacity .125s ease-in-out;
-    &:hover,
-    &:focus {
-      opacity: 1;
-    }
-  }
-}
