@@ -15,14 +15,14 @@ title: Credits
 
 <!--
 - Bruce Charonnat (editing, design, promotion and publication support, production, vision, and chief provocateur)
-- Nik Bartunek (engineering and marketing support, social media, photography, commiseration without capitulation, providential hand-me-downs)
-- Julie Maddalena (voice coaching and studio support, eye of newt and other medicinals)
+- Nik Bartunek (voice, engineering, marketing, production, and social media support, photography, market commiseration without capitulation, providential hand-me-downs)
+- Julie Maddalena (studio and voice coaching support, eye of newt and other medicinals)
 - Eric Mathis (early and eternal reader, epical and erical support)
 - Marilyn Mcentyre (editing & encouragement, publishing wisdom)
-- Zoe Maddalena (vibe & inspiration, straight talk)
+- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration)
 - Michael Toy (soul brother, faithful and universal colaborator, honest assessor)
 - Linda Toy (soul sister, networker, encourager)
-- Kevin Marks (Original Field Trip Buddy) 
+- Kevin Marks (Original Field Trip Buddy; the other pastor/therapist/writer/weirdo) 
 - Marge Boots (graphics and <cough> typography support)
 - Russ Sampson (Saint Sampson, organizer of the *Tonopolo readings*)
 - Everyone trapped at Tonopolo during the readings (great vibes, great listeners, great feedback)
@@ -37,35 +37,19 @@ title: Credits
 
 &nbsp;
 
-Web design by D.P. Maddalena, originally based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou, Athens, Greece, ca. 1945; and layed out with OPTICloister font.
+Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by Pat Dryburgh; with artwork by Spyros Vassiliou (Athens, Greece, ca. 1945) and layed out with OPTICloister font.
 
 &nbsp;
 
-<!--
-## Thanks to these authors
+## Other people's books I was marinating in while writing my own 
 
-&nbsp;
-
-*Mani* by Patrick Leigh Fermor
-
-&nbsp;
-
-*Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos
-
-&nbsp;
-
-*The Problem of God* by John Courtney Murray
-
-&nbsp;
-
-The Priestly Author of *Genesis* 1 and St. John of *The Revelation* for standing at the threshold, looking past beginnings and endings, and capturing some of the mystery.  
--->
+*The Problem of God* by John Courtney Murray (on the essential I Am); *A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein (architecture as a humanist manifesto); *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos (travel writing as a peek into culture resisting modernism); The Priestly Author of *Genesis* 1 and St. John of *The Revelation* (who stand at the threshold looking past beginnings and endings, and captured some of the mystery).  
 
 &nbsp;
 
 ## Statement on AI
 
-No AI was used in the creation of this work: all writing, editing, and research was done by the author (with the exception of editorial support performed by human beings as noted elsewhere on this page). Some AI was used to support the development of this website -- the author does not claim to be a web developer.
+No AI tools were used in the creation of this work: all writing, editing, and research was done by the author (with the exception of editorial support performed by human beings as noted elsewhere on this page). AI *was* used to support the development of this website -- the author does not claim to be a web developer.
 
 &nbsp;
 
@@ -76,5 +60,5 @@ Echo Future Truth by D.P. Maddalena  © 2025, licensed under Creative Commons, &
 &nbsp;
 
 <div style="text-align:center">
-<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" alt='lectern' />
+<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" />
 </div>
