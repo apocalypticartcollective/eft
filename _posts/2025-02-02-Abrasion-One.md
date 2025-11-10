@@ -21,17 +21,17 @@ category: Abrasion
 
 Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty of lapsed relevance. Coming to a stop in the center of the gravel expanse, she scanned the perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
 
-But nothing about these low, stucco buildings was accidental. Each had been perfectly preserved in a kind of material holographic projection long after the passing of anyone who might have suggested historical eras more worthy of preservation. It was meant to be ... comforting. But when she walked over the crumbled remains of the last real buildings -- and everything else buried below -- all she felt was dread.
+But nothing about these low, stucco buildings was accidental. Each had been perfectly preserved in a kind of material holographic projection long after the passing of anyone who might have suggested historical eras more worthy of preservation. It was meant to be comforting. But when she walked over the crumbled remains of the last real buildings -- and everything else buried below -- all she felt was dread.
 
-Reenacting childhood visits to the doctor, she lifted a hand to lay on her chest and took a shallow breath. When she was a girl -- nervous on a cold, vinyl-top table, half-shrouded in a hospital gown -- a warm stethoscope revealed mysteries and the doctor's wordless smile said all was well. Then, she felt safe. The grown woman was not so well equipped: her own hand felt cold against her sternum, and beneath its rising and its falling her fingers found no reassurance.
+In a useless reenactment of childhood visits to the doctor, she lifted a hand to lay on her chest and took a shallow breath. When she was a girl -- nervous on a cold, vinyl-top table, half-shrouded in a hospital gown -- a warm stethoscope revealed mysteries and the doctor's wordless smile said all was well. Then, she felt safe. The grown woman was not so well equipped: her own hand felt cold against her sternum, and beneath its rising and its falling her fingers found no reassurance.
 
-Nor did the nearly-empty spaces around her provide any relief; they were low-rent amusement park rides filled with hollow, mechanistic beings. And each facade in turn refused to give its secrets up -- they always faced in her direction.
+Nor did the nearly-empty spaces around her provide any relief; they were low-rent amusement park rides filled with hollow, mechanistic beings. And these facades in turn refused to give their secrets up -- they always faced in her direction.
 
-She understood that she also had been propped up, that she also belonged in the ground, with its vast, cold network of tiny interlocking spaces extending beneath her through strata of broken stone, like the absence of a nervous system that once animated the intercourse of living things. Again, she surveyed her own being for signs of life.
+She understood that she also had been propped up, that she also belonged in the ground, with its vast, cold network of tiny interlocking spaces extending beneath her through strata of broken stone, like the absence of a nervous system that once animated the intercourse of living things. Once again, she surveyed her own being for signs of life.
 
 I should be dead, she thought.
 
-
+&npsp;
 
 She stood there in that emptiness (*silent, agnostic*), wanting to shrink from the simple challenge of walking across this space one more time. As often happened in the quiet, in-between places, visions crowded her mind, uninvited, like invaders pouring through an unguarded gate; images of alternate realities, other versions of herself. Priestess. Goddess. A towering plume of ash, smoke, and fire climbing above the horizon; she almost felt the heat of it, as if these ideas had been shut up inside her bones, smoldering, a blush on her cheeks the only sign to rise and break the surface. There were times when she almost believed ... all of it.
 
