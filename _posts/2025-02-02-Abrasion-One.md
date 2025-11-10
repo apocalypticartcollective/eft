@@ -33,15 +33,15 @@ I should be dead, she thought.
 
 <br />
 
-She stood there in that emptiness (*silent, agnostic*), wanting to shrink from the simple challenge of walking across this space one more time. As often happened in the quiet, in-between places, visions crowded her mind, uninvited, like invaders pouring through an unguarded gate; images of alternate realities, other versions of herself. Priestess. Goddess. A towering plume of ash, smoke, and fire climbing above the horizon; she almost felt the heat of it, as if these ideas had been shut up inside her bones, smoldering, a blush on her cheeks the only sign to rise and break the surface. There were times when she almost believed ... all of it.
+She stood there in that emptiness (*silent, agnostic*), wanting to shrink from the simple challenge of walking across this space one more time. As often happened in the quiet, in-between places, visions crowded her mind, uninvited, like invaders pouring through an unguarded gate; images of alternate realities, other versions of herself. Priestess. Goddess. A towering plume of ash, smoke, and fire climbing above the horizon; she almost felt the heat of it, as if these ideas had been shut up inside her bones, smoldering, a blush on her cheeks the only sign to rise and break the surface. There were times when she almost believed ....
 
-Yet her very presence in this place told a different story. Her rough canvas coat and coveralls gave the impression she'd been carved out of a tree trunk; to an observer, she would display an indifferent determinism that was mostly empty of thought, mostly free of prejudice -- almost inanimate, elemental. Only, not harmless: like the crust of a planet, her costume was only a thin shell after all, barely binding her volcanic interior.
+Yet her very presence in this place told a different story. Her rough canvas coat and coveralls gave the impression she'd been carved out of a tree trunk. To an observer, she would display an indifferent determinism that was mostly empty of thought, mostly free of prejudice -- almost inanimate, elemental. Only, not harmless: like the crust of a planet, her costume was only a thin shell after all, barely binding her volcanic interior.
 
-When it came to it, she herself would choose to believe she was nothing more than an inconsequential relic, though her dreams were closer to the truth. Next to what remained of this ruined world, she was royalty, clothed with the sun. But dreams and appearances were two sides of the same flipping coin; would she be the head or the tail? Would her destiny be measured along dimensions apocalyptic or geologic? Maybe both. After all, it was Common Knowledge that inside her was the growing threat of an authentic, end-times disaster if ever she came in contact with anything of real value.
+When it came to it, she herself would choose to believe she was nothing more than an inconsequential relic, though her dreams were closer to the truth. Next to what remained of this ruined world, she was royalty, clothed with the sun. But dreams and appearances were two sides of the same flipping coin; would she be the head or the tail? Would her destiny be measured along dimensions apocalyptic or geologic? Maybe both. After all, it was Common Knowledge that inside her was the power to change everything, as well as the growing threat of an authentic, end-times catastrophe if ever she came in contact with anything of real value.
 
 She was, in fact, the planet's last Act of God, waiting to happen.
 
-
+<br />
 
 She completed her traverse of the square, passed through the doorway of the shimmering image of City Hall and approached the placid, alert receptionist. Her boots now tread more gently and the hardwood floor creaked in a comforting way.
 
