@@ -31,7 +31,7 @@ She understood that she also had been propped up, that she also belonged in the 
 
 I should be dead, she thought.
 
-\
+<br />
 
 She stood there in that emptiness (*silent, agnostic*), wanting to shrink from the simple challenge of walking across this space one more time. As often happened in the quiet, in-between places, visions crowded her mind, uninvited, like invaders pouring through an unguarded gate; images of alternate realities, other versions of herself. Priestess. Goddess. A towering plume of ash, smoke, and fire climbing above the horizon; she almost felt the heat of it, as if these ideas had been shut up inside her bones, smoldering, a blush on her cheeks the only sign to rise and break the surface. There were times when she almost believed ... all of it.
 
