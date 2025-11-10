@@ -75,27 +75,27 @@ Now, where the customer expected coldness, or worse, because she'd forced the is
 
 The bartender, with affection now, offered up the kind of empathetic barroom vulgarity designed to end an embarrassing rant: 'Yeah, honey. Life's a bitch.'
 
-That wounded her. She tried to ignore it. After all it's just a word. And she was no feminist, nor moralist, that she should object to the bartender's language. She might even have agreed with the sentiment. But, it hurt. Why? Maybe it hurt because she was the last bitch alive.
+This wounded her. She tried to brush it off; after all it's just words. What did she object to? She was no feminist, nor moralist, that the bartender could offend her just by being crude. She might even have agreed with the sentiment. But, it hurt. Why? Maybe it hurt because she was the last bitch alive.
 
-But this was not the fight to pick. ... *Keep it light, stay on your toes*, she told herself. *Keep the conversation going*. She said, 'It's your fault. You don't know how to mix a drink.'
+But she knew this was not the fight to pick. ... *Keep it light, stay on your toes*, she told herself. *Keep the conversation going*. She said, 'It's your fault. You don't know how to mix a drink.'
 
 The response came, softly but perfectly, 'Touché.'
 
 But the gentle reply did not have its desired effect: she was flooded with anticipation, and the bartender served up exactly what she did not need. Something broke loose, and what was left of her better judgment went to pieces.
 
-'No! I don't want to win, I want to lose! Fight back! Don't you get it? I need something worth fighting for, dammit, because I need a good fight! And I need to know that I can lose!' Then, she spoke more quietly, but her attention had shifted, and she spoke to the room, 'If you don't let me fight to stay alive, I'm not going to survive, do you understand? I need to feel like anything can happen, not like this *everything* and *nothing* is happening all the time! This ... this is killing me.'
+'No! I don't want to win, I want to lose! You have to fight back! Don't you get it? I need something worth fighting for, dammit, because I need a good fight! And I need to know that I can lose!' Then, she spoke more quietly, but her attention had shifted, and she spoke as if to the room itself, 'If you don't let me fight to stay alive, I'm not going to survive, do you understand? I need to feel like anything can happen, not like this *everything* and *nothing* is happening all the time! This ... this is killing me.'
 
 'You know, honey, maybe you want to talk to a professional, I mean: I'm always up for intelligent conversation,' (a joke without humor), 'but I think you need to get some things off your chest.
 
-'No.' She felt a surge of bitterness she could not suppress. 'I do not want to talk to someone about *my feelings*. Not what I need right now, thank you. I'm not confused! I know what the problem is: it's that there are no problems.' She continued to speak to the bartender but also *not* to the bartender. Softly, with a slight tremble, 'I know you know what I'm talking about.'
+'No.' She felt a surge of bitterness she could not suppress. 'I do not want to talk to someone about *my feelings*. Not what I need right now, thank you. I'm not confused! I know what the problem is: it's that there are no problems.' She continued to speak to the bartender and also *not* to the bartender. Softly, with a slight tremble, 'I know you know what I'm talking about.'
 
-Concerned silence. Caring look. Comforting, maybe, if her discomfort were not of the existential variety.
+Concerned silence. Caring look. Comforting, maybe, at literally any other time in human history; the emphasis there being on the word, 'human'.
 
 'If something doesn't change soon ... I would *rather not do this anymore*.' She spoke with firm resolve, her words riding a wave of emotion that left little doubt as to her meaning. Still the only response was the same brand of robotic empathy that she found in every building in town. She barked a carefully articulated profanity at the bar, at the bottles, and at the character behind the counter.
 
-Alright, she thought. That's it. The only threat that she'd felt in a long time was the threat of a long sleep and amnesia; but she was not going to live in fear of sleep anymore. She spoke now only to hear her own voice, to know that the words were real, that this was really happening. As she slowly backed away from the bar, she announced: 'I'm ready to light some fires. Alrighty! Where can a girl get a little mortal danger around here? I'm all done wishing one of you creeps would attack me in a dark alley, but damn. Where are the earthquakes? The lightning strikes? Where are the wild animals? Why can't I meet just one hungry jaguar? I would give anything to walk around the corner and meet something, anything, that could do me harm.' The people in the room watched her, but their theatrical presentation of concern was eclipsed by the walls themselves, which seemed to be silently attending to her words, and waiting.
+Alright, she thought. That's it. The only threat that she'd felt in a long time was the threat of a long sleep and amnesia; but she was not going to live in fear of sleep anymore. She spoke now only to hear her own voice, to know that the words were real, that this was really happening. As she slowly backed away from the bar, she announced: 'Alrighty! I'm ready to light some fires. Where can a girl get a little mortal danger around here? I'm all done wishing one of you creeps would attack me in a dark alley, but damn. Where are the earthquakes? The lightning strikes? Where are the wild animals? Why can't I meet just one hungry jaguar? I would give anything to walk around the corner and meet something, anything, that could do me harm.' The people in the room watched her, but their theatrical presentation of concern was eclipsed by the walls themselves, which seemed to be silently attending to her words, and waiting.
 
-'Hold on,' she said to herself, working it out, 'No predators, no danger .... Maybe I'm already dead! We don't need a jaguar. What we need is a vulture. To finish the job.'
+'Hold on,' she said to herself, working it out, 'No predators, no danger .... Maybe I'm already dead. If that's true, we don't need a jaguar! What we need is a vulture. To finish the job.'
 
 'There hasn't been a vulture here in three thousand years.' She was surprised by the bartender, whom she had begun to ignore. But now, maybe she didn't have to.
 
@@ -103,9 +103,9 @@ Alright, she thought. That's it. The only threat that she'd felt in a long time 
 
 'I'm going to have to cut you off, love. And let me call you a cab.' The bartender reached for the phone behind the bar, fingering the frayed list of numbers thumbtacked to the wall. Ridiculous. But effective. This damned place.
 
-It was time to go. She knew she couldn't go home, now. She was tired, but she couldn't afford to sleep. It was time to make a change. She wasn't sure what it all meant, but she knew that she could not go home.
+It was time to go. She knew she couldn't go home, now. She was tired, but she couldn't afford to sleep. It was time to make a change. She wasn't sure what it all meant, but she knew now that she could not go home.
 
-She'd tried to remind herself (usually around this time of night, most nights): *be careful what you say to the bartender*. She never remembered her own advice. And for this, she could not blame the alcohol.
+She tried to remind herself (usually around this time of night, most nights): *be careful what you say to the bartender*. She never remembered her own advice. And for this, she could not blame the alcohol.
 
 
 <div style="text-align:center">
