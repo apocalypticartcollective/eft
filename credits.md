@@ -24,15 +24,15 @@ title: Credits
 - Linda Toy (soul sister, networker, encourager)
 - Kevin Marks (Original Field Trip Buddy; the other pastor/therapist/writer/weirdo) 
 - Marge Boots (graphics and <cough> typography support)
-- Russ Sampson (Saint Sampson, organizer of the *Tonopolo readings*)
+- Russ Sampson (Saint Sampson, organizer of the *Tonopolo Readings*)
 - Everyone trapped at Tonopolo during the readings (great vibes, great listeners, great feedback)
 - Heather Fosth (third-stage rocket ignition)
 - Carla Mathis (prayer and wisdom, theater edition)
-- Mike McKenna (prayer and wisdom, tech edition; brand fanboy)
+- Mike McKenna (prayer and wisdom, tech edition; brand loyalist)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
-- Timothy Maddalena (Most Reassuring Fan, grounded wisdom)
+- Timothy Maddalena (Most Reassuring Reader, grounded wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
-- Finally, my God -- maker, rescuer, comforter; Word That Orders the Mess (for ordering my mess)
+- Finally, the ineffable divine that nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner; Word That Orders the Mess (for ordering my mess)
 -->
 
 &nbsp;

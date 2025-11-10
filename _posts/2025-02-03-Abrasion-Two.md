@@ -24,7 +24,8 @@ If it were possible to have a real conversation in this town, one in which a vis
 But in her favorite bar, it wasn't exactly like that. At the bar it wasn't like the *news*: life in the bar was more like a rerun of an old sitcom where everybody knows your name, only none of those people go there anymore. Because, nobody goes there anymore.
 
 Almost nobody: she was here after all. And at the end of a day like today (*What made today different?* she wondered) what she really wanted was  to lose herself in some mindless interaction, maybe cheat the bartender out of a drink or two. It didn't matter that she won all the bar bets too easily or that the prizes were just illusions. The room was familiar and she felt like she belonged. But on a day like today any good feelings were not likely to last.
- 
+
+<br />
 
 The staring match at the bar continued for several minutes; a children's game to see who would blink first. Was it childish? Today it seemed not, and she held her fierce eyes open long enough that she felt them drying out even as the tears pooled in her swollen lids. If anyone had witnessed it, they might say that it was just another bar bet, and another victory for the lady with the look of triumphant despair.
 
@@ -38,7 +39,7 @@ The bartender poured her a couple fingers of her favorite, and palming her red e
 
 'Glad to oblige.' And then the old gal leaned back and manifested that subtle change in aspect that signaled one of those creepy moments of comfort, or support ... or surveillance. The customer thought, *not going to happen*. She liked the bartender too much to let such things get between them. *Take evasive action* ....
 
-'Life's great. How can it not be? I have everything I need: fulfilling work, safe neighborhood, conversation over a drink at the end of the day. And a Bright Future, right?' There was a pause. 'Sure, sometimes I wish there were a *little* more excitement in the day ...'
+'Life's great. How can it not be? I have everything I need: fulfilling work, safe neighborhood, conversation over a drink at the end of the day. And a Bright Future, right?' After a pause, 'Sure, sometimes I wish there were a *little* more excitement in the day ...'
 
 'Shake it up a little bit.'
 
@@ -48,7 +49,7 @@ The bartender poured her a couple fingers of her favorite, and palming her red e
 
 'Exactly.'
 
-Wait, she thought ... no. As much as she liked talking to the Old Gal, liked the way she felt understood by her, there were some conversations that had to be off-limits. Too much empathy of a certain kind and she might find her world changing in uncomfortable ways. Who knows but agreeing that *life could be a little more exciting* might lead to a parade, or worse. A largely artificial life was bad enough without artificial people dressed up in costumes clogging main street with floats and plastic happiness to celebrate an idea cooked up by a machine because of something overheard at a bar filled with artificial booze.
+'Wait,' she thought ... 'No.' As much as she liked talking to the Old Gal, liked the way she felt understood by her, there were some conversations that had to be off-limits. Too much empathy of a certain kind and she might find her world changing in uncomfortable ways. Who knows but agreeing that *life could be a little more exciting* might lead to a parade, or worse. A largely artificial life was bad enough without artificial people dressed up in costumes clogging main street with floats and plastic happiness to celebrate an idea cooked up by a machine because of something overheard in a bar filled with artificial booze.
 
 Once again, she was feeling tempted to over-share, which often led to excessive displays of emotion. And hard on the heels of an emotional outburst was the threat of a violent one. And that was never good. Might be time to dial it back a bit. Or ....
 
@@ -60,17 +61,17 @@ Maybe, it was time for something different. Maybe the problem was swallowing her
 
 'Oh, please.' The customer made a face closer to familiarity than frustration, but creeping toward the latter.
 
-'OK, really? Are we going to go there? I don't like living in the past hon. Look at where I work! I sell booze for a living. I'd offer to pour you another, but ...'
+'OK, really? Are we going to go there? I don't like living in the past hon. Look at where I work! I sell booze for a living. And, I'd offer to pour you another, but ...'
 
 'Give me a break. I don't come in here to forget; I come in for conversation, and the conversation is starting to get ... a little old.'
 
-Now, where the customer expected coldness, or worse, because she'd forced the issue, she perceived a change in tone to match her own, and something that sounded like honesty. 'It has been a very, very long time.' The woman thought, *don't drop your guard, press on*.
+Now, where the customer expected coldness, or worse, because she'd forced the issue, she perceived a change in tone to match her own, and something that sounded like honesty. 'It has been a very, very long time.' Now the woman thought, *don't drop your guard. Press on*.
 
-'Right. For ever. And I've slept through most of it! I mean, I keep thinking that when I lie down, maybe I'll wake up and it'll be different: maybe I won't be alone; you'll have found someone; something will be different; or I'll be dead.  honestly don't know which I hope for more.
+'Right. For ever. And I've slept through most of it! I mean, I keep thinking that when I lie down, maybe I'll wake up and it'll be different: maybe I won't be alone; you'll have found someone; something will be different; or I'll be dead. Honestly I don't know which I hope for more.
 
-'Listen. Listen to me. Please. I don't want to go to sleep. I don't want to sleep this off.' More strident, now. 'I think ... something needs ... uhm ....' She trailed off: *too much*. *Careful*. 'I think that we need to have a conversation ... about a few things. I would like to figure some things out.' She paused, worried that she was losing the thread, might have gone too far. But she couldn't stop.
+'Listen. Listen to me. Please. I don't want to go to sleep. I don't want to sleep this off.' More strident, now. 'I think ... something needs ... uhm ....' She trailed off: *too much*. *Careful*. 'I think that we need to have a conversation about a few things. I would like to figure some things out.' She paused, worried that she was losing the thread, might have gone too far. But she couldn't stop.
 
-'I'm exhausted, and not because I don't get enough sleep, do you hear me?' Her hand was back on her chest, where her fingers mindlessly worked, digging, as if to massage some hidden part of her, just out of reach. 'No. I can't. Everything is too neat, too clean, too good to be true. I'm dying from boredom. I can't focus anymore. I have no fight left in me! Do you hear what I'm saying?'
+'I'm so tired! And it's *not* because I don't get enough sleep, do you hear me?' Her hand was back on her chest, where her fingers mindlessly worked, digging, as if to massage some hidden part of her, just out of reach. 'No. I can't. Everything is too neat, too clean, too good to be true. I'm dying from boredom. I can't focus anymore. I have no fight left in me! Do you hear what I'm saying?'
 
 The bartender, with affection now, offered up the kind of empathetic barroom vulgarity designed to end an embarrassing rant: 'Yeah, honey. Life's a bitch.'
 
