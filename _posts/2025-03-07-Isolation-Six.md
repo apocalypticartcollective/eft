@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolation - Six
+title: 14 Isolation - Six
 category: Isolation
 ---
 

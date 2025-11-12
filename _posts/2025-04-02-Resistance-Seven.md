@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resistance - Seven
+title: 18 Resistance - Seven
 category: Resistance
 ---
 

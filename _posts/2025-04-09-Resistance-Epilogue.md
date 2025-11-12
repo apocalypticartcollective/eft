@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resistance - Epilogue
+title: 25 Resistance - Epilogue
 category: Resistance
 ---
 

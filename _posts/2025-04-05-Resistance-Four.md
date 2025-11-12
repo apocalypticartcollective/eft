@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resistance - Four
+title: 21 Resistance - Four
 category: Resistance
 ---
 

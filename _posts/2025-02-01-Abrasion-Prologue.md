@@ -1,5 +1,5 @@
 ---
-title: 01 Abrasion - Prologue
+title: 001 Abrasion - Prologue
 author: D.P. Maddalena
 category: Abrasion
 layout: post

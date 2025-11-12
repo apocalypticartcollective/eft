@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resistance - Two
+title: 23 Resistance - Two
 category: Resistance
 ---
 

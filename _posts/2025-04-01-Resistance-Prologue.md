@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resistance - Prologue
+title: 17 Resistance - Prologue
 category: Resistance
 ---
 

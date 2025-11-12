@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolation - Prologue
+title: 08 Isolation - Prologue
 category: Isolation
 ---
 

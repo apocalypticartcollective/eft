@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abrasion - Seven
+title: 07 Abrasion - Seven
 category: Abrasion
 ---
 

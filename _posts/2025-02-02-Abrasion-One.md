@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abrasion - One
+title: 01 Abrasion - One
 category: Abrasion
 ---
 
@@ -17,7 +17,7 @@ category: Abrasion
 &nbsp;
 
 &nbsp;
-
+ 
 
 Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty of lapsed relevance. Coming to a stop in the center of the gravel expanse, she scanned the perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
 

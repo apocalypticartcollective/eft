@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abrasion - Six
+title: 06 Abrasion - Six
 category: Abrasion
 ---
 

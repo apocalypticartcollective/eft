@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolation - One
+title: 09 Isolation - One
 category: Isolation
 ---
 
