@@ -1,3 +1,9 @@
+// _menu.scss
+// Menu styles — improved legibility over background artwork
+
+$menu-outline: #f0ece2 !default; // same as site background
+$menu-anchor-shadow: rgba(0,0,0,0.45) !default;
+
 .site-navigation {
   margin-top: 2rem;
   padding: 0 1rem;
@@ -26,14 +32,36 @@
   }
 }
 
+/* Menu links: keep display/spacing but add outline + subtle anchor shadow for legibility */
 .site-navigation a {
   display: block;
   padding: .25em .5em;
   text-decoration: none;
-  transition: opacity .125s ease-in-out;
+  transition: opacity .125s ease-in-out, text-shadow .12s ease-in-out, -webkit-text-stroke .12s ease-in-out;
+
+  /* Do not override color here so your theme text color remains unchanged. */
+
+  /* Prefer a thin WebKit stroke where available for crispness, plus multi-offset shadows for others */
+  -webkit-text-stroke: 0.9px $menu-outline; /* Chrome / Safari */
+  text-shadow:
+    0 1px 0 $menu-anchor-shadow, /* subtle dark anchor shadow to help on bright image areas */
+    -1px -1px 0 $menu-outline,
+     1px -1px 0 $menu-outline,
+    -1px  1px 0 $menu-outline,
+     1px  1px 0 $menu-outline;
+
   &:hover,
   &:focus {
     opacity: 1;
+    /* stronger hover effect: slightly thicker stroke + faint fuzzy halo for emphasis */
+    -webkit-text-stroke: 1.3px $menu-outline;
+    text-shadow:
+      0 1px 0 $menu-anchor-shadow,
+      -1px -1px 0 $menu-outline,
+       1px -1px 0 $menu-outline,
+      -1px  1px 0 $menu-outline,
+       1px  1px 0 $menu-outline,
+      0 0 8px rgba(240,236,226,0.55); /* faint glow (use same base color) */
   }
 }
 
@@ -51,3 +79,12 @@
     border-bottom: 1px dotted $muted-text-color;
   }
 }
+
+/* Optional: If the image still causes low contrast in places, you can enable a subtle semi-opaque backdrop
+   for the nav. Uncomment to try it.
+.site-navigation {
+  background: linear-gradient(to bottom, rgba(240,236,226,0.95), rgba(240,236,226,0.85));
+  padding: .25rem 1rem;
+  border-radius: 2px;
+}
+*/
