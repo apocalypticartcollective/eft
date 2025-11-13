@@ -1,6 +1,7 @@
+// _menu.scss
+// Menu styles — pale halo only (no dark anchor shadow, no text-stroke)
 
-$menu-outline: #f0ece2 !default;         // identical to site background
-$menu-anchor-shadow: rgba(0,0,0,0.6) !default; // subtle dark anchor shadow
+$menu-outline: #f0ece2 !default; // identical to site background
 
 .site-navigation {
   margin-top: 2rem;
@@ -31,37 +32,34 @@ $menu-anchor-shadow: rgba(0,0,0,0.6) !default; // subtle dark anchor shadow
   }
 }
 
-/* Menu links: keep dark text unchanged, add a pale outline (same color as page background)
-   by using multi-offset text-shadow. The pale offsets will be invisible on the page background
-   but provide separation where the text overlaps darker artwork. */
+/* Menu links: keep text unchanged, add only a pale outline using text-shadow offsets.
+   The outline color matches the page background so it will be invisible on the page
+   background and only visible where the text overlaps darker artwork. */
 .site-navigation a {
   display: block;
   padding: .25em .5em;
   text-decoration: none;
   transition: opacity .125s ease-in-out, text-shadow .12s ease-in-out;
 
-  /* Keep the type color as-is so glyphs remain visually unchanged */
-  /* Anchor shadow to keep crispness on plain/light areas */
+  /* Keep glyph color unchanged; only the pale margins are added */
   text-shadow:
-    0 1px 0 $menu-anchor-shadow,
     /* four directional 0-blur offsets in the background color emulate a thin outline */
-    -1px -1px 0 $menu-outline,
-     1px -1px 0 $menu-outline,
-    -1px  1px 0 $menu-outline,
-     1px  1px 0 $menu-outline;
+    -0.8px -0.8px 0 $menu-outline,
+     0.8px -0.8px 0 $menu-outline,
+    -0.8px  0.8px 0 $menu-outline,
+     0.8px  0.8px 0 $menu-outline;
 }
 
-/* Hover state: slightly stronger but still subtle */
+/* Hover: slightly stronger pale halo (still no dark shadow) */
 .site-navigation a:hover,
 .site-navigation a:focus {
   opacity: 1;
   text-shadow:
-    0 1px 0 $menu-anchor-shadow,
-    -1px -1px 0 $menu-outline,
-     1px -1px 0 $menu-outline,
-    -1px  1px 0 $menu-outline,
-     1px  1px 0 $menu-outline,
-    0 0 6px rgba(240,236,226,0.35); /* faint halo on hover */
+    -0.8px -0.8px 0 $menu-outline,
+     0.8px -0.8px 0 $menu-outline,
+    -0.8px  0.8px 0 $menu-outline,
+     0.8px  0.8px 0 $menu-outline,
+    0 0 6px rgba(240,236,226,0.28); /* subtle fuzzy boost on hover */
 }
 
 /* Contact email under the menu */
