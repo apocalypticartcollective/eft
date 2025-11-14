@@ -14,25 +14,26 @@ title: Credits
 *List of people who make me happy goes here*
 
 <!--
-- Bruce Charonnat (editing, design, promotion and publication support, production, vision, and chief provocateur)
-- Nik Bartunek (voice, engineering, marketing, production, and social media support, photography, market commiseration without capitulation, providential hand-me-downs)
-- Julie Maddalena (studio and voice coaching support, eye of newt and other medicinals)
+- Bruce Charonnat (editing, design, promotion and publication support, production, board member and chief provocateur)
+- Nik Bartunek (voice, engineering, marketing, and social media support, photography, market commiseration without capitulation, providential hand-me-downs)
+- Nick Stein (music)
+- Julie Maddalena (studio support, voice performance and health support, eye of newt and other medicinals)
+- Carla Mathis (voice direction, script support, prayer and encouragement)
 - Eric Mathis (early and eternal reader, epical and erical support)
 - Marilyn Mcentyre (editing & encouragement, publishing wisdom)
-- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration)
-- Michael Toy (soul brother, faithful and universal colaborator, honest assessor)
+- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration and field trips)
+- Timo Maddalena (first, Most Reassuring Reader, grounded wisdom)
+- Michael Toy (soul brother, faithful and universal colaborator, Jekyll team)
 - Linda Toy (soul sister, networker, encourager)
-- Kevin Marks (Original Field Trip Buddy; the other pastor/therapist/writer/weirdo) 
-- Marge Boots (graphics and <cough> typography support)
-- Russ Sampson (Saint Sampson, organizer of the *Tonopolo Readings*)
-- Everyone trapped at Tonopolo during the readings (great vibes, great listeners, great feedback)
+- Kevin Marks (Original Field Trip Buddy; team pastor/writer/therapist/weirdo) 
 - Heather Fosth (third-stage rocket ignition)
-- Carla Mathis (prayer and wisdom, theater edition)
+- Marge Boots (graphics and <cough> typography support)
+- Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI, what else you gonna do, besides waterski?)
+- Everyone trapped at Tonopolo during the readings
 - Mike McKenna (prayer and wisdom, tech edition; brand loyalist)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
-- Timothy Maddalena (Most Reassuring Reader, grounded wisdom)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
-- Finally, the ineffable divine that nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner; Word That Orders the Mess (for ordering my mess)
+- Finally, the Ineffable Divine, that nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner; Word That Orders the Mess (for ordering my mess)
 -->
 
 &nbsp;
