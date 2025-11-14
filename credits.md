@@ -7,7 +7,7 @@ title: Credits
 ## Dedication
 
 <dir align='center'>
-*To Harry Reynolds and his bastard file, now never dull* 
+<em>To Harry Reynolds and his bastard file, now never dull</em> 
 </dir>
 
 
