@@ -3,12 +3,13 @@ layout: post
 title: Credits
 ---
 
-*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye. 
+*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye or fills the bank account. 
 
 ## Dedication
 
+<dir align='center'>
 *To Harry Reynolds and his bastard file, now never dull.* 
-
+</dir>
 ## Acknowledgements
 
 *List of people who make me happy goes here*
@@ -17,15 +18,15 @@ title: Credits
 - Bruce Charonnat (editing, design, promotion and publication support, production, board member and chief provocateur)
 - Nik Bartunek (voice, engineering, marketing, and social media support, photography, market commiseration without capitulation, providential hand-me-downs)
 - Nick Stein (music)
-- Julie Maddalena (studio support, voice performance and health support, eye of newt and other medicinals)
-- Carla Mathis (voice direction, script support, prayer and encouragement)
+- Julie Maddalena (studio support, vocal performance and voice health support, eye of newt and other medicinals)
+- Carla Mathis (voice direction, script work, prayer and wisdom)
 - Eric Mathis (early and eternal reader, epical and erical support)
 - Marilyn Mcentyre (editing & encouragement, publishing wisdom)
-- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration and field trips)
-- Timo Maddalena (first, Most Reassuring Reader, grounded wisdom)
+- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration, field trips)
+- Timo Maddalena (First reader, Most Reassuring, grounded wisdom)
 - Michael Toy (soul brother, faithful and universal colaborator, Jekyll team)
 - Linda Toy (soul sister, networker, encourager)
-- Kevin Marks (Original Field Trip Buddy; team pastor/writer/therapist/weirdo) 
+- Kevin Marks (Original Field Trip Buddy; the other pastor/writer/therapist/conundrum) 
 - Heather Fosth (third-stage rocket ignition)
 - Marge Boots (graphics and <cough> typography support)
 - Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI, what else you gonna do, besides waterski?)
@@ -33,7 +34,7 @@ title: Credits
 - Mike McKenna (prayer and wisdom, tech edition; brand loyalist)
 - Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
 - A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
-- Finally, the Ineffable Divine, that nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner; Word That Orders the Mess (for ordering my mess)
+- Finally, the Ineffable Divine, that nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner; the Word That Orders the Mess (for ordering my mess)
 -->
 
 &nbsp;
@@ -44,17 +45,15 @@ Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by
 
 ## Works by others
 
-*Some of what I was marinating in during this project.* 
-
 &nbsp;
 
-*A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein (architecture as manifesto for human-centered design); *The Problem of God* by John Courtney Murray (on the essential I Am); *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos (travel writing as a peek into primitive culture at the threshold of modernism); The Priestly Author of *Genesis* chapter 1 and St. John of *The Revelation* (who stand at the threshold looking past beginnings and endings, and capture some of the mystery); every technology podcast.  
+*A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein tought me to think of how architecture nurtures or constrains the soul of community, and the soul; *The Problem of God* by John Courtney Murray tought me how a few words can be rooted in eternity and take a life to unpack; *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos help me hold on to one of my favorite places on Earth, beautiful, harsh, primitive, holy; The Priestly Author of *Genesis* chapter 1 and St. John of *The Revelation* invite me to come and stand at the threshold, to look past beginnings and endings, and discern a small part of the mystery.
 
 &nbsp;
 
 ## Statement on AI
 
-No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans as noted elsewhere on this page). AI *was* used to support the development of this website -- the author is not claiming to be a web developer.
+No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans as noted elsewhere on this page). AI *was* used to support the development of this website: the author makes no claim to be a web developer.
 
 &nbsp;
 
