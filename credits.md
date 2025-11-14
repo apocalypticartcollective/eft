@@ -10,6 +10,7 @@ title: Credits
 <dir align='center'>
 *To Harry Reynolds and his bastard file, now never dull.* 
 </dir>
+
 ## Acknowledgements
 
 *List of people who make me happy goes here*
