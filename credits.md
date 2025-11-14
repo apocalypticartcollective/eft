@@ -3,9 +3,6 @@ layout: post
 title: Credits
 ---
 
-*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye or fills the bank account. 
-
-The author wrote, edited, produced, marketed, engineered, and recorded the work presented herein, but would never have been able to do so without the support and care from all who are mentioned below. This work only exists because the author stood on the shoulders of giants (seriously, look at that list of people; if you know, you know). But then the author promptly lept off the shoulders of the giants, thinking he could fly. So, as they say, *all credit for the good to thee, all blame for what misses the mark to me*.
 
 ## Dedication
 
@@ -13,9 +10,14 @@ The author wrote, edited, produced, marketed, engineered, and recorded the work 
 *To Harry Reynolds and his bastard file, now never dull* 
 </dir>
 
+
 ## Acknowledgements
 
-*List of people who make me happy goes here*
+*Echo Future Truth* was written by D.P. Maddalena between 2015 and 2022, and is published here for the first time with the help of [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye or fills the bank account. 
+
+The author wrote, edited, produced, marketed, engineered, and recorded the work presented herein, but would never have been able to do so without the support and care from all who are mentioned below. This work only exists because the author stood on the shoulders of giants (seriously, look at that list of people; if you know, you know). The author, having been so elevated, promptly lept off the shoulders of the giants, thinking he could fly; so, as they say, *all credit for the good to thee, all blame for what misses the mark to me*.
+
+*list goes here*
 
 <!--
 - Bruce Charonnat (editing, design, promotion and publication support, production, board member and chief provocateur)
