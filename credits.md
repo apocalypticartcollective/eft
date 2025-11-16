@@ -57,7 +57,7 @@ Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by
 
 ## Statement on AI
 
-No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans as noted elsewhere on this page). AI *was* used to support the development of this website: the author makes no claim to be a web developer.
+No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans as noted elsewhere on this page). *My m-dashes are my own!* I have relied on A.I. to support the development of this website: the author makes no claim to be a web developer.
 
 &nbsp;
 
