@@ -19,7 +19,7 @@ category: Abrasion
 &nbsp;
  
 
-Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty of lapsed relevance. Coming to a stop in the center of the gravel expanse, she scanned the perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
+Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty of lapsed relevance. Coming to a stop in the center of the gravel expanse, she scanned its perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
 
 But nothing about these low, stucco buildings was accidental. Each had been perfectly preserved in a kind of material holographic projection long after the passing of anyone who might have suggested historical eras more worthy of preservation. It was meant to be comforting. But when she walked over the crumbled remains of the last real buildings -- and everything else buried below -- all she felt was dread.
 
