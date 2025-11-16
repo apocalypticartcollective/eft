@@ -49,15 +49,15 @@ Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by
 
 ## Works by others
 
-&nbsp;
-
 *A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein tought me to think of how architecture nurtures or constrains the soul of community, and the soul; *The Problem of God* by John Courtney Murray tought me how a few words can be rooted in eternity and take a life to unpack; *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos help me hold on to one of my favorite places on Earth, beautiful, harsh, primitive, holy; William Shakespeare, who wrote some poems and taught me how to use a microphone; the Priestly Author of *Genesis* chapter 1 and St. John of *The Revelation* invite me to come and stand at the threshold, to look past beginnings and endings, and discern a small part of the mystery.
 
 &nbsp;
 
 ## Statement on AI
 
-No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans as noted elsewhere on this page). *My m-dashes are my own!* I have relied on A.I. to support the development of this website: the author makes no claim to be a web developer.
+No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans as noted elsewhere on this page). *My m-dashes are my own!* 
+
+AI coding tools were used to support the development of this website: the author makes no claim to be a web developer.
 
 &nbsp;
 
