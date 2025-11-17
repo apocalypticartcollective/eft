@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 01 Abrasion - One
+title: Episode 01 - Abrasion One
 category: Abrasion
 ---
 
