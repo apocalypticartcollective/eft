@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 09 Isolation - One
+title: Episode 09 - Isolation One
 category: Isolation
 ---
 
