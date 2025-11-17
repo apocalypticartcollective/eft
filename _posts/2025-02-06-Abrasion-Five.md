@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 05 Abrasion - Five
+title: Episode 05 - Abrasion Five
 category: Abrasion
 ---
 
