@@ -19,7 +19,7 @@ layout: post
 
 &nbsp;
 
-The woman was asleep, and dreaming.
+The woman was asleep, and dreaming
 
 In this dream, the woman was pregnant with a world. Inside her: an entire ecosystem, a vast expanse; steamy chaotic primordial jungle. And, at the center of this embryonic garden? A single city surrounded by wilderness.
 
