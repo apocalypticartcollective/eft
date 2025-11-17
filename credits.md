@@ -6,7 +6,7 @@ title: Credits
 
 ## Dedication
 
-*To Harry Reynolds and his bastard file, now never dull*
+*To Harry Reynolds and his bastard file, now never dull*.
 
 ## Acknowledgements
 
