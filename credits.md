@@ -43,7 +43,7 @@ The author wrote, edited, produced, marketed, engineered, and recorded the work 
 
 &nbsp;
 
-Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by Pat Dryburgh; artwork by Spyros Vassiliou (ca. 1945); site laid out with OPTICloister font.
+Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by Pat Dryburgh; woodcuts by Spyros Vassiliou (ca. 1945, with thanks to the Athens Elliotts); site laid out with OPTICloister font.
 
 &nbsp;
 
