@@ -19,7 +19,7 @@ category: Abrasion
 &nbsp;
  
 
-Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty of lapsed relevance. Coming to a stop in the center of the gravel expanse, she scanned its perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
+Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty, now irrelevant. Coming to a stop in the center of the gravel expanse, she scanned its perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
 
 Nothing about these low, stucco buildings was accidental: each had been perfectly preserved in a kind of material holographic projection long after the passing of anyone who might have suggested historical eras more worthy of preservation. It was meant to be comforting. And yet, when she walked over the crumbled remains of the last real buildings -- and everything else buried below -- all she felt was dread.
 
@@ -43,7 +43,7 @@ She was, in fact, the planet's last Act of God, waiting to happen.
 
 <br />
 
-She completed her traverse of the square, passed through the doorway of the shimmering image of City Hall and approached the placid, alert receptionist. Her boots now tread more gently and the hardwood floor creaked in a comforting way.
+She completed her traverse of the square, passed through the doorway of the shimmering image of City Hall, and approached the placid, alert receptionist. Her boots now tread more gently and the hardwood floor creaked in a comforting way.
 
 'Afternoon, how may I help?' said the ghost, with the earnest frigidity of a dream remembered by a stranger.
 
