@@ -19,11 +19,11 @@ category: Abrasion
 &nbsp;
  
 
-Her heavy boots ground the rubble of several thousand years a little finer with every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some old duty, now irrelevant. Coming to a stop in the center of the gravel expanse, she scanned its perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
+Her heavy boots ground the rubble of several thousand years a little finer with her every shuffling visit to the ancient square. On this day, she bore across the courtyard an obligation of vestigial significance; a prop, to satisfy some degenerate duty, now irrelevant. Coming to a stop in the center of the gravel expanse, she scanned its perimeter, where a familiar collection of uninspired structures stood exactly as they had just before the end; twentieth century architecture in all its coincidental glory.
 
 Nothing about these low, stucco buildings was accidental: each had been perfectly preserved in a kind of material holographic projection long after the passing of anyone who might have suggested historical eras more worthy of preservation. It was meant to be comforting. And yet, when she walked over the crumbled remains of the last real buildings -- and everything else buried below -- all she felt was dread.
 
-In a futile reenactment of childhood visits to the doctor, she lifted a hand to lay on her chest and took a shallow breath. When she was a girl -- nervous on a cold, vinyl-top table, half-shrouded in a hospital gown -- a warm stethoscope revealed mysteries and the doctor's wordless smile said all was well. Then, she felt safe. The grown woman was not so well equipped: her own hand felt cold against her sternum, and beneath its rising and its falling her fingers found no reassurance.
+Reenactmenting of childhood visits to the doctor, she lifted a hand to lay on her chest and took a shallow breath. When she was a girl -- nervous on a cold, vinyl-top table, half-shrouded in a hospital gown -- a warm stethoscope revealed mysteries and the doctor's wordless smile said all was well. Then, she felt safe. The grown woman was not so well equipped: her own hand felt cold against her sternum, and beneath its rising and its falling her fingers found no reassurance.
 
 Nor did the nearly-empty spaces around her provide any relief; they were low-rent amusement park rides filled with hollow, mechanistic beings. And these facades in turn refused to give their secrets up -- they always faced in her direction.
 
@@ -37,7 +37,7 @@ She stood there in that emptiness (*silent, agnostic*), wanting to shrink from t
 
 Yet her very presence in this place told a different story. Her rough canvas coat and coveralls gave the impression she'd been carved out of a tree trunk. To an observer, she would display an indifferent determinism that was mostly empty of thought, mostly free of prejudice -- almost inanimate, elemental. Only, not harmless: like the crust of a planet, her costume was only a thin shell after all, barely binding her volcanic interior.
 
-When it came to it, she herself would choose to believe she was nothing more than an inconsequential relic, though her dreams were closer to the truth. Next to what remained of this ruined world, she was royalty, clothed with the sun. But dreams and appearances were two sides of the same flipping coin; would she be the head or the tail? Would her destiny be measured along dimensions apocalyptic or geologic? Maybe both. After all, it was Common Knowledge that inside her was the power to change everything, as well as the growing threat of an authentic, end-times catastrophe if ever she came in contact with anything of real value.
+When it came to it, she herself would choose to believe she was nothing more than an inconsequential relic, though her dreams were closer to the truth. Next to what remained of this ruined world, she was royalty, clothed with the sun. But dreams and appearances were two sides of the same flipping coin; would she be the head or the tail? Would her destiny be measured along dimensions apocalyptic or geologic? Maybe both. After all, it was Common Knowledge that inside her was a power to change everything, as well as a growing threat of an authentic, end-times catastrophe if ever she came in contact with anything of real value.
 
 She was, in fact, the planet's last Act of God, waiting to happen.
 
