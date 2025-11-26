@@ -28,7 +28,9 @@ Here's an Overcast bit
 
 **RSS for manual set up**
 
-Here's the RSS feed and instructions on how to use it
+Add the following RSS feed address to your news reader to be alerted when new chapters are added to this website
+
+https://echofuturetruth.com/feed.xml
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
