@@ -1,0 +1,32 @@
+---
+title: Introduction
+category: Book
+layout: post
+---
+
+## chapter title
+
+&nbsp;
+
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-book-chap.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+
+The american spirit was given political expression 250 years ago by the signers of the Declaration. That spirit was perhaps best expressed by Walt Whitman, who wrote that American democracy is “life’s gymnasium,” one that produced “freedom’s athletes.” What Whitman feared was “inertness and fossilism”—the possibility that America would stagnate, or build walls around itself, or walls through the middle of itself that divided the people. He admired energy. “I hail with joy the oceanic, variegated, intense practical energy, the demand for facts, even the business materialism of the current age,” he wrote in Democratic Vistas.
+
+<div style="text-align:center">
+<img src="{{ '/assets/images/image.png' | relative_url }}" alt="alternate text" />
+</div>
+
+We have traveled a long way from Whitman’s hymns of vigor and hope. But the spirit of the country, although perhaps dormant, still lives. Trumpism is ascendant now, but history shows that America cycles through a process of rupture and repair, suffering and reinvention. This process has a familiar sequence. Cultural and intellectual change comes first—a new vision. Social movements come second. Political change comes last.
+
+<div style="text-align:center">
+<img src="{{ '/assets/images/divider.svg' | relative_url }}" />
+</div>
