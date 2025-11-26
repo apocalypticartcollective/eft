@@ -17,7 +17,7 @@ title: About
 
 ## Acknowledgements
 
-The author wrote, edited, produced, engineered, and recorded the work presented herein, but would never have been able to do so without the support and care from all who are mentioned below. This work only exists because the author stood on the proverbial shoulders of giants (seriously, look at that list of people; if you know, you know). The author, having been so elevated, promptly lept off the shoulders of the giants, thinking he could fly; so, as the saying goes, *all credit for the good to thee, all blame for missing the mark to me*.
+The author wrote, edited, produced, engineered, and recorded the work presented herein, but would never have been able to do so without the support and care from all who are mentioned below. This work only exists because the author stood on the proverbial shoulders of giants (seriously, look at that list of people; if you know, you know). Also, the author, having been so elevated, promptly lept *off* the shoulders of the giants, thinking he could fly; so, as the saying goes, *all credit for the good to thee, all blame for missing the mark to me*.
 
 <br />
 
