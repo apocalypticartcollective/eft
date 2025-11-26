@@ -9,10 +9,7 @@ title: About
 &nbsp;
 
 
-*Echo Future Truth* is the first novel written by **D.P. Maddalena**, though he has written commercially and creatively for decades. He has traveled widely, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Vermont, Pasadena and Los Angeles; and Silicon Valley, California, U.S.A.; and held alternating roles as educator, senior writer in the tech industry, community organizer, pastor, and, today, as a licensed psychotherapist. Along the way, he's self-published two nonfiction collections of essays; published poetry, essays, and collage in online and print magazines; and participated in local theater, music, and spoken-word performance art scenes. His fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
-
-
-
+*Echo Future Truth* is the first novel written by **D.P. Maddalena**. The author has written commercially and creatively for decades, and has traveled widely, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Vermont, Pasadena and Los Angeles; and Silicon Valley, California, U.S.A.; and held alternating roles as educator, senior writer in the tech industry, community organizer, pastor, and, today, as a licensed psychotherapist. Along the way, he's self-published two nonfiction collections of essays; published poetry, essays, and collage in online and print magazines; and participated in local theater, music, and spoken-word performance art scenes. His fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
 
 ## Dedication
 
@@ -27,27 +24,27 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 [*list goes here*]
 
 <!--
-- Bruce Charonnat (editing, design, promotion, and publication support, production, chief provocateur)
-- Nik Bartunek (voice, engineering, marketing, and social media support, photography, market commiseration without capitulation, providential hand-me-downs)
+- Bruce Charonnat (editing, design, promotion, and publication support; production; chief provocateur)
+- Nik Bartunek (voice, engineering, marketing, and social media support; photography; market commiseration without capitulation; providential hand-me-downs)
 - Nick Stein (music)
-- Julie Maddalena (studio support, vocal performance and voice health support, eye of newt and other medicinals)
-- Carla Mathis (voice direction, script work)
-- Eric Mathis (early and eternal reader, epical and erical support and encouragement)
-- Marilyn Mcentyre (editing & encouragement, publishing wisdom)
-- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration, field trip buddy)
-- Timo Maddalena (First Reader, Most Reassuring, grounded wisdom)
-- Michael Toy (soul brother, faithful and universal colaborator, Web tech team)
-- Linda Toy (soul sister, networker, encourager)
-- Erick Jessee (print services, sustainability boss)
+- Julie Maddalena (studio support; vocal performance and voice health support; eye of newt and other medicinals)
+- Carla Mathis (voice direction; script work)
+- Eric Mathis (early and eternal reader; epical and erical support and encouragement)
+- Marilyn Mcentyre (editing & encouragement; publishing wisdom)
+- Zoe Maddalena (vibe & inspiration; straight talk; adjacent art collaboration; field trip buddy)
+- Timo Maddalena (First and Most Reassuring Reader; grounded wisdom)
+- Michael Toy (soul brother; faithful and universal colaborator; web tech)
+- Linda Toy (soul sister; networker; encourager)
+- Erick Jessee (print services; sustainability boss)
 - Kevin Marks (Original Field Trip Buddy; the other pastor/writer/therapist/artist) 
-- Heather Fosth (third-stage rocket ignition)
+- Heather Fosth (third-stage rocket booster)
 - Marge Boots (graphics and <cough> typography support)
-- Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI, what else you gonna do, besides waterski?)
+- Russ Sampson (Saint Sampson; organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI -- what else you gonna do besides waterski?)
 - Everyone trapped at Tonopolo during the readings
-- Mike McKenna (prayer and wisdom, tech edition; brand loyalist)
-- Craig Lauchner (prayer and wisdom, prayer and wisdom edition)
-- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika ('that's kind of *your* thing') Maddalena.
-- Finally, the Ineffable Divine, that nevertheless takes a name and human form -- maker, rescuer, comforter (and writing partner; the Word That Orders the Mess, for ordering my mess)
+- Mike McKenna (audio engineering support; brand loyalist)
+- Craig Lauchner (prayer and wisdom)
+- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using all the tools.
+- Finally: the Ineffable Divine who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (the Word That Orders the Mess, for ordering my mess)
 -->
 
 <br />
