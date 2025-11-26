@@ -23,7 +23,7 @@ Her heavy boots ground the rubble of several thousand years a little finer with 
 
 Nothing about these low, stucco buildings was accidental: each had been perfectly preserved in a kind of material holographic projection long after the passing of anyone who might have suggested historical eras more worthy of preservation. It was meant to be comforting. And yet, when she walked over the crumbled remains of the last real buildings -- and everything else buried below -- all she felt was dread.
 
-Reenactmenting of childhood visits to the doctor, she lifted a hand to lay on her chest and took a shallow breath. When she was a girl -- nervous on a cold, vinyl-top table, half-shrouded in a hospital gown -- a warm stethoscope revealed mysteries and the doctor's wordless smile said all was well. Then, she felt safe. The grown woman was not so well equipped: her own hand felt cold against her sternum, and beneath its rising and its falling her fingers found no reassurance.
+Reenacting childhood visits to the doctor, she lifted a hand to lay on her chest and took a shallow breath. When she was a girl -- nervous on a cold, vinyl-top table, half-shrouded in a hospital gown -- a warm stethoscope revealed mysteries and the doctor's wordless smile said all was well. Then, she felt safe. The grown woman was not so well equipped: her own hand felt cold against her sternum, and beneath its rising and its falling her fingers found no reassurance.
 
 Nor did the nearly-empty spaces around her provide any relief; they were low-rent amusement park rides filled with hollow, mechanistic beings. And these facades in turn refused to give their secrets up -- they always faced in her direction.
 
