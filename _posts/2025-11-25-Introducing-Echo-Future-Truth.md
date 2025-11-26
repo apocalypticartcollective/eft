@@ -29,10 +29,12 @@ Echo Future Truth is many things: a sometimes pre-, sometimes post-modern explor
 
 New chapters will appear on this site weekly, beginning during the holidays 2025. Episodes will also appear at the same time on Substack and via podcast players and services. To learn more about how and where to read and listen to Echo Future Truth, visit the <a href='/listen.html'>listen</a> page. 
 
-<div style="text-align:center">
-Have a little free library in your neighborhood? Download the poster and share the story:
 <br />
-<a href='/assets/images/poster.pdf'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
+
+Have a little free library in your neighborhood? Download the poster and share the story:
+
+<div style="text-align:center">
+<a href='/assets/images/poster.pdf' target='new'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
 </div>
 
 <div style="text-align:center">

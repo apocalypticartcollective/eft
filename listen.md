@@ -6,9 +6,7 @@ Category: Resources
 
 ## Where to Listen (and read)
 
-You can read each chapter as it becomes available here on this site or on Substack, where the audio is hosted. You may choose where to listen. Echo Future Truth audio will be released chapter by chapter on a weekly basis starting late 2025. Some chapters are short! Some are longer! Listen on Substack or via your favorite podcast player. 
-
-If you prefer a good binge to weekly short episodes, note: the novel contains three separate-but-connected stories, *Abrasion*, *Isolation*, and *Resistance*, each of which has between 7-9 chapters. So each book will drop over a couple months. To listen to all the episodes for a given book, mark your calendar and hit up one of the sources listed below to listen all at once. 
+You can both read and listen to each chapter as it becomes available here on this site. Chapters will be read by the author and released on a weekly basis starting during the holidays, 2025. Some chapters are short! Some are longer! If you prefer a good binge to weekly short episodes, simply mark your calendar and hit up one of the sources listed below to listen all at once. 
 
 ## Substack for email delivery and to listen
 
