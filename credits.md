@@ -17,15 +17,15 @@ The author wrote, edited, produced, marketed, engineered, and recorded the work 
 [*list goes here*]
 
 <!--
-- Bruce Charonnat (editing, design, promotion and publication support, production, board member and chief provocateur)
+- Bruce Charonnat (editing, design, promotion, and publication support, production, chief provocateur)
 - Nik Bartunek (voice, engineering, marketing, and social media support, photography, market commiseration without capitulation, providential hand-me-downs)
 - Nick Stein (music)
 - Julie Maddalena (studio support, vocal performance and voice health support, eye of newt and other medicinals)
 - Carla Mathis (voice direction, script work)
-- Eric Mathis (early and eternal reader, epical and erical support)
+- Eric Mathis (early and eternal reader, epical and erical support and encouragement)
 - Marilyn Mcentyre (editing & encouragement, publishing wisdom)
-- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration, field trips)
-- Timo Maddalena (First reader, Most Reassuring, grounded wisdom)
+- Zoe Maddalena (vibe & inspiration, straight talk, adjacent art collaboration, field trip buddy)
+- Timo Maddalena (First Reader, Most Reassuring, grounded wisdom)
 - Michael Toy (soul brother, faithful and universal colaborator, Web tech team)
 - Linda Toy (soul sister, networker, encourager)
 - Erick Jessee (print services, sustainability boss)
@@ -40,7 +40,7 @@ The author wrote, edited, produced, marketed, engineered, and recorded the work 
 - Finally, the Ineffable Divine, that nevertheless takes a name and human form -- maker, rescuer, comforter (and writing partner; the Word That Orders the Mess, for ordering my mess)
 -->
 
-The above are the creative artists that make up the [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists (in the mind of this artist) committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye or fills the bank account. 
+A number of the names above belong to the creative artists that make up the [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye or fills the bank account. 
 
 
 &nbsp;
