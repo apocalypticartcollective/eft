@@ -10,7 +10,7 @@ title: Credits
 
 ## Acknowledgements
 
-The author wrote, edited, produced, marketed, engineered, and recorded the work presented herein, but would never have been able to do so without the support and care from all who are mentioned below. This work only exists because the author stood on the proverbial shoulders of giants (seriously, look at that list of people; if you know, you know). The author, having been so elevated, promptly lept off the shoulders of the giants, thinking he could fly; so, as the saying goes, *all credit for the good to thee, all blame for missing the mark to me*.
+The author wrote, edited, produced, engineered, and recorded the work presented herein, but would never have been able to do so without the support and care from all who are mentioned below. This work only exists because the author stood on the proverbial shoulders of giants (seriously, look at that list of people; if you know, you know). The author, having been so elevated, promptly lept off the shoulders of the giants, thinking he could fly; so, as the saying goes, *all credit for the good to thee, all blame for missing the mark to me*.
 
 <br />
 
@@ -40,7 +40,9 @@ The author wrote, edited, produced, marketed, engineered, and recorded the work 
 - Finally, the Ineffable Divine, that nevertheless takes a name and human form -- maker, rescuer, comforter (and writing partner; the Word That Orders the Mess, for ordering my mess)
 -->
 
-A number of the names above belong to the creative artists that make up the [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye or fills the bank account. 
+<br />
+
+Many of the names above belong to artists that make up the [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye (or fills the bank account). 
 
 
 &nbsp;
