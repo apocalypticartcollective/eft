@@ -6,11 +6,11 @@ Category: Resources
 
 ## Where to Listen (and read)
 
-You can both read and listen to each chapter as it becomes available here on this site. Chapters will be read by the author and released on a weekly basis starting during the holidays, 2025. Some chapters are short! Some are longer! If you prefer a good binge to weekly short episodes, simply mark your calendar and hit up one of the sources listed below to listen all at once. 
+Echo Future Truth will be released as a serial beginning during the holidays, 2025, for free. You can both read and listen to each chapter as it becomes available here on this site. If you prefer a good binge to weekly short episodes, simply mark your calendar and hit up one of the sources listed below to listen all at once. 
 
-## Substack for email delivery and to listen
+## Substack for email delivery
 
-Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to listen and/or subscribe to email releases (. Note that on the welcome page you will have the opportunity to share your email address to receive weekly emails (and *maybe* the odd announcement about this project only). But you can also click past that screen (via the 'I'll listen here' link below the form) to drop right into the page with the latest episodes, no subscription needed. 
+Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to subscribe to email notifications
 
 **Spotify**
 

@@ -31,7 +31,7 @@ New chapters will appear on this site weekly, beginning during the holidays 2025
 
 <br />
 
-Have a little free library in your neighborhood? Download the poster and share the story:
+Have a <a href='https://littlefreelibrary.org/map/'>Little Free Library</a> in your neighborhood? Download the poster and share the story (PDF suitable for printing will open in a new page):
 
 <div style="text-align:center">
 <a href='/assets/images/poster.pdf' target='new'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
