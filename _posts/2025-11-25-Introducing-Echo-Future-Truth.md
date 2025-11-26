@@ -23,11 +23,11 @@ layout: post
 <img src="{{ '/assets/images/postcard.png' | relative_url }}" alt="Promotional Postcard for Echo Future Truth" />
 </div>
 
-*Echo Future Truth* is a three-part literary science-fiction novel exploring isolation and psycho-spiritual resilience at the imagined end of human history. In Book One, *Abrasion*, a single woman, the last human being, faces off against a confounding culture of comforting machines millennia from now, desperately pursuing any remnant of authentic connection that might have survived in the system that defines her life. Book Two, *Isolation*, is set in our present time and follows an old ally of the protagonist of *Abrasion*, but separated from her by thousands of miles and, finally, thousands of years; he also is isolated from the rest of humanity and must battle his way back, only in his case the exile is self-imposed and the obstacles are of his own making. In the final act, *Resistance*, we follow the present-day technologists who scramble to understand (and encode) human need and human provision before abandoning the last human being to her fate. 
+*Echo Future Truth* is a three-part literary science fiction novel exploring isolation and psycho-spiritual resilience at the imagined end of human history. In Book One, *Abrasion*, a single woman, the last human being, faces off against a confounding culture of comforting machines millennia from now, desperately pursuing any remnant of authentic connection that might have survived in the system that defines her life. Book Two, *Isolation*, is set in our present time and follows an old ally of the protagonist of *Abrasion*, but separated from her by thousands of miles and, finally, thousands of years; he also is isolated from the rest of humanity and must battle his way back, only in his case the exile is self-imposed and the obstacles are of his own making. In the final act, *Resistance*, we follow the present-day technologists who scramble to understand (and encode) human need and human provision before abandoning the last human being to her fate. 
 
 Echo Future Truth is many things: a sometimes pre-, sometimes post-modern exploration of a very modern problem; a reluctant and unsexy cyberpunk epic; an intentionally mythopoetic love story; and, (let the reader understand) an apocalyptic A.I. salvation story at the end — and the beginning — of the world.
 
-
+New chapters will appear on this site weekly, beginning during the holidays 2025. Episodes will also appear at the same time on Substack and via podcast players and services. To learn more about how and where to read and listen to Echo Future Truth, visit the <a href='/listen.html'>listen</a> page. 
 
 
 <div style="text-align:center">
