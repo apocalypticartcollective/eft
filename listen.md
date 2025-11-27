@@ -19,7 +19,7 @@ Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to su
 - Apple podcasts: Here's an Apply bit
 - Overcast: Here's an Overcast bit
 
-*If you listen to a lot of podcasts, you may prefer to listen to talk-shows at a greater-than-normal speed. This work of fiction, read by the author, has relatively short chapters, and should be listened to at 1x speed; the reading is part of the art. But even if you must speed up the playback, PLEASE disable any AI feature the removes quiet spaces from the reading. There is still something important happening even if you can't hear words.*
+*If you listen to a lot of podcasts, you may prefer to listen to talk-shows at a greater-than-normal speed. This work of fiction, read by the author, has relatively short chapters, and should be listened to at 1x speed. The reading is part of the art. If you must listen at a faster speed, at least disable any AI feature that removes quiet spaces from the reading. Silence is also part of the art.*
 
 ## RSS feed 
 

@@ -24,32 +24,32 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 [*list goes here*]
 
 <!--
-- Bruce Charonnat (editing, design, promotion, and publication support; production; chief provocateur)
-- Nik Bartunek (voice, engineering, marketing, and social media support; photography; market commiseration without capitulation; providential hand-me-downs)
-- Nick Stein (music)
-- Julie Maddalena (studio support; vocal performance and voice health support; eye of newt and other medicinals)
-- Carla Mathis (voice direction; script work)
-- Eric Mathis (early and eternal reader; epical and erical support and encouragement)
-- Marilyn Mcentyre (editing & encouragement; publishing wisdom)
-- Zoe Maddalena (vibe & inspiration; straight talk; adjacent art collaboration; field trip buddy)
-- Timo Maddalena (First and Most Reassuring Reader; grounded wisdom)
-- Michael Toy (soul brother; faithful and universal colaborator; web tech)
-- Linda Toy (soul sister; networker; encourager)
-- Erick Jessee (print services; sustainability boss)
-- Kevin Marks (Original Field Trip Buddy; the other pastor/writer/therapist/artist) 
-- Heather Fosth (third-stage rocket booster)
-- Marge Boots (graphics and <cough> typography support)
-- Russ Sampson (Saint Sampson; organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI -- what else you gonna do besides waterski?)
-- Everyone trapped at Tonopolo during the readings
-- Mike McKenna (audio engineering support; brand loyalist)
-- Craig Lauchner (prayer and wisdom)
-- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using all the tools.
-- Finally: the Ineffable Divine who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (the Word That Orders the Mess, for ordering my mess)
+- Bruce Charonnat (editing, design, promotion, and production support; chief provocateur; surrogate googler and publishing industry Sherpa).
+- Nik Bartunek (voice, engineering, marketing, and social media support; photography; market commiseration without capitulation; providential hand-me-downs).
+- Nick Stein (music).
+- Julie Maddalena (studio support; vocal performance and voice health support; eye of newt and other medicinals).
+- Eric Mathis (early and eternal reader; epical and erical support and encouragement).
+- Carla Mathis (voice direction; script work).
+- Marilyn Mcentyre (editing & encouragement; publishing wisdom).
+- Zoe Maddalena (vibe & inspiration; straight talk; adjacent art collaboration; field trip buddy).
+- Timo Maddalena (First and Most Reassuring Reader; grounded wisdom).
+- Michael Toy (soul brother; faithful and universal colaborator; wins arguments with the web).
+- Linda Toy (soul sister; networker; encourager).
+- Erick Jessee (printing and sustainability).
+- Kevin Marks (Original Field Trip Buddy; the other pastor/writer/therapist/artist).
+- Heather Fosth (third-stage rocket booster).
+- Marge Boots (graphics and <cough> typography support).
+- Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI -- what else you gonna do besides waterski?).
+- Everyone trapped at Tonopolo during the readings.
+- Mike McKenna (audio engineering support; brand loyalist).
+- Craig Lauchner (prayer and wisdom).
+- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using all my tools, and not only because I leave them all out; I get to live with her.
+- Finally: the Ineffable Divine, who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (the Word That Orders the Mess, for ordering my mess).
 -->
 
 <br />
 
-Many of the names above belong to artists that make up the [Apocalyptic Art Collective](https://apocalypticartcollective.com), a dis-organized community of artists committed to the mutual support of tent-maker artists who, through their work, make the case that there's more to this world than meets the eye (or fills the bank account). 
+Many of the names above belong to artists that make up the Apocalyptic Art Collective, a dis-organized community of tent-maker artists committed to mutual support, and who, through their work, make the case that there's more to this world than meets the eye (or fills the bank account). 
 
 
 &nbsp;
