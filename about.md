@@ -85,5 +85,5 @@ Echo Future Truth by D.P. Maddalena  © 2025, licensed under Creative Commons, &
 &nbsp;
 
 <div style="text-align:center">
-<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" />
+<img src="{{ '/assets/images/aacwordmark.png' | relative_url }}" width="250" alt="Apocalyptic Art Collective Wordmark" />
 </div>
