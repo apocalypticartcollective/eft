@@ -6,14 +6,16 @@ Category: Resources
 
 ## Where to Listen (and read)
 
-Echo Future Truth will be released for free as a weekly serial beginning during the holidays, 2025. You can both read and listen to each chapter as it becomes available here on this site. If you prefer a good binge to weekly short episodes, simply mark your calendar and hit up one of the sources listed below to listen all at once. 
+**Echo Future Truth** will be released for free as a weekly serial beginning during the holidays, 2025. You can read and listen to each chapter as it becomes available right here on this site. If you prefer a good binge to weekly short episodes, simply mark your calendar and hit up one of the sources listed below to listen all at once (the novel has three parts -- Abrasion, Isolation, and Resistance -- each of which is less than ten chapters, so if you tune in once every couple months, you will be able to listen to one complete section at a time).
 
 
 ## Substack for email delivery
 
-Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to subscribe to email notifications
+Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to subscribe to email notifications when new content is available.
 
 ## Podcast services
+
+The story will be distributed on the following podcast services: 
 
 - Spotify: Here's a Spotify bit
 - Apple podcasts: Here's an Apply bit
