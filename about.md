@@ -4,11 +4,6 @@ title: About
 ---
 
 
-*Echo Future Truth: A Creation Story in Three Parts*
-
-&nbsp;
-
-
 *Echo Future Truth* is the first novel written by **D.P. Maddalena**. The author has written commercially and creatively for decades, and has traveled widely, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and in Pasadena, Los Angeles, and Silicon Valley, California. He has held alternating roles as educator, senior writer in the tech industry, freelance marketing and communications writer, community organizer, pastor, and is currently a licensed psychotherapist. Along the way, he's self-published two nonfiction collections of essays; published poetry, essays, and collage in online and print magazines; and participated in local theater, music, and spoken-word performance art scenes. His fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
 
 ## Dedication
