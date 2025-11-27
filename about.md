@@ -31,20 +31,21 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 - Eric Mathis (early and eternal reader; epical and erical support and encouragement).
 - Carla Mathis (voice direction; script work).
 - Marilyn Mcentyre (editing & encouragement; publishing wisdom).
-- Zoe Maddalena (vibe & inspiration; straight talk; adjacent art collaboration; field trip buddy).
-- Timo Maddalena (First and Most Reassuring Reader; grounded wisdom).
-- Michael Toy (soul brother; faithful and universal colaborator; wins arguments with the web).
+- Zoe Maddalena (vibe & inspiration; straight talk; art collaborator and field trip buddy).
+- Timo Maddalena (first and most-reassuring reader; grounded wisdom).
+- Spyros Vasiliou and the Athens Elliotts, for the war-time woodcuts that have enriched the story from the very beginning.
+- Michael Toy (soul brother; faithful and universal colaborator; websites-r-us).
 - Linda Toy (soul sister; networker; encourager).
 - Erick Jessee (printing and sustainability).
-- Kevin Marks (Original Field Trip Buddy; the other pastor/writer/therapist/artist).
-- Heather Fosth (third-stage rocket booster).
+- Kevin Marks (Field Trip Buddy; the other pastor/writer/therapist/artist).
+- Heather Fosth (third-stage rocket booster; manual labor).
 - Marge Boots (graphics and <cough> typography support).
 - Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI -- what else you gonna do besides waterski?).
 - Everyone trapped at Tonopolo during the readings.
-- Mike McKenna (audio engineering support; brand loyalist).
+- Mike McKenna, Scott Cunningham, Greg Gibbons for audio engineering support and feedback.
 - Craig Lauchner (prayer and wisdom).
-- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using all my tools, and not only because I leave them all out; I get to live with her.
-- Finally: the Ineffable Divine, who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (the Word That Orders the Mess, for ordering my mess).
+- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using *all my tools* and not only because I leave them all out; I get to live with her.
+- Finally: the Ineffable Divine, who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (i.e. the Word That Orders the Mess, for ordering my mess).
 -->
 
 <br />
@@ -54,7 +55,7 @@ Many of the names above belong to artists that make up the Apocalyptic Art Colle
 
 &nbsp;
 
-Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by Pat Dryburgh; woodcuts by Spyros Vassiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts); site laid out with OPTICloister font.
+echofuturetruth.com content, design, and development by D.P. Maddalena -- design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh; woodcuts by Spyros Vasiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts); site laid out with OPTICloister font.
 
 &nbsp;
 
@@ -64,13 +65,13 @@ Web design and development by D.P. Maddalena based on Jekyll theme 'Hitchens' by
 
 &nbsp;
 
-## Statement on AI
+## Statement on A.I.
 
-No AI tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial support performed by humans referenced elsewhere on this page). My m-dashes are my own! 
+No A.I. tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial performed by humans as noted elsewhere on this page). My m-dashes are my own! 
 
 <br />
 
-AI coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.
+A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.
 
 &nbsp;
 
@@ -78,7 +79,7 @@ AI coding tools *were* used to support the development of this website: the auth
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
 </div>
 
-Echo Future Truth by D.P. Maddalena  © 2025, licensed under Creative Commons, &nbsp; [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Echo Future Truth by D.P. Maddalena and echofuturetruth.com  © 2025, licensed under Creative Commons, &nbsp; [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 &nbsp;
 
