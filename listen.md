@@ -27,6 +27,13 @@ Add the following RSS feed address to your news reader to be alerted when new ch
 
 https://echofuturetruth.com/feed.xml
 
+## Share
+
+Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Library</a> in your neighborhood? Or a friendly bookstore or coffee shop? Download the poster and share the story (PDF suitable for printing will open in a new page):
+
+<div style="text-align:center">
+<a href='/assets/images/poster.pdf' target='new'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
+</div>
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
