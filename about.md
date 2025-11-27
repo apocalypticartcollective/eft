@@ -51,7 +51,7 @@ Many of the names above belong to artists that make up the Apocalyptic Art Colle
 
 &nbsp;
 
-echofuturetruth.com content, design, and development by D.P. Maddalena -- design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh; woodcuts by Spyros Vasiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts); site laid out with OPTICloister font.
+**echofuturetruth.com** content, design, and development by D.P. Maddalena -- design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh; woodcuts by Spyros Vasiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts); site laid out with OPTICloister font.
 
 &nbsp;
 
