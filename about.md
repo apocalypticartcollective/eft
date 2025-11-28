@@ -4,7 +4,7 @@ title: About
 ---
 
 
-Written between 2015 and 2022, *Echo Future Truth* is the first novel by **D.P. Maddalena**. I've written commercially and creatively for decades, and benefitted from the ability to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and Pasadena, Los Angeles, and Silicon Valley, California. Over the years I've worked in a variety of roles: educator, senior writer in the tech industry, freelance marketing and communications writer, community organizer, pastor; I'm currently a licensed psychotherapist in California. I've self-published two nonfiction collections of essays; and my poetry, essays, and collage have been published in online and print magazines. Rounding out the art-school bona fides, I've spent my life jumping on opportunities to participate in local theater, music, and spoken-word performance art scenes. My fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
+Written between 2015 and 2022, *Echo Future Truth* is the first novel by **D.P. Maddalena**. I've written commercially and creatively for decades, and benefitted from the ability to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and Pasadena, Los Angeles, and Silicon Valley, California. Over the years I've been employed in a variety of roles: educator, senior writer in the tech industry, freelance marketing and communications writer, marketing director for a design firm, community organizer, pastor, retail sales at REI (Store of the Year, 1994, baby); I'm currently a licensed psychotherapist in California. I've self-published two nonfiction collections of essays; and my poetry, essays, and collage have been published in online and print magazines. Rounding out the art-school bona fides, I've spent my life jumping on opportunities to participate in local theater, music, and spoken-word performance art scenes. My fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
 
 ## Dedication
 
@@ -71,7 +71,7 @@ No A.I. tools were used in the creation of *Echo Future Truth*. All writing, edi
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
 </div>
 
-Echo Future Truth by D.P. Maddalena and echofuturetruth.com  © 2025, licensed under Creative Commons, &nbsp; [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+*Echo Future Truth* by D.P. Maddalena and echofuturetruth.com  © 2025, licensed under Creative Commons, &nbsp; [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 &nbsp;
 
