@@ -19,7 +19,7 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 [*list goes here*]
 
 <!--
-- Bruce Charonnat (editing, design, promotion, and production support; chief provocateur; surrogate googler and publishing industry Sherpa).
+- Bruce Charonnat (editing, design, promotion, and production support; chief provocateur; surrogate googler and search Sherpa).
 - Nik Bartunek (voice, engineering, marketing, and social media support; photography; market commiseration without capitulation; providential hand-me-downs).
 - Nick Stein (music).
 - Julie Maddalena (studio support; vocal performance and voice health support; eye of newt and other medicinals).
