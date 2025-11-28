@@ -59,7 +59,7 @@ The following works were companions over the years of writing, influencing and a
 
 ## Publishing Notes
 
-**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts). Tools that made the job easier: GitHub, Jekyll, Markdown, Pandoc, Transmit, BBEdit, Apple. 
+**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945); photography by Nik Bartunek. Tools that made the whole job easier, from first drafts to whatyouseenow: Markdown, Pandoc, Transmit, BBEdit, Jekyll, GitHub, on Apple hardware. 
 
 ## Statement on A.I.
 
