@@ -4,7 +4,7 @@ title: About
 ---
 
 
-*Echo Future Truth* is the first novel written by **D.P. Maddalena**. The author has written commercially and creatively for decades, and has traveled widely, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and in Pasadena, Los Angeles, and Silicon Valley, California. He has held alternating roles as educator, senior writer in the tech industry, freelance marketing and communications writer, community organizer, pastor, and is currently a licensed psychotherapist in California. Along the way, he's self-published two nonfiction collections of essays; published poetry, essays, and collage in online and print magazines; and participated in local theater, music, and spoken-word performance art scenes. His fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
+*Echo Future Truth* is a first novel written by **D.P. Maddalena**. The author has written commercially and creatively for decades, and has traveled widely, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and in Pasadena, Los Angeles, and Silicon Valley, California. He has held alternating roles as educator, senior writer in the tech industry, freelance marketing and communications writer, community organizer, pastor, and is currently a licensed psychotherapist in California. Along the way, he's self-published two nonfiction collections of essays; published poetry, essays, and collage in online and print magazines; and participated in local theater, music, and spoken-word performance art scenes. His fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
 
 ## Dedication
 
@@ -51,23 +51,19 @@ Many of the names above belong to artists that make up the Apocalyptic Art Colle
 
 &nbsp;
 
-**echofuturetruth.com** content, design, and development by D.P. Maddalena -- design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh; woodcuts by Spyros Vasiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts); site laid out with OPTICloister font.
+## Works by Others
+
+The following works were companions over the years of writing, influencing and anchoring the worldview of *Echo Future Truth*: *A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein tought me to think of how architecture nurtures or constrains the soul of community; *The Problem of God* by John Courtney Murray tought me how a few words can be rooted in eternity and take a life to unpack; *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos helped me hold on to one of my favorite places on Earth -- beautiful, harsh, primitive, holy; William Shakespeare wrote some poems and taught me how to use a microphone; the Priestly Author of *Genesis* chapter 1 and St. John of *The Revelation* invite me to come and stand at the threshold, to look past beginnings and endings, and discern a small part of the mystery.
 
 &nbsp;
 
-## Works by others
+## Publishing Notes
 
-*A Pattern Language* by Christopher Alexander, Sara Ishikawa, Murray Silverstein tought me to think of how architecture nurtures or constrains the soul of community, and the soul; *The Problem of God* by John Courtney Murray tought me how a few words can be rooted in eternity and take a life to unpack; *Mani* by Patrick Leigh Fermor and *Deep into Mani; Journey to the Southern Tip of Greece* by Peter Greenhalgh and Edward Eliopoulos help me hold on to one of my favorite places on Earth -- beautiful, harsh, primitive, holy; William Shakespeare wrote some poems and taught me how to use a microphone; and the Priestly Author of *Genesis* chapter 1 and St. John of *The Revelation* invite me to come and stand at the threshold, to look past beginnings and endings, and discern a small part of the mystery.
-
-&nbsp;
+**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945; used by permission, with thanks to the Athens Elliotts). Tools that made the job easier: GitHub, Jekyll, Markdown, Pandoc, Transmit, BBEdit, Apple. 
 
 ## Statement on A.I.
 
-No A.I. tools were used in the creation of this work. All writing, editing, and research was done by the author (with the exception of editorial performed by humans as noted elsewhere on this page). My m-dashes are my own! 
-
-<br />
-
-A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.
+No A.I. tools were used in the creation of *Echo Future Truth*. All writing, editing, and research was done by the author (with the exception of editing support by humans as noted elsewhere on this page). My m-dashes are my own! (A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.)
 
 &nbsp;
 
