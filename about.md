@@ -4,7 +4,7 @@ title: About
 ---
 
 
-Written between 2015 and 2022, *Echo Future Truth* is the first novel by **D.P. Maddalena**. I've written commercially and creatively for decades, and benefitted from the ability to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and Pasadena, Los Angeles, and Silicon Valley, California. Over the years I've been employed in a variety of roles: educator, senior writer in the tech industry, freelance marketing and communications writer, marketing director for a design firm, community organizer, pastor, retail sales at REI (Store of the Year, 1994, baby); I'm currently a licensed psychotherapist in California. I've self-published two nonfiction collections of essays; and my poetry, essays, and collage have been published in online and print magazines. Rounding out the art-school bona fides, I've spent my life jumping on opportunities to participate in local theater, music, and spoken-word performance art scenes. My fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
+Written over seven years beginning in 2015, *Echo Future Truth* is D.P. Maddalena's first novel. I've written commercially and creatively for decades, and benefitted from the ability to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City, New York; Bennington, Vermont; and Pasadena, Los Angeles, and Silicon Valley, California. Over the years I've been employed in a variety of roles: educator, senior writer in the tech industry, freelance marketing and communications writer, marketing director for a design firm, community organizer, pastor, retail sales at REI (Store of the Year, 1994, baby); I'm currently a licensed psychotherapist in California. I've self-published two nonfiction collections of essays; and my poetry, essays, and collage have been published in online and print magazines. Rounding out the art-school bona fides, I've spent my life jumping on opportunities to participate in local theater, music, and spoken-word performance art scenes. My fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories.
 
 ## Dedication
 
@@ -20,7 +20,7 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 
 <!--
 - Bruce Charonnat (editing, design, promotion, and production support; chief provocateur; surrogate googler and search Sherpa).
-- Nik Bartunek (voice, engineering, marketing, and social media support; photography; market commiseration without capitulation; providential hand-me-downs).
+- Nik Bartunek (voice, engineering, marketing, and social` media support; photography; market commiseration without capitulation; providential hand-me-downs).
 - Nick Stein (music).
 - Julie Maddalena (studio support; vocal performance and voice health support; eye of newt and other medicinals).
 - Eric Mathis (early and eternal reader; epical and erical support and encouragement).
