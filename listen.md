@@ -31,7 +31,7 @@ Add the following RSS feed address to your news reader to be alerted when new ch
 
 https://echofuturetruth.com/feed.xml
 
-## Share
+## Share (IRL)
 
 Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Library</a> in your neighborhood? Or a friendly bookstore or coffee shop? Download the poster and share the story (PDF suitable for printing will open in a new page):
 
