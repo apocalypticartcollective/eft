@@ -21,7 +21,7 @@ The story will be distributed on the following podcast services:
 - Apple podcasts: Here's an Apply bit
 - Overcast: Here's an Overcast bit
 
-*If you listen to a lot of podcasts, you may prefer to listen to talk-shows at a greater-than-normal speed. This work of fiction, read by the author, has relatively short chapters and should be listened to at 1x speed. The reading is part of the art. If you must listen at a faster speed, at least disable any AI feature that removes quiet spaces from the reading. Silence is also part of the art.*
+*If you listen to a lot of podcasts, you may prefer to listen to talk-shows at a faster-than-normal speed. This work of fiction has relatively short chapters and, in the author's humble opinion, is best listened to at 1x speed. The reading is part of the art, after all. If you've got places to be, and* must *listen at a faster speed, please at least disable any AI feature that removes quiet spaces from the reading. Silence is also part of the art, and you are not running out of time.*
 
 ## RSS feed 
 
@@ -31,9 +31,9 @@ Add the following RSS feed address to your news reader to be alerted when new ch
 
 https://echofuturetruth.com/feed.xml
 
-## Share (IRL)
+## Share the Story (IRL)
 
-Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Library</a> in your neighborhood? Or a friendly bookstore or coffee shop? Download the poster and share the story (PDF suitable for printing will open in a new page):
+Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Library</a> in your neighborhood? Or a friendly bookstore or coffee shop? Print the poster and share the story (PDF suitable for printing will open in a new page):
 
 <div style="text-align:center">
 <a href='/assets/images/poster.pdf' target='new'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
