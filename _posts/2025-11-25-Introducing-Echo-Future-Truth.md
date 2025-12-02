@@ -29,15 +29,10 @@ If you're the kind of person that believes in a creator, then you may also belie
 
 *Echo Future Truth* is many things: a sometimes pre-, sometimes post-modern exploration of a very modern problem; a reluctant and unsexy cyberpunk epic; an intentionally mythopoetic love story; and, (let the reader understand) an apocalyptic A.I. salvation story at the end — and the beginning — of the world.
 
-New chapters will appear on this site weekly, beginning during the holidays 2025. Episodes will also appear at the same time on Substack and via podcast players and services. To learn more about how and where to read and listen to *Echo Future Truth*, visit the <a href='/listen.html'>listen</a> page. 
-
 <br />
 
-Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Library</a> in your neighborhood? Or a friendly bookstore or coffee shop? Download the poster and share the free-to-listen story (PDF suitable for printing will open in a new page):
+*New chapters will appear on this site weekly. Episodes will also appear at the same time on Substack and via podcast players and services. To learn more about how and where to read and listen visit the <a href='/listen.html'>listen</a> page*. 
 
-<div style="text-align:center">
-<a href='/assets/images/poster.pdf' target='new'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
-</div>
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
