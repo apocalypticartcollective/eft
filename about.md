@@ -75,7 +75,7 @@ The following works were companions over the years of writing, influencing and a
 
 ## Statement on A.I.
 
-No A.I. tools were used in the creation of *Echo Future Truth*. All writing, editing, and research was done by the author (with the exception of editing support by humans as noted elsewhere on this page). My m-dashes are my own! (A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.)
+No A.I. tools were used in the creation of *Echo Future Truth*. Except for the editorial support by humans detailed above, all research, writing, and editing was done by the author -- my m-dashes are my own! (A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.)
 
 &nbsp;
 
