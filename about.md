@@ -33,13 +33,13 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 - Nick Stein (music).
 - Julie Maddalena (studio support; vocal performance and voice health support -- eye of newt and other medicinals).
 - Eric Mathis (early and eternal reader; epical and erical support and encouragement).
-- Carla Mathis (voice direction; script work).
+- Carla Mathis (essential voice direction; script work).
 - Ann Wolfe and the A-TEAM homeschool community creative writing classes.
 - Marilyn Mcentyre (editing & encouragement; publishing wisdom).
 - Zoe Maddalena (vibe & inspiration; straight talk; art collaborator and field trip buddy).
 - Timo Maddalena (first and most-reassuring reader; grounded wisdom).
 - Spyros Vasiliou and the Athens Elliotts, for the war-time woodcuts that have enriched the story from the very beginning.
-- Michael Toy (soul brother; faithful and universal colaborator; websites-r-us).
+- Michael Toy (soul brother; faithful and universal colaborator; websites-r-us -- always ready to fix the internet).
 - Linda Toy (soul sister; networker; encourager).
 - Erick Jessee (printing and sustainability ... *of friendships and resources*).
 - Kevin Marks (original Field Trip Buddy; the other pastor/writer/therapist/artist).
@@ -71,11 +71,11 @@ The following works were companions over the years of writing, influencing and a
 
 ## Publishing Notes
 
-**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945); photography by Nik Bartunek. Tools that made the whole job easier, from first drafts to whatyouseenow: Markdown, Pandoc, Transmit, BBEdit, Jekyll, GitHub, Apple hardware. 
+**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945); photography by Nik Bartunek. Tools that made the whole job easier, from first drafts to whatyouseenow: BBEdit, Markdown, Pandoc, Transmit, Jekyll, GitHub, Audacity, Pixelmator, Apple hardware. 
 
 ## Statement on A.I.
 
-No A.I. tools were used in the creation of *Echo Future Truth*. Except for the editorial support by humans detailed above, all research, writing, and editing was done by the author -- my m-dashes are my own! (A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.)
+No A.I. tools were used in the creation of *Echo Future Truth*. Except for editorial support by humans as detailed above, all research, writing, and editing was done by the author -- my m-dashes are my own! (A.I. coding tools *were* used to support the development of this website: the author makes no claim to be a web developer.)
 
 &nbsp;
 
