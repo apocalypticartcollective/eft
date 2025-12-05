@@ -111,11 +111,11 @@ The Director waved a hand toward the window, and the room almost instantly snapp
 
 With an anxious edge to her voice, she said, 'Yes? What ...?'
 
-He responded quietly, slowly. 'What must it mean that we are introduced to heaven in this way, so early in this creation story -- that heaven is first defined as this space between the waters? What's going on there? In the simplest sense? If you knew nothing else about this reality, because nothing else exists? If all we knew was ... *water*, *separated*, and the expanse *in between*? What happens in between?'
+He responded quietly, slowly. 'What must it mean that we are introduced to heaven in this way, so early in this creation story -- that heaven is first defined as this space between the waters? What's going on there? In the simplest sense? If you knew nothing else about this reality, because nothing else exists? If all we knew was ... *water*, *separated*, and the expanse *in between*? What happens in the midst?'
 
 'I don't know! Nothing?'
 
-With an exaggerated shake of his head, he said, 'There is no such thing as nothing, professor, you know that! What happens in the midst ... of the waters?'
+With an exaggerated shake of his head, he said, 'There is no such thing as nothing, professor, you know that! What happens in ... between ... the waters?'
 
 She was staring directly at him. With a start, she suddenly grasped the rules of the game -- 'Change,' she said. 'Water changes. It *changes state*.'
 
