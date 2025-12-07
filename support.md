@@ -15,7 +15,9 @@ That is, if you're listening along and thinking to yourself, "That's worth a tri
 
 </div>
 
-## Share the Story (IRL)
+&nbsp;
+
+## Support the Project: Share the Story
 
 Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Library</a> in your neighborhood? Or a friendly bookstore or coffee shop? Print the poster and share the free-to-listen story (PDF suitable for printing will open in a new page):
 
