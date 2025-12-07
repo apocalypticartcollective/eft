@@ -10,7 +10,7 @@ layout: post
 
 <div align='center'>
 <audio controls preload="none" playsinline>
-  <source src="/assets/audio/eft-abr-pro.mp3" type="audio/mpeg">
+  <source src="/assets/audio/eft-pro.mp3" type="audio/mpeg">
 </audio>
 </div>
 
