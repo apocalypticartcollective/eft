@@ -25,6 +25,7 @@ Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Lib
 <a href='/assets/images/poster.pdf' target='new'><img src="{{ '/assets/images/poster.png' | relative_url }}" /></a>
 </div>
 
+&nbsp;
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />

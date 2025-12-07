@@ -31,7 +31,7 @@ If you're the kind of person that believes in a creator, then you may also belie
 
 <br />
 
-*New chapters will appear on this site weekly. Episodes will also appear at the same time on Substack and via podcast players and services. To learn more about how and where to read and listen visit the <a href='/listen.html'>listen</a> page*. 
+*New chapters will appear on this site weekly. Episodes will also appear at the same time on Substack and via podcast players and services. Learn more about how and where to read and listen at the <a href='/listen.html'>listen</a> page*. 
 
 
 <div style="text-align:center">
