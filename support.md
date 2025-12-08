@@ -3,9 +3,9 @@ layout: post
 title: Support the Artist
 ---
 
-*Echo Future Truth* is available free for you to enjoy and to freely share. This serialized presentation is a labor of love: please receive it in that spirit! And, if you are so moved, hit the button below to show some love for the laborer.
+*Echo Future Truth* is free for you to enjoy and to freely share. This serialized presentation is a labor of love: please receive it in that spirit! And, if you are so moved, hit the button below to show some love for the laborer.
 
-That is, if you're listening along and thinking to yourself, "That's worth a triple-seasonal-spice-coffeebomination-and-a-blueberry-scone", consider supporting the author via the link below. The work will remain free indefinitely to read and listen to, whether or not you're able to make a financial contribution. Glad to have you along.
+That is, if you're listening along and thinking to yourself, "That's worth a triple-seasonal-spice-coffeebomination-and-a-blueberry-scone", consider supporting the author via the link below. The work will remain free indefinitely to read and listen to, no matter what. Glad to have you along.
 
 &nbsp;
 
