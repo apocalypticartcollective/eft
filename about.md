@@ -8,7 +8,7 @@ Written over seven years beginning in 2015, *Echo Future Truth* is D.P. Maddalen
 
 Publishers like to hear what popular books your book is like when you're shopping your story around. For better or worse, this story was not written to a formula; my fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories. 
 
-I've been privileged to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City; and Pasadena, Los Angeles, and Silicon Valley, California. I've written commercially and creatively for decades while employed in a variety of roles: educator, writer in the tech industry (from freelance to senior roles), marketing director for a design firm, pastor and community organizer, retail sales at REI (Store of the Year, 1994! Still kind of a dream job, if I'm honest). 
+I've been privileged to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City; and Pasadena, Los Angeles, and Silicon Valley, California. I've written commercially and creatively for decades while employed in a variety of roles: educator, marketing writer in the tech industry (from freelance to senior roles), pastor and community organizer, and tent-seller at REI (Store of the Year, 1994! Still kind of a dream job, if I'm honest). 
 
 Over the years, I've self-published two nonfiction collections of essays, and my poetry, essays, and collage art have been published in online and print magazines. I hold an MDiv from Fuller Seminary ('93) and an MA in counseling psychology from Santa Clara University (2016). As a student at Bennington College in the 80s, I studied theater, sculpture, painting, and writing (with a little dance thrown in for good measure). Rounding out the art-school bona fides, I've spent my life eagerly pursuing opportunities to participate in local theater, art, music, and spoken-word performance art scenes. If we meet at a party and you tell me about your art, we'll be friends. 
 
@@ -45,14 +45,14 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 - Kevin Marks (original Field Trip Buddy; the other pastor/writer/therapist/artist).
 - Heather Fosth (third-stage rocket booster; manual labor).
 - Marge Boots (graphics and <cough> typography support).
-= Ed Needham
-- Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings*, 500+ AQI -- what else you gonna do besides waterski?).
+- Ed Needham (scene partner)
+- Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings* -- 500+ AQI -- what else you gonna do when you're done waterskiing?).
 - Everyone trapped at Tonopolo during the readings.
 - Mike McKenna (brand loyalist, audio engineering support, jazz edition)
 - Scott Cunningham (audio engineering support)
-- Greg Gibbons (audio and performance feedback; audience of one).
+- Greg Gibbons (audience of one).
 - Craig Lauchner (prayer).
-- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using *all my tools* and not only because I leave them all out; I get to live with her.
+- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using *all my tools* and not only because I leave them all out; she has to live with me. I get to live with her.
 - Finally: the Ineffable Divine, who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (i.e. the Word That Orders the Mess, for ordering my mess).
 -->
 
@@ -71,7 +71,7 @@ The following works were companions over the years of writing, influencing and a
 
 ## Publishing Notes
 
-**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945); photography by Nik Bartunek. Tools that made the whole job easier, from first drafts to whatyouseenow: BBEdit, Markdown, Pandoc, Transmit, Jekyll, GitHub, Audacity, Pixelmator, Apple hardware. 
+**echofuturetruth.com** content, design, and development by D.P. Maddalena (design originally based on Jekyll theme, 'Hitchens' by Pat Dryburgh); laid out with OPTICloister font; woodcuts by Spyros Vasiliou (ca. 1945); photography by Nik Bartunek. Tools that made the whole job easier, from first draft to final product: BBEdit, Markdown, Pandoc, Transmit, Jekyll, GitHub, Audacity, Pixelmator, Apple hardware. 
 
 ## Statement on A.I.
 
