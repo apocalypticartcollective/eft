@@ -28,32 +28,7 @@ The author wrote, edited, produced, engineered, and recorded the work presented 
 [*list goes here*]
 
 <!--
-- Bruce Charonnat (editing, design, promotion, and production support; chief provocateur; surrogate googler and search Sherpa).
-- Nik Bartunek (voice, engineering, marketing, and social media support; photography; market commiseration without capitulation; providential hand-me-downs).
-- Nick Stein (music).
-- Julie Maddalena (studio support; vocal performance and voice health support -- eye of newt and other medicinals).
-- Eric Mathis (early and eternal reader; epical and erical support and encouragement).
-- Carla Mathis (essential voice direction; script work).
-- Ann Wolfe and the A-TEAM homeschool community creative writing classes.
-- Marilyn Mcentyre (editing & encouragement; publishing wisdom).
-- Zoe Maddalena (vibe & inspiration; straight talk; art collaborator and field trip buddy).
-- Timo Maddalena (first and most-reassuring reader; grounded wisdom).
-- Spyros Vasiliou and the Athens Elliotts, for the war-time woodcuts that have enriched the story from the very beginning.
-- Michael Toy (soul brother; faithful and universal colaborator; websites-r-us -- always ready to fix the internet).
-- Linda Toy (soul sister; networker; encourager).
-- Erick Jessee (printing and sustainability ... *of friendships and resources*).
-- Kevin Marks (original Field Trip Buddy; the other pastor/writer/therapist/artist).
-- Heather Fosth (third-stage rocket booster; manual labor).
-- Marge Boots (graphics and <cough> typography support).
-- Ed Needham (scene partner)
-- Russ Sampson (Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings* -- 500+ AQI -- what else you gonna do when you're done waterskiing?).
-- Everyone trapped at Tonopolo during the readings.
-- Mike McKenna (brand loyalist, audio engineering support, jazz edition)
-- Scott Cunningham (audio engineering support)
-- Greg Gibbons (audience of one).
-- Craig Lauchner (prayer).
-- A special thanks to the beautiful, patient, supportive wife of the artist, Anghelika Maddalena, who can tell when I'm using *all my tools* and not only because I leave them all out; she has to live with me. I get to live with her.
-- Finally: the Ineffable Divine, who nevertheless takes a name and human form -- maker, rescuer, comforter, and writing partner (i.e. the Word That Orders the Mess, for ordering my mess).
+Big gratitude goes to: **Bruce Charonnat**, for editing, design, promotion, and production support, and two decades of provocation -- I dub thee Google-results-dragon slayer and search sherpa :: **Nik Bartunek**, for social media, photography; voice, engineering, and marketing support; market commiseration without capitulation; providential hand-me-downs :: **Nick Stein**, for the music :: **Marilyn Mcentyre**, for editing,  encouragement, and publishing wisdom :: **Julie Maddalena**, for studio, vocal performance, and voice health support -- eye of newt and other medicinals :: **Eric Mathis**, early and eternal reader; epical and erical support and encouragement) :: **Carla Mathis**, for essential voice direction and script work :: **Ann Wolfe**, and the A-TEAM homeschool community for tricking me into writing a novel :: **Zoe Maddalena**, for dueling art vibes & inspiration, straight talk, and being a good field trip buddy :: **Timo Maddalena**, first and most-reassuring reader, and go to for grounded wisdom :: **Spyros Vasiliou** and the **Athens Elliotts**, for the war-time woodcuts that have enriched the story from the very beginning :: **Michael Toy**, soul brother; faithful and universal colaborator; websites-r-us -- always ready to fix the internet :: **Linda Toy**, soul sister, networker, encourager :: **Erick Jessee**, printing and sustainability :: **Kevin Marks**, original Field Trip Buddy, the other pastor/writer/therapist/artist) :: **Heather Fosth**, third-stage rocket booster, manual labor :: **Marge Boots**, graphics and <cough> typography support :: **Russ Sampson**, Saint Sampson, organizer of the legendary *Tonopolo Apocalypse Readings* (500+ AQI; what else you gonna do when you're done waterskiing?) :: **Everyone trapped at Tonopolo** during the readings :: **Mike McKenna**, buys everything I'm selling; offers more help than I can use :: **Scott Cunningham**, audio engineering support :: **Greg Gibbons**, door-dash audience of one :: **Ed Needham**, scene partner :: **Craig Lauchner**, big brother :: A special thanks to the beautiful, patient, supportive wife of the artist, **Anghelika Maddalena**, who can tell when I'm using *all my tools* and not only because I leave them all out; she has to live with me. I get to live with her :: Finally: the Ineffable Divine, who nevertheless takes a name and human form -- my maker, rescuer, comforter, and writing partner; the **Eternal Word that orders the chaos** (for ordering my chaos).
 -->
 
 <br />
