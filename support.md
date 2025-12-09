@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Support the Artist
+title: Support and Share
 ---
+
+## Support the Artist
 
 *Echo Future Truth* is free for you to enjoy and to freely share. This serialized presentation is a labor of love: please receive it in that spirit! And, if you are so moved, hit the button below to show some love for the laborer.
 
