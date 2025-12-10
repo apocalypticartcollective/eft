@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 02 - Abrasion Two
+title: Episode 03 - Abrasion Two
 category: Abrasion
 ---
 
@@ -59,7 +59,7 @@ Maybe, it was time for something different. Maybe the problem was swallowing her
 
 'Been a long strange trip, hasn't it?'
 
-'Oh, please.' The customer made a face closer to familiarity than frustration, but creeping toward the latter.
+'Oh, please.' The customer made a face closer to familiarity than frustration, but edging toward the latter.
 
 'OK, really? Are we going to go there? I don't like living in the past hon. Look at where I work! I sell booze for a living. And, I'd offer to pour you another, but ...'
 
