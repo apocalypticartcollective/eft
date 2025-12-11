@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Support and Share
+title: Share and Support
 ---
 
 ## Support the Artist
