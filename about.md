@@ -6,7 +6,7 @@ title: About
 
 Written over seven years beginning in 2015, *Echo Future Truth* is D.P. Maddalena's first novel. 
 
-Many publishers like to hear what popular books your book is like when you're shopping your story around. For better or worse, this story was not written to a formula; my fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories. 
+Many publishers like to hear what popular books your book is like when you're shopping your story around. For better or worse, this story was not written to a formula. My fiction is shaped by decades under the influence of scripture and scholarship, poetry and theater, world culture and religion, modern psychology and spirituality, and, above all, people in their own magnificent stories. 
 
 I've been privileged to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City; and Pasadena, Los Angeles, and Silicon Valley, California. I've written commercially and creatively for decades while employed in a variety of roles: educator, marketing writer in the tech industry (from freelance to senior roles), pastor and community organizer, and tent-seller at REI (Store of the Year, 1994! Still kind of a dream job, if I'm honest). 
 
