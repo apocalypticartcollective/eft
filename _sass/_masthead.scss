@@ -81,3 +81,24 @@
   margin-bottom: 0;
   /* keep existing font-size & color via .site-masthead h3 */
 }
+
+/* Reduce vertical spacing above/below site title on small screens (~15%) */
+@media (max-width: ($on-tablet - 1)) {
+  .site-masthead h1 {
+    margin-top: 0.85em; /* was 1em — ~15% reduction */
+    /* margin-bottom stays 0 to keep tight baseline */
+    padding: 0 1.7rem; /* optional: slight horizontal padding reduction */
+  }
+
+  .site-masthead .site-title-group {
+    margin-bottom: 0.75rem; /* was 0.9rem */
+  }
+
+  .site-masthead .site-title-group .site-title {
+    margin-bottom: 0.085rem; /* was 0.10rem */
+  }
+
+  .site-masthead .site-author {
+    margin-top: 1.275rem; /* was 1.5rem */
+  }
+}
