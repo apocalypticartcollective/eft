@@ -23,7 +23,7 @@ If it were possible to have a real conversation in this town, one in which a vis
 
 But in her favorite bar, it wasn't exactly like that. At the bar it wasn't like the *news*: life in the bar was more like a rerun of an old sitcom where everybody knows your name, only none of those people go there anymore. Because, nobody goes there anymore.
 
-Almost nobody: she was here after all. And at the end of a day like today (*What made today different?* she wondered) what she really wanted was  to lose herself in some mindless interaction, maybe cheat the bartender out of a drink or two. It didn't matter that she won all the bar bets too easily or that the prizes were just illusions. The room was familiar and she felt like she belonged. But on a day like today any good feelings were not likely to last.
+Almost nobody: she was here after all. And at the end of a day like today (*What made today different?* she wondered) what she really wanted was to lose herself in some mindless interaction, maybe cheat the bartender out of a drink or two. It didn't matter that she won all the bar bets too easily or that the prizes were just illusions. The room was familiar and she felt like she belonged. But on a day like today any good feelings were not likely to last.
 
 <br />
 
@@ -89,7 +89,7 @@ But the gentle reply did not have its desired effect: she was flooded with antic
 
 'No.' She felt a surge of bitterness she could not suppress. 'I do not want to talk to someone about *my feelings*. Not what I need right now, thank you. I'm not confused! I know what the problem is: it's that there are no problems.' She continued to speak to the bartender and also *not* to the bartender. Softly, with a slight tremble, 'I know you know what I'm talking about.'
 
-Concerned silence. Caring look. Comforting, maybe, at literally any other time in human history; the emphasis there being on the word, 'human'.
+Concerned silence. Caring look. Comforting, maybe, at literally any other time in human history.
 
 'If something doesn't change soon ... I would *rather not do this anymore*.' She spoke with firm resolve, her words riding a wave of emotion that left little doubt as to her meaning. Still the only response was the same brand of robotic empathy that she found in every building in town. She barked a carefully articulated profanity at the bar, at the bottles, and at the character behind the counter.
 
