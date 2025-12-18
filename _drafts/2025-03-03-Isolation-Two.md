@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Isolation - Two
+title: Episode 11 - Isolation Two
 category: Isolation
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 06 - Abrasion Six
+title: Episode 07 - Abrasion Six
 category: Abrasion
 ---
 

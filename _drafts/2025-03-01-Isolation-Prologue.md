@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 08 - Isolation Prologue
+title: Episode 09 - Isolation Prologue
 category: Isolation
 ---
 
