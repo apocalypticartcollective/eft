@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 04 - Abrasion Four
+title: Episode 05 - Abrasion Four
 category: Abrasion
 ---
 
