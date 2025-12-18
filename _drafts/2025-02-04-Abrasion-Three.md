@@ -55,7 +55,7 @@ The creeps were all entirely inoffensive, averaged out, homogenized to remove th
 
 It was at this point that her posture and pace began to communicate something more assertive. Unsurprisingly, her purposefulness was met by an increase in scrutiny from the community of creeps. She was pretty sure that there was no preset response for what was about to happen, so the renewed attention of the collective was of no concern to her. The truth was that as her own sense of control was growing, she welcomed it.
 
-She was going to need to be efficient. She didn't have long before exhaustion would set in and sleep made her vulnerable to the loss of years and all the resolve that had risen up in her. She suspected that she had been here before, only to fall asleep, and to stay asleep until there was nothing left but the clandestine dreams of the collective.
+She was going to need to be efficient. She didn't have long before exhaustion would set in and sleep made her vulnerable to the loss of years and all the resolve that had risen up in her. She suspected that she had been here before, only to fall asleep, and to stay asleep until there was nothing left but the corrupted dreams of the collective.
 
 Borrowed dreams were no longer enough. She had work to do, and not much time to do it in. She was going to need this place to stay awake with her. She needed, in fact, to talk to everyone who ever lived. It shouldn't take long.
 
