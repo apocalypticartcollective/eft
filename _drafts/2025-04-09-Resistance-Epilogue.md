@@ -29,8 +29,7 @@ He was tired of wrestling with ghosts, tired of losing mental debates, tired of 
 
 Enough. He was ready to stop thinking about the architecture. He had bigger problems.
 
-Brigid had been gone for a week now. She
-'d hitched a ride with a soldier raised in Eureka who hoped to see their childhood home one more time. Brigid didn't know if she'd get to see her own family, but was ready for the trip north. She told him that she felt the time had come to take her stand at the boundary between the ancient forest of giants and the great expanse of the Pacific. She was also responding to the pull of memory, in a way, recalling Irish childhood visits to Achill Island and the beech at Keel, where she trembled to face the North Atlantic and the vastness of the waters before the horizon. Now, she said, she was ready to find her center somewhere out there. *Exposed*, she said, but also, she told him, *feeling peace: to be seen, to be known*. It was hard to let her go.
+Brigid had been gone for a week now. She'd hitched a ride with a soldier raised in Eureka who hoped to see their childhood home one more time. Brigid didn't know if she'd get to see her own family, but was ready for the trip north. She told him that she felt the time had come to take her stand at the boundary between the ancient forest of giants and the great expanse of the Pacific. She was also responding to the pull of memory, in a way, recalling Irish childhood visits to Achill Island and the beech at Keel, where she trembled to face the North Atlantic and the vastness of the waters before the horizon. Now, she said, she was ready to find her center somewhere out there. *Exposed*, she said, but also, she told him, *feeling peace: to be seen, to be known*. It was hard to let her go.
 
 Finally, here he was, all alone, looking out over the town with its shrunken horizons, where Eva would live out her life. Her multiple lifetimes? Her one long life to make up for all their lives-cut-short.
 
