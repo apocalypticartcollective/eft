@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Episode 02 - Abrasion One
-date: 2025-12-18 08:00:00
 ---
 
 ## Decomposition
