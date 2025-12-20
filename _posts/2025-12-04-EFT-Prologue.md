@@ -1,6 +1,7 @@
 ---
 title: Echo Future Truth: Prologue
 layout: post
+date: 2025-12-04 08:00:00
 ---
 
 ## The Guerilla's Dream
