@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 02 - Abrasion One
+title: 'Episode 02: Abrasion One'
 ---
 
 ## Decomposition
