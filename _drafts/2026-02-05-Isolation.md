@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Echo Future Truth - Book Two
-category: Isolation
+title: 'Echo Future Truth: Book Two'
 ---
 
 ## Isolation

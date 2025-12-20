@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Episode 08 - Abrasion Seven
-category: Abrasion
+title: 'Episode 08: Abrasion Seven'
 ---
 
 ## Rest

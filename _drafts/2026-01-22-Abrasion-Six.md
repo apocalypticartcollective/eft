@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Episode 07 - Abrasion Six
-category: Abrasion
+title: 'Episode 07: Abrasion Six'
 ---
 
 ## Love

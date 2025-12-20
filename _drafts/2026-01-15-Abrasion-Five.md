@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Episode 06 - Abrasion Five
-category: Abrasion
+title: 'Episode 06: Abrasion Five'
 ---
 
 ## Courtship

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 03 - Abrasion Two
+title: 'Episode 03: Abrasion Two'
 ---
 
 ## Death

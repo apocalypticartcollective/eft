@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Episode 05 - Abrasion Four
-category: Abrasion
+title: 'Episode 05: Abrasion Four'
 ---
 
 ## Marriage
