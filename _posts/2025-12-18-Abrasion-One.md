@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Episode 02 - Abrasion One
-category: Abrasion
 ---
 
 ## Decomposition

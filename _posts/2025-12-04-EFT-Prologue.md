@@ -1,6 +1,5 @@
 ---
 title: Echo Future Truth: Prologue
-author: D.P. Maddalena
 layout: post
 ---
 

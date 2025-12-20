@@ -1,6 +1,5 @@
 ---
 title: Introduction
-category: Book
 layout: post
 ---
 

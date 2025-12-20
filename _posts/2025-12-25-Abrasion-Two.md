@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Episode 03 - Abrasion Two
-category: Abrasion
 ---
 
 ## Death
