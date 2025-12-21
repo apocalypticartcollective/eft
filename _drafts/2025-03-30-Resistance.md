@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Echo Future Truth - Book Three
-category: Resistance
+title: 'Echo Future Truth: Book Three'
 ---
 
 ## Resistance

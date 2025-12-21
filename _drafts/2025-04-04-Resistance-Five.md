@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 20 Resistance - Five
-category: Resistance
+title: 'Episode 22: Resistance Five'
 ---
 
 ## Swarms in the Expanse

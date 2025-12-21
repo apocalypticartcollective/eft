@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 19 Resistance - Six
-category: Resistance
+title: 'Episode 20: Resistance Six'
 ---
 
 ## Cattle and Creeping Things

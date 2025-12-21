@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 16 Isolation - Epilogue
-category: Isolation
+title: 'Episode 17: Isolation Epilogue'
 ---
 
 ## God Can Raise to Abraham Children of Stones

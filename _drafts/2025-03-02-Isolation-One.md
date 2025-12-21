@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Episode 10 - Isolation One
-category: Isolation
+title: 'Episode 10: Isolation One'
 ---
 
 ## Consult Not the Physician, but the One Who Has Been Ill

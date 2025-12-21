@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 22 Resistance - Three
-category: Resistance
+title: 'Episode 24: Resistance Three'
 ---
 
 ## Seeds of Our Destruction, Fruits of Our Labor

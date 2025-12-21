@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 18 Resistance - Seven
-category: Resistance
+title: 'Episode 19: Resistance Seven'
 ---
 
 ## Restless

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Episode 11 - Isolation Two
-category: Isolation
+title: 'Episode 11: Isolation Two'
 ---
 
 ## A Dry Bramble Is Most Unyielding

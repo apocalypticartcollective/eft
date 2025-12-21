@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 14 Isolation - Six
-category: Isolation
+title: 'Episode 15: Isolation Six'
 ---
 
 ## Truth Lies at the Bottom of a Well

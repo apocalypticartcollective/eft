@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 17 Resistance - Prologue
-category: Resistance
+title: 'Episode 18: Resistance Prologue'
 ---
 
 ## Manifest Destiny

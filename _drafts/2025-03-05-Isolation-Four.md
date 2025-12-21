@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 12 Isolation - Four
-category: Isolation
+title: 'Episode 13: Isolation Four'
 ---
 
 ## Wonder at Nothing

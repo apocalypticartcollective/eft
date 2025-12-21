@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 21 Resistance - Four
-category: Resistance
+title: 'Episode 23: Resistance Four'
 ---
 
 ## Greater and Lesser Lights

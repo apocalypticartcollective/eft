@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 13 Isolation - Five
-category: Isolation
+title: 'Episode 14: Isolation Five'
 ---
 
 ## A Seat in the Bow is Dangerous

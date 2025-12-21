@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 25 Resistance - Epilogue
-category: Resistance
+title: 'Episode 27: Resistance Epilogue'
 ---
 
 ## Void Check

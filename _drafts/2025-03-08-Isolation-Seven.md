@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 15 Isolation - Seven
-category: Isolation
+title: 'Episode 16: Isolation Seven'
 ---
 
 ## Drink to Me Only with Thine Eyes

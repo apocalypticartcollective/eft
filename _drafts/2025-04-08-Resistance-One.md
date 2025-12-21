@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 24 Resistance - One
-category: Resistance
+title: 'Episode 26: Resistance One'
 ---
 
 ## Light and Dark, Morning and Evening, the Last Day

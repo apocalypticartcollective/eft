@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 23 Resistance - Two
-category: Resistance
+title: 'Episode 25: Resistance Two'
 ---
 
 ## Heaven Freezes Over

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 11 Isolation - Three
-category: Isolation
+title: 'Episode 12: Isolation Three'
 ---
 
 ## The One Who Runs Away Will Fight Again
