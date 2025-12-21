@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episode 22: Resistance Five'
+title: 'Episode 21: Resistance Five'
 ---
 
 ## Swarms in the Expanse

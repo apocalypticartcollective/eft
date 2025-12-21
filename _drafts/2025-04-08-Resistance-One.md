@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episode 26: Resistance One'
+title: 'Episode 25: Resistance One'
 ---
 
 ## Light and Dark, Morning and Evening, the Last Day

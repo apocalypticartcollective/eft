@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episode 25: Resistance Two'
+title: 'Episode 24: Resistance Two'
 ---
 
 ## Heaven Freezes Over

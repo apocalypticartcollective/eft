@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episode 24: Resistance Three'
+title: 'Episode 23: Resistance Three'
 ---
 
 ## Seeds of Our Destruction, Fruits of Our Labor

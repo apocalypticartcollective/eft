@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Episode 04: Abrasion Three'
-category: Abrasion
 ---
 
 ## Disease

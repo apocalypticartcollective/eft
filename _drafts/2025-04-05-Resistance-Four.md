@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episode 23: Resistance Four'
+title: 'Episode 22: Resistance Four'
 ---
 
 ## Greater and Lesser Lights

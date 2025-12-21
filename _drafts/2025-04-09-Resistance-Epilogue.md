@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Episode 27: Resistance Epilogue'
+title: 'Episode 26: Resistance Epilogue'
 ---
 
 ## Void Check
