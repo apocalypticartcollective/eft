@@ -15,9 +15,9 @@ Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to su
 
 ## Podcast services
 
-The story will be distributed on the following podcast services. Click the link to go to the service, or simply search for 'Echo Future Truth from within the App'.  
+The story will be distributed on the following podcast services. Click the link to go to the service, copy the link and past it into your app's search bar, or simply search for 'Echo Future Truth' from within the App.  
 
-- [Echo Future Truth on Spotify](https://api.substack.com/feed/podcast/spotify/47d7d398-24cd-4ce9-befd-948d19b670e0/6577705.rss)
+- [Echo Future Truth on Spotify](https://open.spotify.com/show/6165xVCKgxa9JMehnyO7MZ)
 - [Echo Future Truth on Apple podcasts](https://podcasts.apple.com/us/podcast/echo-future-truth/id1863286506)
 - [Echo Future Truth on Overcast](https://overcast.fm/p5525126-cbTd6L)
 
@@ -37,7 +37,7 @@ https://echofuturetruth.com/feed.xml
 </div>
 
 
-## Playlists
+<!--## Playlists
 
 Music vibes that go with each of the stories
 
@@ -51,4 +51,4 @@ Coming soon.
 
 **Resistance**
 
-Coming soon. 
+Coming soon. -->
