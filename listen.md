@@ -15,11 +15,11 @@ Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to su
 
 ## Podcast services
 
-The story will be distributed on the following podcast services: 
+The story will be distributed on the following podcast services. Click the link to go to the service, or simply search for 'Echo Future Truth from within the App'.  
 
-- Spotify: Here's a Spotify bit
-- Apple podcasts: Here's an Apply bit
-- Overcast: Here's an Overcast bit
+- [Echo Future Truth on Spotify](https://api.substack.com/feed/podcast/spotify/47d7d398-24cd-4ce9-befd-948d19b670e0/6577705.rss)
+- [Echo Future Truth on Apple podcasts](https://podcasts.apple.com/us/podcast/echo-future-truth/id1863286506)
+- [Echo Future Truth on Overcast](https://overcast.fm/p5525126-cbTd6L)
 
 *If you listen to a lot of podcasts, you may prefer to listen to talk-shows at a faster-than-normal speed. This work of fiction has relatively short chapters and, in the author's humble opinion, is best listened to at 1x speed. The reading is part of the art, after all. If you've got places to be, and* must *listen at a faster speed, please at least disable any AI feature that removes quiet spaces from the reading. Silence is also part of the art, and you are not running out of time.*
 
