@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Episode 09: Isolation Prologue'
-category: Isolation
 ---
 
 ## To Understand a Proverb and Its Interpretation, the Words of the Wise and Their Dark Sayings
