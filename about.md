@@ -10,6 +10,7 @@ Many publishers like to hear what popular books your book is like when you're sh
 
 I've been privileged to travel the world, studying and working in Cambridge and London, UK; Athens, Greece; New York City; and Pasadena, Los Angeles, and Silicon Valley, California. I've written commercially and creatively for decades while employed in a variety of roles: educator, marketing writer in the tech industry (from freelance to senior roles), pastor and community organizer, and gear-nerd at REI (Store of the Year, 1994! Still kind of a dream job, if I'm honest). 
 
+Over the years, I've self-published two nonfiction collections of essays and my poetry, essays, and collage art have been published in online and print periodicals. I hold an MDiv from Fuller Seminary ('93) and an MA in counseling psychology from Santa Clara University (2016). As a student at Bennington College in the 80s, I studied theater, sculpture, painting, and writing (with a little dance thrown in for good measure). Rounding out the art-school bona fides, I've spent my life eagerly pursuing opportunities to participate in local theater, art, music, and spoken-word performance-art scenes. If we meet at a party and you tell me about your art, we'll be friends. 
 
 Today, I'm a licensed psychotherapist in California, where it all comes together.
 
