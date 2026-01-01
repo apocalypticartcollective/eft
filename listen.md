@@ -15,7 +15,7 @@ Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to su
 
 ## Podcast services
 
-The story will be distributed on the following podcast services. Click the link to go to the service, copy the link and past it into your app's search bar, or simply search for 'Echo Future Truth' from within the App.  
+The story is also accessible via podcast services. Follow the links below to go to a specific service, copy the link and past it into your app's search bar, or simply search for 'Echo Future Truth' from within any podcast player.  
 
 - [Echo Future Truth on Spotify](https://open.spotify.com/show/6165xVCKgxa9JMehnyO7MZ)
 - [Echo Future Truth on Apple podcasts](https://podcasts.apple.com/us/podcast/echo-future-truth/id1863286506)
