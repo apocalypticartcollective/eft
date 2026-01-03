@@ -52,7 +52,7 @@ His face looked so stern, she was beginning to worry about what might be coming,
 
 The question caught her off guard, not because she wasn't ready with an answer, but because she couldn't remember the last time anyone but her had asked it. 'You know now that I can't live this way anymore. I won't go on living like this. I won't survive, not unless you do this.'
 
-'What do you think I can do for you? You've done nothing but mutter childish insults since you got here.'
+'What do you think I can do for you? You've done nothing but mutter childish insults at me since you got here.'
 
 'You can't blame me for that. I've been too comfortable for too long. I'm ages overdue for a good fight.'
 
@@ -74,7 +74,7 @@ As he spoke, his face was draining of anything remarkable or challenging. Hers w
 
 She picked up a rusty steel bar, recently cut along the diagonal and revealing a sharp edge. She put its point to her abdomen, almost mockingly. But she felt that it was cold, hard, and sharp -- her shock at its persistant materiality, its heaviness, its *danger*, only spurred her resolve, and she began to push it against the soft skin below her sternum -- no need to be quick: she wasn't going to turn back and she wasn't afraid of the pain -- quite the opposite. Her strength flagged only a little, as her nerves lit on fire. But she pressed on ... and bit down on any impulse to say goodbye.
 
-A second shock came with the sound of something like a thousand voices assaulting her ears from every direction at once---including from inside her own head. Just a single word, spoken in unison, but with the force of every speaker delivering the message with the thump of a mallet; a single word, 'No!' She flinched at the volume of it. Her body was shaken by the force of it. The moment of surprise passed, and she looked at him, feeling disappointment more than anything else.
+A second shock came with the sound of something like a thousand voices assaulting her ears from every direction at once---including from inside her own head. Just a single word, spoken in unison, but with the force of every speaker delivering the message with the thump of a mallet; a single word, 'No!' She flinched at the power of it. Her body was shaken by the force of it; but the moment of surprise passed, and she looked at him, feeling disappointment more than anything else.
 
 She tightened her grip on the shard, but was distracted with a sudden awareness that she was alone. No, he was still there. But she felt a change in the room, felt it *in the air*. She looked again at him. He was immobile, but his presence suddenly announced itself in an entirely new way. His face was changed: she saw something flash across it, a possession, an alien presence. But the feeling it provoked in her told her that this was not alien -- she knew what was happening because her stomach told her what she needed to know. It was anger. He was angry.
 
