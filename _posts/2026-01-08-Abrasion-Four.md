@@ -18,7 +18,7 @@ title: 'Episode 05: Abrasion Four'
 &nbsp;
 
 
-First contact in her search for *terrestrial life* was a local police officer. He, like everyone wearing the uniform of these latter days, was focused, alert, and ready To Protect and Serve, while still emanating something of the vague attentiveness of the collective. She recognized it in the unsteady glare, the measured response, the expansive long-suffering aspect; all dressed up in the language and bearing of a 21st century peace officer. He had a hint of a smirk, but it was meaningless: handsome, and slightly out-of-place, as if a pop star was playing a cop in his acting debut. It was a quirk of the code that the function of safe, earnest, and encouraging public-service was often communicated by the projection of youth, which she found simply unbelievable.
+First contact in her search for *terrestrial life* was a local police officer. He, like everyone wearing the uniform of these latter days, was focused, alert, and ready To Protect and Serve, while still emanating something of the vague attentiveness of the collective. She would recognize it in the unsteady glare, the measured response, the expansive long-suffering aspect; all dressed up in the language and bearing of a 21st century peace officer. He had a hint of a smirk, but it was meaningless: handsome, and slightly out-of-place, as if a pop star was playing a cop in his acting debut. It was a quirk of the code that the function of safe, earnest, and encouraging public-service was often communicated by the projection of youth, which she found simply unbelievable.
 
 'Evening, Ma'am.'
 
