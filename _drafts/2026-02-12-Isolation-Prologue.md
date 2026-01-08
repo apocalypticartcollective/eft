@@ -15,7 +15,7 @@ title: 'Episode 09: Isolation Prologue'
 
 &nbsp;
 
-&nbsp;
+&nbsp; 
 
 
 Standing up from the single, rush-covered chair, the philosopher Arpaxos broke the chill silence with a sharp intake of breath. He took two shaky, sibilant steps across the marble floor in the direction of the apse, extending his hand toward the icon. At the sight of his dirt-stained fingers he drew back in a grip of shame.
