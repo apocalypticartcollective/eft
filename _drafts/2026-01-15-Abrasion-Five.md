@@ -18,7 +18,7 @@ title: 'Episode 06: Abrasion Five'
 &nbsp;
 
 
-As the sky outside began to warm with color, the artist disappeared with the explanation that he had to prepare for a delivery, leaving her to find in this gallery of chaos some way to stay occupied, and awake.
+As the sky outside was just beginning to warm with color, the artist disappeared with the explanation that he had to prepare for a delivery, leaving her to find in this gallery of chaos some way to stay occupied, and awake.
 
 This wasn't difficult. Everything in the place had an abrasive or shocking quality to it, whether because it was dangerously unfinished -- rough with splinters or covered with metal filings -- or simply because it was upsetting to look at. This latter category was populated with figural examples of representation that jerked at her idea of what it meant to be human -- it had been so long since she'd seen what *emotion* looks like (she knew well enough what it felt like), that she had grown a bit self-centered and skewed in her belief that there was no point in looking for authentic feeling in the characters she was surrounded by. Yet here in front of her, daring her to look away, were chunks of rock, tree trunks, and painted metal that appeared to *feel* so much that she was shamed for having been so shallow. How could it be that these statues -- inanimate, elemental -- could contain more real life than all the elaborations cooked up by a machine using all the world's history as raw material? And, how could this created man's creations be so powerful?
 
@@ -30,7 +30,7 @@ Her attention shifted between the wild creations around her, each an entirely un
 
 <br />
 
-She smiled wickedly at the thought of her cheerful friend at City Hall having to look out on one of these apparitions all day long. And then the artist appeared, driving a forklift bearing a large assembly, a complication of steel tubes welded together to look like a person, as if he had made a giant stick figure from surplus sewage pipe and painted it blue. It was ridiculous: a finished product, but ill-conceived, only interesting because it was gargantuan and required heavy machinery to move. When the piece had been swaddled in moving blankets and mounted on the bed of the truck, and the workmen had driven it away, she looked at him. 'As the only artist alive, I suppose you have to make all the bad art as well as the good?'
+She was smiling wickedly at the thought of her cheerful friend at City Hall having to look out on one of these apparitions all day long, when the artist appeared. He was driving a forklift bearing a large assembly, a complication of steel tubes welded together to look like a person, as if he had made a giant stick figure from surplus sewage pipe and painted it blue. It was ridiculous: a finished product, but ill-conceived, only interesting because it was gargantuan and required heavy machinery to move. When the piece had been swaddled in moving blankets and mounted on the bed of the truck, and the workmen had driven it away, she looked at him. 'As the only artist alive, I suppose you have to make all the bad art as well as the good?'
 
 'I make one kind of art for the city, and another kind for myself. One is lucrative, the other is something else. If you are asking a question the answer is probably, "*Yes*."'
 
