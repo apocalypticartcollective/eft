@@ -38,7 +38,7 @@ She was smiling wickedly at the thought of her cheerful friend at City Hall havi
 
 'I call it, "*Civic Man*," and it's what the customer wanted. Are you suddenly concerned about public opinion?'
 
-She understood the challenge. '*Public* opinion hasn't changed in thousands of years; the only real opinion left is mine. I don't like your corporate-client art, and I'd like you to stop making it. I have a project for you if you think you can handle it.'
+She understood the challenge. '*Public* opinion hasn't changed in thousands of years; the only real opinion left is mine. I don't like your corporate-client art, and I want you to stop making it. I have a project for you if you think you can handle it.'
 
 All the artist's attention was slyly cloaked in the appearance of disinterest, but she felt the vibration, not only of the artist, but of the collective. He was intrigued to the point of distraction. All other projects were suspended, and all his senses were becoming attuned to his new client; the code was on alert.
 
