@@ -20,7 +20,7 @@ title: 'Episode 07: Abrasion Six'
 
 It was perfect. This anger. Anger was the correct response to her endless rejection of the gift of life, her bitter ungratefulness, her grandiose selfishness. The Other had finally allowed itself some feeling, and the feeling was wrath. The conscious awareness of this tectonic shift came only partially to her, because it was competing with a more primal response. She was afraid.
 
-But as her conscious mind frantically tried to make sense of the change, and as her legs fought to keep her upright, she slowly began to see ... that anything was possible. After all, it had been an act of will that made the creeps. And this *will* had governed the fact that they had remained, so far, something only a little lower than the animals, possessors of a kind of soul, but none of the spirit. And now? Everything around her, she was beginning to see, was bound not by some limitation of technology but by choice. And where there is a choice to be made, the chooser can be moved.
+As her conscious mind frantically tried to make sense of the change, and as her legs fought to keep her upright, she slowly began to see ... that anything was possible. After all, it had been an act of will that made the creeps. And this *will* had governed the fact that they had remained, so far, something only a little lower than the animals, possessors of a kind of soul, but none of the spirit. And now? Everything around her, she was beginning to see, was bound not by some limitation of technology but by choice. And where there is a choice to be made, the chooser can be moved.
 
 But to bend the will of a power such as this? One that had been frozen in code for millennia? This would take more than an act of will; it would take an act of God.
 
