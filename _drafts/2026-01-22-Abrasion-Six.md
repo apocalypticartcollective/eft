@@ -32,7 +32,7 @@ When he spoke again, his voice was the only sound: 'No.'
 
 A dam inside the woman broke, and adrenaline rushed through her like a flood over desert clay. Before either of them knew what was happening, she was flying across the space between them. With no thought for her own safety she launched at him with a rage that had been denied to her for thousands of years. He threw his arms up in defense, but she overwhelmed him with a shout, repeated shouts, from some locked-up cell inside her, now thrown open, repeating again and again until her voice was rasping and catching in sobs: 'It's not enough!! It's not ... you can't just let me be! You ... you ...!'. She joined the battle like Jacob and the angel, pushing past the veil of otherness, the terrible mystery, with all the desperation of her utter poverty. She flailed at him, threw him, pinned him, pummeled him, while he struggled to free himself, crying out to be released. She refused, insisting through ragged gasps for air on the blessing she required as the last human being.
 
-Then she had spent it all; she was empty and heaving on top of him, aching in every joint, and wondering what might come next.
+Then she had spent it all; she was empty and heaving on top of him, bruised and aching in every joint, with no understanding about what might come next.
     
  <br />
 
