@@ -36,7 +36,7 @@ Then she had spent it all; she was empty and heaving on top of him, bruised and 
     
  <br />
 
-Almost embarrassed, she quickly tried to push herself off of him. Through bloodshot and blurry eyes, she became aware of two things in quick succession. The first was that, though he was beneath her and defeated, he'd *fought* her. He had not avoided her assault, nor did he passively submit. He struggled as she wrestled him to the ground, fighting hard, *and yet*, she'd won, though she had not at all been certain of the outcome. The second thing she became aware of was that he also was looking at her through bruised and swelling eyes, and smiling through a bloody grin. She burst out crying.
+She was surprised by a rush of shame, which erupted inside her to rebuke her new-found freedom, and she quickly tried to push herself off of him. But through bloodshot and blurry eyes, she became aware of two things in quick succession. The first was that, though he was beneath her and defeated, he'd *fought* her. He had not avoided her assault, nor did he passively submit. He struggled as she wrestled him to the ground, fighting hard, *and yet*, she'd won, though she had not at all been certain of the outcome. The second thing she became aware of was that he also was looking at her through bruised and swelling eyes, and smiling through a bloody grin. She burst out crying.
 
 He held her, his hands like sandpaper on her bruised skin, which was now turning purple in great spots, and the two of them remained there in the dust for a long time; she became aware of an increasing warmth radiating between them. Slowly, she began to move on him in a different way. She felt as though he was truly alone with her, and that she was alone with him. How was this possible?
 
