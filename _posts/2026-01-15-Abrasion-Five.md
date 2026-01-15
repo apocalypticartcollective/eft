@@ -15,7 +15,7 @@ title: 'Episode 06: Abrasion Five'
 
 &nbsp;
 
-&nbsp;
+&nbsp; 
 
 
 As the morning sky was beginning to warm with color, the artist disappeared with the explanation that he had to prepare for a delivery, leaving her to find in this gallery of chaos some way to stay occupied, and awake.
