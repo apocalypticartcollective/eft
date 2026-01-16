@@ -56,7 +56,7 @@ The question caught her off guard, not because she wasn't ready with an answer, 
 
 'You can't blame me for that. I've been too comfortable for too long. I'm ages overdue for a good fight.'
 
-He continued to speak, almost cutting her off. 'You are your own worst enemy, you must realize it. Of course, I'm a fan. This world may be doomed to wallow in a perpetual state of abeyance -- and yet we have to resist. We cannot remain passive and let the reward go unclaimed; we must, indeed, lay claim to one another. But this does tend to lead to conflict.' While he spoke, he turned to work his bastard file against the great trunk of wood he had been leaning against. Every now and then he paused to run his hand across the surface of it, his rough fingers feeling, as if for something underneath the surface, to judge what should remain, and what should be taken away.
+He continued to speak, almost cutting her off. 'You are your own worst enemy, you must realize it. Of course, I'm a fan. This world may be doomed to wallow in a perpetual state of abeyance -- and yet we have to resist. We cannot remain passive and let the reward go unclaimed; we must, indeed, lay claim to one another. But this does tend to lead to conflict.' While he spoke, he turned to work his bastard file against the great trunk of wood he had been leaning against. Every now and then he paused to run his hand across the surface of it, his rough fingers feeling as if for something underneath the surface, to judge what should remain, and what should be taken away.
 
 It was becoming difficult to know who exactly was talking, and what exactly she was meant to understand by it all.
 
