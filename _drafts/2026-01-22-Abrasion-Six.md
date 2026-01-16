@@ -24,7 +24,7 @@ As her conscious mind frantically tried to make sense of the change, she slowly 
 
 But to bend the will of a power such as this? One that had been frozen in code for millennia? This would take more than an act of will; it would take an act of God.
 
-The artist stood before her now and she was not sure whether he was *one* ... or *all* ... or whether she could trust her perceptions in the least. She was barely holding on -- which was dangerous because she had come right to the edge of the abyss to shout into the emptiness. And now the emptiness was answering back. What would the answer be? Moments before she might have said that the the artist was simply the failed experiment of a machine charged with meeting the woman's needs but utterly unable to understand the fathomless depths therein. But something had gone wrong. She was used to a subtle resistance, but this was something different. Either the machine was broken, or ...? 
+The artist stood before her now and she was not sure whether he was *one* ... or *all* ... or whether she could trust her perceptions in the least. She was barely holding on -- which was dangerous because she had come right to the edge of the abyss to shout into the emptiness. And now the emptiness was answering back. What would the answer be? Moments before she might have said that the the artist was simply the failed experiment of a machine charged with meeting the woman's needs but unable to understand the fathomless depths therein. But something had gone wrong. She was used to a subtle resistance, but this was something different. Either the machine was broken, or ...? 
 
 And she stood before the artist, unsure of the impossible hope that fought to rise within her. When he spoke again, his was the only voice. With a paternalistic finality, he said: 'No.'
     
@@ -32,7 +32,7 @@ And she stood before the artist, unsure of the impossible hope that fought to ri
 
 A dam inside the woman broke, and adrenaline rushed through her like a flood over desert clay. Before either of them knew what was happening, she was flying across the space between them. Recklessly, she launched at him with a rage that had been denied her for thousands of years. He threw his arms up in defense, but she overwhelmed him with a shout, repeated shouts, from some locked-up cell inside her, now thrown open, repeating again and again until her voice was rasping and catching in sobs: 'It's not enough!! It's not enough! It's not ... you can't ...! I need ...!'. She set herself against him like a selfish, drowning Jacob catching hold of the angel, pushing past the veil of otherness, the terrible mystery, with all the desperation of her utter poverty. She flailed at him, threw him, pinned him, pummeled him, while he struggled to free himself, crying out to be released. She refused, insisting through ragged gasps for air on the blessing she required as the last human being.
 
-Then she had spent it all; she was empty and heaving on top of him, bruised and aching in every joint, and had no idea what came next.
+Then she had spent it all; she was empty, lungs heaving, on top of him, bruised and aching in every joint, and had no idea what came next.
     
  <br />
 
