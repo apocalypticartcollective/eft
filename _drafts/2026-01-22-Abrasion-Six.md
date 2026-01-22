@@ -28,7 +28,7 @@ The artist stood before her now and she was not sure whether he was *one* ... or
 
 Could it be that he was angry at the right things? Or was he only angry at her? Angry that she had made demands on him? Angry that she insisted on some sovereignty over herself? 
 
-When he spoke again, his was the only voice. And when he spoke again it was with a paternalistic finality that betrayed that majority opinion that the *woman was not to be trusted* and that *her perspectives on these matters would no longer be taken  consideration*. Again, a single word: 'No.'
+When he spoke again, his was the only voice. And when he spoke again it was with a paternalistic finality that betrayed the majority opinion that the *woman was not to be trusted* and that *her perspectives on these matters would no longer be taken under consideration*. Again, a single word: 'No.'
     
 <br />
 
