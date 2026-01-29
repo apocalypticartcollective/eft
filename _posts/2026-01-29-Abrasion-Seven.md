@@ -41,8 +41,8 @@ Most days, the two of them liked to sit on their porch and watch the sun set ove
 But that wasn't it: she had no reason to grieve her passing, or the passing of the human race. There was little reason to fear the end at all -- she had experienced something worse than death already and was now fully alive. What was eating at her?
 
 She felt his hand come to rest on hers, warm and heavy; it sent a shock through her whole body, and her insides churned with sudden understanding. With her other hand she felt her belly, and thought, with a shiver, 'Not the last?'
- 
- <br />
+
+<br />
 
 The following day, the two of them descended rough steps in front of their home, and passed through the garden gate to walk out into the welcoming silence of the landscape under the cover of a sleepy, saffron-yellow sun. They came to a place, past crumbled fields of stone, where pale white flowers lined a path along the rich ground, which unfolded ahead of them like a living carpet rolled out for a queen and her consort. She didn't exactly discourage the impression: she strode along the path with her chin lifted and her eyes lowered. He bowed with such delicacy and seriousness that she blushed. He moved aside without raising his head -- and then she was embarrassed. She made a dismissive sound in her throat and shook her head with a laugh.
 

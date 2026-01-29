@@ -24,15 +24,15 @@ As she frantically tried to make sense of the change unfolding before her, she s
 
 But to bend the will of a power such as this? One that had been frozen in code for millennia? This would take more than an act of will; it would take an act of God.
 
-&nbsp;<br />
+<br />
 
 The artist stood before her now and she was not sure whether he was *one* ... or *all* ... or whether she could trust her perceptions in the least. She was barely holding on -- which was dangerous because she had come right to the edge of the abyss to shout into the emptiness; and now the emptiness was answering back. What would the answer be? Only moments ago, she might have said that the artist was simply the failed experiment of a machine trying to meet a need that it couldn't possibly understand. But now! While she was used to resistance, this was something different. Something had clearly gone wrong. Either the machine was broken ... or ...? 
 
 Could it be that he was angry at the right things? Or was he only angry at her? Angry that she had made demands on him? Angry that she insisted on some sovereignty over herself? 
 
 When he spoke again, his was the only voice. And when he spoke again it was with a paternalistic finality that betrayed the majority opinion that the *woman was not to be trusted* and that *her perspectives on these matters would no longer be taken under consideration*. Again, a single word: 'No.'
-    
-&nbsp;<br />
+
+<br />
 
 A dam broke within her. And adrenaline rushed through her like a flood over desert clay. Before either of them knew what was happening, she was flying across the space between them. Recklessly, she launched at him with a rage that had been denied her for thousands of years. He threw his arms up in defense, but she overwhelmed him with a shout, repeated shouts, from some locked-up cell inside her, now thrown open, repeating again and again until her voice was rasping and catching in sobs: 'It's not enough!! It's not enough! It's not ... you can't ...! I need ...!'. She set herself against him like desperate Jacob catching hold of the angel, pushing past the veil of otherness, the terrible mystery, with all the desperation of her utter poverty. She flailed at him, threw him, pinned him, pummeled him, while he struggled to free himself, crying out to be released. She refused, insisting through ragged gasps for air on the blessing she required as the last human being.
 
@@ -43,8 +43,8 @@ She teetered at the edge of consciousness, struggling to remain awake, still afr
 But *Quiet* was still better than silence, when silence was imposed, when words were not allowed to matter. She still had something to fight for, even if the future she fought for might not include herself.
 
 It was then that she felt a sudden stab of shame. Shame that she would believe that she deserved to be free. Shame to recognize that her grand campaign for freedom amounted to little more than a fist-fight in the dirt and no idea about what came next. She tried to push away from him. But through bloodshot and blurry eyes, she became aware of two things in quick succession. The first was that he was beneath her and defeated, though he'd *fought* her; he had not avoided her assault, nor did he passively submit. He'd struggled as she wrestled him to the ground! And yes, she'd won, though she had not at all been certain of the outcome. The second thing she became aware of was his eyes: though his face was also bruised and swelling, his eyes were fixed on her, and he was smiling at her through a bloody grin. She burst out crying, and wept until she was truly and completely exhausted.
-    
-&nbsp;<br />
+
+<br />
 
 He held her, his hands like sandpaper on her skin, which was now turning purple in great spots, and the two of them remained there in the dust for a long time. She could feel a growing warmth radiating between them. She slowly began to move on him in a different way. She felt as though he was truly alone with her, and that she was alone with him. How was this possible? No. No more questions. 
 
