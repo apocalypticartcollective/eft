@@ -102,6 +102,8 @@ Alright, she thought. That's it. The only threat that she'd felt in a long time 
 
 'I'm going to have to cut you off, love. And let me call you a cab.' The bartender reached for the phone behind the bar, fingering the frayed list of numbers thumbtacked to the wall. Ridiculous. But effective. This damned place.
 
+<br/>
+
 It was time to go. She knew she couldn't go home, now. She was tired, but she couldn't afford to sleep. It was time to make a change. She wasn't sure what it all meant, but she knew now that she could not go home.
 
 She tried to remind herself (usually around this time of night, most nights): *be careful what you say to the bartender*. She never remembered her own advice. And for this, she could not blame the alcohol.
