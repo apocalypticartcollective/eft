@@ -9,6 +9,10 @@ title: 'Echo Future Truth: Book Two'
 
 &nbsp;<br />
 
+<em>New chapters coming 12 February</em><br />
+
+&nbsp;<br />
+
 A Story About<br />
 The Present<br />
 In Pictures
