@@ -7,28 +7,11 @@ layout: post
 
 &nbsp;
 
-<div style="text-align: center;">
-  <audio id="audioPlayer" controls preload="none" playsinline style="width: 110%; max-width: 600px;">
-    <source src="/assets/audio/eft-iso-pro.mp3" type="audio/mpeg">
-  </audio>
-  
-  <div style="margin-top: 12px;">
-    <button onclick="skipBackward()" style="padding: 10px 16px; margin: 0 6px; font-size: 14px; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background-color: #f5f5f5;">⏮ Back 15s</button>
-    <button onclick="skipForward()" style="padding: 10px 16px; margin: 0 6px; font-size: 14px; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background-color: #f5f5f5;">Forward 15s ⏭</button>
-  </div>
+<div align='center'>
+<audio controls preload="none" playsinline>
+  <source src="/assets/audio/eft-intro.mp3" type="audio/mpeg">
+</audio>
 </div>
-
-<script>
-  function skipForward() {
-    const audio = document.getElementById('audioPlayer');
-    audio.currentTime = Math.min(audio.currentTime + 15, audio.duration);
-  }
-  
-  function skipBackward() {
-    const audio = document.getElementById('audioPlayer');
-    audio.currentTime = Math.max(audio.currentTime - 15, 0);
-  }
-</script>
 
 &nbsp;
 
