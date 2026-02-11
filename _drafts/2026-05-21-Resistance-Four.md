@@ -7,7 +7,7 @@ title: 'Episode 22: Resistance Four'
 
 &nbsp;
 
-<div align='center'>
+<div style="text-align: center; position: sticky; top: 0; padding: 2px 0; z-index: 100;">
 <audio controls preload="none" playsinline>
   <source src="/assets/audio/eft-res-four.mp3" type="audio/mpeg">
 </audio>
