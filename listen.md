@@ -49,11 +49,19 @@ Sample songs below or click through to your player of choice (if you do not have
 
 **Isolation**
 
+<br />
+
 Coming soon.
+
+<br />
 
 **Resistance**
 
+<br />
+
 Coming soon. 
+
+<br />
 
 
 
