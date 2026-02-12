@@ -27,7 +27,8 @@ In front of this collection, assembled like a hedge around the shrine at the cen
 As for the image presiding over these petitions, it was no museum piece, but the likeness was technically impressive. The face was gentle, expressive, and strong, though its beauty had been somewhat mortified behind a veil of soot, and the wooden surface that bore it warped by ages spent under the eggshell white of the dome, itself cracked in many places but never fully opened to the sky.
 
 The faded pictures of saints on the walls were more sorely abused by time and its attendants -- mildew, earthquakes, and vandals each had left their mark. Centuries before, those vandals, in a brief campaign informed by deep reverence or deep hatred (no one knew for sure), had taken all the eyes. Arpaxos did not like to look at the pictures on the walls. He came for the Christ, though he had not yet acknowledged the degree to which he avoided the gaze of that one as well.
- 
+
+<br />
 
 He stood there, silent, still, not willing to leave without making some contact with the image. He settled on a more hygienic salute: lifting his right hand to mirror the sign the Savior made.
 
