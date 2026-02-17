@@ -30,6 +30,7 @@ Pale orange sunlight poured in from the street and outlined her form in the door
 
 He was the proverbial, foolish mother hen, hiding inside the shell with her chick; and now, because no one had kept watch, their world was cracked open like an egg by the devourer, leaving only Arpaxos to contemplate the emptiness as it grew cold and dry. He knew that there was nothing left. There was nothing. She was gone.
 
+<br />
 
 He had been meant to adopt her. It was arranged after her parents got sick. They had been working with migrants at the port when they became deathly ill, in the old sense. Nicola and Brahim were much more comfortable living on the rough edges of the world than Arpaxos. Years after running away, his sister had reappeared in Athens with an ill-defined plan to confront their father, and try for some kind of peace. But the unhealed wounds of childhood, and the dry spring that was their dad (he couldn't even look her in the eye), doomed her plan. Instead of running away again, she went to work with street kids in Piraeus, looking for something to fix, something to believe in. It was there she met Brahim, himself a refugee from an earlier time, and fell in love.
 

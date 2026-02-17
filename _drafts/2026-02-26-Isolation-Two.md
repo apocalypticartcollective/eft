@@ -18,7 +18,7 @@ title: 'Episode 11: Isolation Two'
 &nbsp;
 
 
-He might have stayed in that apartment for the rest of his short life, except for the fire. Just days after losing her, he found himself outside in the middle of the night looking up at the building as it burned. How had the fire begun? He could not, or would not, remember. The only clue was that he felt no emotion as he swung his pack over his shoulder and turned to walk down the street. There were no sirens, no shouts of alarm.
+He might have stayed in the apartment for the rest of his short life, except for the fire. Just days after losing her, he found himself outside in the middle of the night looking up at the building as it burned. How had the fire begun? He could not, or would not, remember. The only clue was that he felt no emotion as he swung his pack over his shoulder and turned to walk down the street. There were no sirens, no shouts of alarm.
  
 <br />
 

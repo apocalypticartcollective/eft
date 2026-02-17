@@ -31,9 +31,9 @@ https://echofuturetruth.com/feed.xml
 
 ## Playlists
 
-In stories, we're careful not to assign too much meaning to a given moment, but patiently allow all moments to work together toward an understanding of the whole. These playlists can be thought of in the same way. Each one of these songs is a moment that plucked a string inside the author while he was deep in the telling of these stories. No single one of them can be said to tell the whole story, or even tell the *same* story as my story. But if you listen along, you might catch a feeling that I felt along the way. Think of these more like audio *mood boards*, less like the soundtrack to the Netflix adaption (which doesn't exist. Yet. Hey Netflix, let's talk.)
+When we read stories, we're careful not to assign too much meaning to a given moment, but patiently allow all moments to work together toward an understanding of the whole. These playlists should be understood in the same way. Each one of these songs is a moment that plucked a string inside the author while he was deep in the telling of these stories. No single one of them can be said to tell the whole story (or even tell the *same* story as my story). But if you listen along, you might catch a feeling that I felt along the way. Think of these more like audio *mood boards*, less like the soundtrack to the Netflix adaption (which doesn't exist. Yet. Hey Netflix, let's talk.)
 
-Sample songs below or click through to your player of choice (if you do not have a subscription on either Apple Music or Spotify, the latter has a free tier where you can listen to the entire playlist). Note: the algorithms will autoplay 'suggested songs' after the playlist is finished; maybe you'll get lucky, but when the robots take over, you are outside my jurisdiction. 
+Sample songs below or click through to your player of choice (if you don't subscribe to either service, Spotify has a free tier where you can listen to the entire playlist). Note: the algorithms will autoplay 'suggested songs' after the playlist is finished. I don't trust the algorithms to add anything to your experience of my stories: maybe you'll get lucky, but when the robots take over, you are outside my jurisdiction. 
 
 <br />
 
@@ -51,7 +51,7 @@ Sample songs below or click through to your player of choice (if you do not have
 
 <br />
 
-Coming soon.
+*Coming soon.*
 
 <br />
 
@@ -59,7 +59,7 @@ Coming soon.
 
 <br />
 
-Coming soon. 
+*Coming soon.*
 
 <br />
 
