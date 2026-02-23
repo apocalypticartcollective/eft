@@ -18,7 +18,7 @@ title: 'Episode 11: Isolation Two'
 &nbsp;
 
 
-He might have stayed in the apartment for the rest of his short life, except for the fire. Just days after losing her, he found himself outside in the middle of the night looking up at the building as it burned. How had the fire begun? He could not, or would not, remember. The only clue was that he felt no emotion as he swung his pack over his shoulder and turned to walk down the street. There were no sirens, no shouts of alarm.
+He might have stayed in that apartment for the rest of his short life, except for the fire. Just days after losing her, he found himself outside in the middle of the night looking up at the building as it burned. How had the fire begun? He could not, or would not, remember. The only clue was that he felt no emotion as he swung his pack over his shoulder and turned to walk down the street. There were no sirens, no shouts of alarm.
  
 <br />
 
@@ -29,8 +29,6 @@ Before he started university, Arpa's father took him to Mount Athos, to live wit
 At the time, he could not see that there are also those who escape because they can no longer bear to look into another's eyes, or risk being seen themselves -- they seek the simplicity of death without understanding. The arrival of the elder pilgrim Arpaxos into the wilderness (he was of this last category) came at the end of a journey marked by humiliation, and inauspicious signs.
 
 He traveled as far as he could by car, looking for a place to finish out his days away from the madness, grief, and complications of the city. However, as he quickly discovered, trouble just manifested differently in the rural places. When enough doors had been slammed in his face, or swung open to some horror, and when enough guns or other improvised weapons had appeared in windows, he gave up on hope and hospitality. He tried fending for himself, stealing food to survive. But the shame was too much and his skills not enough: in each village, he was marked within a day, might have been killed if he hadn't kept moving. When it was clear that he'd become a stranger to all, he headed southwest on a single-lane road, resolved to leave it all behind. 
-
-<br />
 
 A day south of Gytheion, he lay down in the back of an old derelict truck and rested his head on a bundle of canvas. The dome of sky above him resonated with a deepening indigo that seemed to contain within it all the energy of the cosmos, both the light and the dark, together. It was unseasonably warm, and he'd just begun to read by a small lamp, when he became aware of a flash of light from above. A star was glowing extra bright, and green, and moving. He watched with growing unease: he knew what falling stars looked like. This one was too slow, and it wasn't immediately clear whether it was descending or rising. For more than a minute, it seemed, the thing burned hot, then dimmer, then bright flecks of orange and yellow broke off. The profound discomfort he felt at this moment recalled childhood terrors ... the mountain storm that blasted roof tiles off the family's summer cabin, and made his mother scream; his sister's cruel taunt of tearing back his covers and grabbing at him when he was asleep. Even the heavens, the eternal dome, could not be trusted to provide covering, or comfort, in these days.
 
@@ -44,6 +42,8 @@ Tonight, he just felt incomplete, and he wasn't sure which he longed for more: t
 
 In the end it was to him one more sign of the failure of the human experiment. He knew there would be no going back to the way it was. Considering his circumstances, he wasn't sure what he was going toward either. Looking down the dirt track that lead to the next village gave him a familiar feeling of dread; the thought of returning the way he came was worse. When he woke the next day, Arpaxos left the road, and left all comfort behind.
 
+<br />
+
 He wanted to go someplace with a guarantee of solitude, and there was no place more lonely to him than the Mani Peninsula. It was on childhood visits here that Arpa had learned about his father's almost pathological preference for escape and isolation, which Mani satisfied perfectly, even if, in recent years, young entrepreneurs were returning from abroad to renovate (and monetize) the family estates. The occasional medieval castle turned bed-and-breakfast did little to challenge the overall impression that outside the walls, there were few comforts to be had.
 
 Mani remained the most forbidding part of Greece, the great middle finger of the Morea, pointed straight to Hades, complete with a cave at the southern tip understood by the ancients to be an entrance to the underworld. The fiercely independent Maniots were usually the last of the Greeks to bend the knee in the face of any attack or occupation (and even then, it was always with a dagger behind their back). Not only the men deserved credit for this reputation: in response to a sneak attack off the Bay of Messinia, the women of Mani were said to have fought off the Ottomans with garden tools, while the men were engaged elsewhere. In subsequent times of 'peace', quarreling families shot at one another between towers in the villages one day, and packed into one of a thousand tiny churches on the next. The fire-lit feudalism -- and weird juxtapositions -- of the Middle Ages lasted well-into the modern era in this place. *If the last of us are doomed to die alone*, Arpa thought, *I want to be somewhere already acquainted with loneliness and desperation, a place that will not take offense at my own*.
@@ -54,7 +54,7 @@ When he finally left the mountain behind, he took shelter in the courtyard of th
 
 Sitting in the empty square, where the dirty plastered walls were slowly being decomposed by the roots of old pine trees, he gritted his teeth against the wind. Arpaxos hated the sound of wind blowing through pines. As a boy, he'd spent his summers in Filothei, where plane trees gently swayed in the warm Athenian breeze, their leaves filtering the blazing sunlight like delicate green shadow dancers. Pines were nothing like that. Pine needles didn't dance: they were fixed in their contempt for the wind, or maybe out of spite for their more liberal cousins. When the wind passed through pines, it was like a vital spirit passing through the fingers of a creature long-dead, fingers that could not embrace the living any more. Or would not.
 
-Arpa squirmed in the corner of the square, his own spirit unsuited to the challenge of the journey, yet the hard wind drove him ever southward. And his encounter with the pines of Mani was a cold brush with ancient shades, whose ghostly needles nevertheless dragged against his insides, mocking his belief that he himself was still solid.
+Arpa squirmed in the corner of the square, his own spirit unsuited to the challenge of the journey, yet the hard wind drove him ever southward. And his encounter with the pines of Mani was a cold brush with ancient shades, whose ghostly needles dragged against his insides, mocking his belief that he himself was still solid.
 
 
 
