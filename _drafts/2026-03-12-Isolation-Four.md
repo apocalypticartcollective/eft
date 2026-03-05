@@ -26,7 +26,7 @@ That is what it might have looked like from a little distance: like relief, like
 
 He flung his hands behind him like a mad bird only able to flap backwards, and flailed once. As he cartwheeled to meet the churning ground below the cliff top, his arms, first, were pinned to his sides, useless, as he launched down the slope; then, desperately he paddled to keep himself atop the wave of moving earth. The chaos of the slide allowed no further petition, became everything: he rode the fall, it seemed, until the world itself came apart, turned inside out, and a burning hell broke free of its prison to swallow the sea and mountain and him with it, to steal him and everything from the light. He lost consciousness.
  
-<br />
+<br /> 
 
 Arpaxos woke in the early morning darkness to the fading sensation that he was the last solid piece in the mouth of a chewing demon. His own mouth was packed full of dirt. His right arm was numb and cold, while he felt as though the rest of his body were on fire. He had the irrational sense that he was still sliding: it took a long time for him to feel certain that he had come to a stop, that he had not died, though this was only a small comfort. He did not know how long he'd been asleep.
 
