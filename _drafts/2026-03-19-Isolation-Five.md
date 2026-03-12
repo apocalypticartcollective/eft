@@ -25,7 +25,8 @@ title: 'Episode 14: Isolation Five'
 *The two men were animated in their interaction with the younger one, who did not move, and sat bolt upright. Something in each character's bearing made Arpaxos believe that this dialog had been going on for days, or maybe for far longer. In his dream-confusion he wondered whether the interview belonged more to the greater, surrounding space, or to the smaller sterile box. The tableau in the center of it all paid no respect to any boundary -- it belonged to them both: it was a staging of the* Disputation of The Young Christ Among The Doctors, *only these doctors, in their costumes, appeared more concerned with infectious disease at the moment, than with discussions of the ancient law.*
 
 *The shorter one spoke first. 'Young* talmid, *you have answered many questions well. Your knowledge of these matters is ... is ...'*
- *    With a toss of his eyebrows, the tall nervous one said, 'Impressive.'*
+
+*With a toss of his eyebrows, the tall nervous one said, 'Impressive.'*
 
 *'Impressive. ... Who did you say your father was?'*
 
@@ -33,7 +34,7 @@ title: 'Episode 14: Isolation Five'
 
 *At the sound of the voice, Arpaxos realized, with a shock, that the speaker was a girl. He knew that this girl would be about twelve, because he knew that it was his daughter Eva who had been taken from him two years before. His adopted daughter.*
 
-*As his heart pounded in his chest, Arpa also knew (with only a part of his consciousness) that in this dream space he was seeing her exactly as she was in that moment, wherever she was. But where was she? And what were they talking about? ... He felt he was watching an ancient drama, staged for the theater according to an unchecked avant-garde sensibility.*
+*As his heart pounded in his chest, Arpa also knew (with only a part of his consciousness) that in this dream space he was seeing her exactly as she was in that moment, wherever she was. But where was she? And what were they talking about? ... He felt he was watching an ancient drama staged for the modern theater according to an unchecked avant-garde sensibility.*
 
 *'Well,' said* Crew-cut. *('Well!' chimed in* Eyebrows, *with a congested and non-committal grunt) 'It has been three days since the end of the passover feast ... my esteemed colleague and I have been discussing the arrival of the Messiah and in what* month *he should appear.'*
 
@@ -42,7 +43,8 @@ title: 'Episode 14: Isolation Five'
 *Crew-cut nodded and leaned into the question, 'What do you think, child? Will the Messiah come in the month of Tishri or the month of Nisan?'*
 
 *She was silent, and with a heartbreaking look of confusion she searched the corners of the room for answers, or for an escape. What her eyes settled on was the earthy beam of light that pierced the dusty atmosphere of the temple on the other side of the glass, and, in its purified form, illuminated her upturned face. She spoke, and it was Arpa's turn to be confused. 'Can the months or the days of the messiah be known ahead of that time? Days come and go. Their final meaning cannot be determined by their place on the calendar, nor months by their constellations, but time is given meaning by what is done to fill it. Should we not rather pay attention to the comings and goings of the people of God, to the works and words of God's children? Isn't this how we should look for the appearance of God's Righteous One, who will be known not by the measure of stars and their trajectories, but by the measure of fruit in the balance?'*
- *    After of moment of pained silence, the teacher rebuked the student: 'When you are older, child, you may be able to supply a wiser response!'*
+
+*After of moment of pained silence, the teacher rebuked the student: 'When you are older, child, you may be able to supply a wiser response!'*
 
 *His colleague, who almost smiled, said, 'I think that was a pretty wise response.' The younger kept his eyes on the girl who, with some exasperation, provided the* correct *answer. 'But if we must look for the month of God's deliverance, we should look for it during Nisan, the time of the Passover, when God rescued our ancestors from slavery.'*
 
@@ -71,6 +73,7 @@ title: 'Episode 14: Isolation Five'
 
 *Suddenly the walls of the inner room became opaque and chilly white (the ancient space receded), and the room also became colder. Though the space felt closer, more contained, Arpaxos felt suddenly more exposed. Light filled the space and became so bright as to make it nearly impossible for him to see. The last words of the ancient Eva came clearly, but sounded flat across the space: 'You're casting for your masterpiece, a golden child -- straight from the mold, perfect and polished ... and your fingerprints will be all over her. She'll be just like you, and you'll be just like her: blind and deaf; the last good words of this good planet doomed to echo in her hollowness, and no one to hear, until there's nothing left but silence.'*
  
+<br />
 
 *Then the two men were bickering quietly, and the look on her face reminded him of the resolve she showed on the day that she was taken. No. it wasn't the same: at this moment her face, flush in the fluorescent light, had no love in it.*
 
@@ -87,8 +90,10 @@ title: 'Episode 14: Isolation Five'
 *He chose to ignore the question he knew she was asking: 'The, um, the items elicit a wide range of self-descriptions scored to give a quantitative measurement ... of an individual's level of emotional adjustment and, um ...', a cough from the tall one, '... attitude toward test taking.' This got no visible response from her. His eyes down on the spot between them, he stumbled, 'We've been ... concerned about the level of ... of the significant increase in dysphoria we, um, we're seeing ...', here he glanced up at her, '... with you ... sometimes.' Eyes down. 'It's a simple assessment, just to get a look inside ... as it were.'*
 
 *And Eyebrows, with none of the obvious affection or care of his younger colleague, said, 'This precocious rebellion, this resistance has to stop! This is not going to get easier, and whatever advantage you are pressing for, you will not win. The sooner you give it up and submit to the process the better. For all of us. Do you not understand what's at stake here?'*
- *    Again she gave no response to this, and remained unmoved. Crew-cut unenthusiastically began to read questions off of a stack of papers.*
- *    'I maintain psychological distance from other people'*
+
+*Again she gave no response to this, and remained unmoved. Crew-cut unenthusiastically began to read questions off of a stack of papers.*
+
+*'I maintain psychological distance from other people'*
 
 *Turning her head to the side with a shake, her tone proved the answer: 'true.'*
 
@@ -97,7 +102,8 @@ title: 'Episode 14: Isolation Five'
 *'True!', then, 'If you count being kidnapped as withdrawal.'*
 
 *He winced. 'I have difficulty making decisions'*
- *'I have no more decisions to make. How long is this test?'*
+
+*'I have no more decisions to make. How long is this test?'*
 
 *'Once in a while I think of things too bad to talk about'*
 
@@ -108,7 +114,8 @@ title: 'Episode 14: Isolation Five'
 *'I think I already answered this question.' Eyebrows administered a rebuking sound from his throat, and with a little slump, she said, 'True.'*
 
 *'I have not lived the right kind of life'*
- *'Absolutely true.'*
+
+*'Absolutely true.'*
 
 *'I am very cautious and conventional'*
 
@@ -129,7 +136,8 @@ title: 'Episode 14: Isolation Five'
 *The reader slumped forward and his grip on the papers appeared to relax.*
 
 *She was almost desperately looking for some sign in their faces, some* reason; *finally her own face revealed despair -- she would find no satisfaction here .... 'Well. OK. Maybe ... I'm broken. Maybe I'm depressed. Maybe I'm crazy and a danger to my fellow human beings. But how does it matter?!*
- *    She spoke faster now: 'I know you wish you could control who goes inside your precious cocoon, or egg, or whatever it is. Well I'm sorry you didn't get to raise me from birth to be a princess. I'm sorry that I can't pass your tests. Maybe, if you're lucky, I'll die, and the others will live, and you can be happy that your vision of the future will come true. I don't want to be the reason for any more groaning from dead people.'*
+
+*She spoke faster now: 'I know you wish you could control who goes inside your precious cocoon, or egg, or whatever it is. Well I'm sorry you didn't get to raise me from birth to be a princess. I'm sorry that I can't pass your tests. Maybe, if you're lucky, I'll die, and the others will live, and you can be happy that your vision of the future will come true. I don't want to be the reason for any more groaning from dead people.'*
 
 *A painful silence descended to swallow the sound of her words, leaving nothing to echo in the cold space. Evie hid her face, and Arpa guessed she was crying.*
 
@@ -137,7 +145,7 @@ title: 'Episode 14: Isolation Five'
 
 *Then she, in turn, appeared so radiant with life that each one of them looked away. Yet Arpaxos found himself now seated in the chair before her, and she was standing over him. There was righteousness in her eyes, demanding his attention. 'If you old fools could get over yourselves for a minute, if you would pay attention to what's right in front of you, maybe you'd be able to see the hearts of parents and children restored to one another.'*
 
-Now, even as Arpa began to wake, her face remained before his eyes, rising like the sun. She looked down at him, but the image of her was slowly eclipsed by a wall of combat fatigues as his head filled with the noise of running water.
+Now, even as Arpa began to wake, her face remained before his eyes, rising like the sun. She looked down at him, but the image of her was slowly eclipsed by a wall of soldiers in combat fatigues as his head filled with the noise of running water.
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
