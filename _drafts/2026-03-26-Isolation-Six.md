@@ -19,7 +19,7 @@ title: 'Episode 15: Isolation Six'
 
 
 She was right to be angry. She was right to be angry at the machine for grinding her down until she could be made to fit into the fearsome hole at the center of the world. She was right to be angry at Arpa for his selfish, monomaniacal protectionism. She was right to be angry at being told how to bear the burden that nobody but she would have to bear. His heart was more broken than the rest of his body after the dream encounter. It all felt so real that he was certain, 'If only I had reached out, and held on to her, I could have stayed with her forever'. But now he was awake, and alone again, and he really didn't know what was real. Maybe Orpheus never had a chance. Grab ahold, or don't. Eurydice was lost.
- 
+
 \
 
 It was time to consider his own circumstances. Getting up took him more than an hour, and when he finally rose to his feet he stood for some time in the midday sun, unsteady, warming his bruised limbs, and slowly moving his jaw to reassure himself that he could depend on it should he ever need its services again.
