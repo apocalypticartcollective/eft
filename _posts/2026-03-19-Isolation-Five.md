@@ -145,6 +145,8 @@ title: 'Episode 14: Isolation Five'
 
 *Then she, in turn, appeared so radiant with life that all three of the men looked away. Yet Arpaxos found himself seated now in the chair before her, and she was standing over him. There was righteousness in her eyes, demanding his attention. 'If you old fools could get over yourselves for a minute, if you would pay attention to what's right in front of you, maybe you'd live to see the hearts of the young and old restored once more to one another.'*
 
+<br />
+
 Now, even as the broken man began to wake, her face remained before his eyes, rising like the sun. She looked down at him, but the image of her was slowly eclipsed by a wall of soldiers in combat fatigues as Arpa's head filled with the sound of running water.
 
 <div style="text-align:center">
