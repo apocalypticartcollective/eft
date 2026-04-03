@@ -32,14 +32,14 @@ With a shock of recognition, he understood that he was holding the pirate's port
 
 The discovery meant that he now had something that could be burned for worship: he lit a small pile of the artist's charcoal in the censer and placed a few pebbles of sacred sap over the embers. As incense filled the room, he lit a candle, and opened the book of images to the beginning. The dedication page had several inscriptions: a child's handwritten words *για τον μπαμπά* ... *for daddy*, next to a rough drawing of a stick figure holding a pencil aloft like a great sword. There was a name, *A. Λογοθέτης*, and an address in Mezapos. And also this -- a pirate's song for the dead from Deep Mani, written without the skill of the miroloyistrias, but with all the reverence of a witness:
 
-> *O Cyprus Tree of deepest root,*
- > *O flow of holy water!*
- > *Thy ruined church*
- > *(with quaking dome)*
- > *yet bore a beaming welcome*
- > *to thy warm and humble hutch;*
- > *to host a prideful sinner,*
- > *to cleanse of direst soot.*
+> *O Cyprus Tree of deepest root,* \
+ > *O flow of holy water!* \
+ > *Thy ruined church* \
+ > *(with quaking dome)* \
+ > *yet bore a beaming welcome* \
+ > *to thy warm and humble hutch;* \
+ > *to host a prideful sinner,* \
+ > *to cleanse of direst soot.* \
 
 Arpaxos held the book tenderly, like an ancient manuscript, and with gentle reverence began to turn the pages. On each were icons of the sublime, or the mundane; every picture sacred. An urban square filled with couples dressed for spring. A small metal table on three legs overburdened with delicacies for an afternoon meal. A chapel in the shade of an impossibly great flower. A cemetery framed by an overgrown plane tree. Saints and Angels .... In each drawing he found himself before a familiar face. All the characters from his life and from his journey into exile were represented here. For so long, he'd been so focused on Evie: he understood that he had stopped seeing, stopped acknowledging those around him, and that he had really stopped seeing her as well. It was only when she was gone that he began to realize he really had no memory of her. Arpa could imagine her face, but now even hers became the face of a girl looking for something she would never find in him, because what she wanted was to be seen, truly, as a person, not as a priceless treasure to be locked away.
 
