@@ -39,7 +39,7 @@ The discovery meant that he now had something that could be burned for worship: 
  > *yet bore a beaming welcome* \
  > *to thy warm and humble hutch;* \
  > *to host a prideful sinner,* \
- > *to cleanse of direst soot.* \
+ > *to cleanse of direst soot.* 
 
 Arpaxos held the book tenderly, like an ancient manuscript, and with gentle reverence began to turn the pages. On each were icons of the sublime, or the mundane; every picture sacred. An urban square filled with couples dressed for spring. A small metal table on three legs overburdened with delicacies for an afternoon meal. A chapel in the shade of an impossibly great flower. A cemetery framed by an overgrown plane tree. Saints and Angels .... In each drawing he found himself before a familiar face. All the characters from his life and from his journey into exile were represented here. For so long, he'd been so focused on Evie: he understood that he had stopped seeing, stopped acknowledging those around him, and that he had really stopped seeing her as well. It was only when she was gone that he began to realize he really had no memory of her. Arpa could imagine her face, but now even hers became the face of a girl looking for something she would never find in him, because what she wanted was to be seen, truly, as a person, not as a priceless treasure to be locked away.
 
