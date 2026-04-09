@@ -7,7 +7,7 @@ title: Share and Support
 
 *Echo Future Truth* is free for you to enjoy and to freely share. This serialized presentation is a labor of love: please receive it in that spirit! And, if you are so moved, hit the button below to show some love for the laborer.
 
-That is, if you're listening along and thinking to yourself, "That's worth a triple-seasonal-spice-coffeebomination-and-a-blueberry-scone", consider supporting the author via the link below. The work will remain free indefinitely to read and listen to, no matter what. Glad to have you along.
+That is, if you're listening along and thinking to yourself, "That's worth a triple seasonal-spice coffeebomination and a blueberry scone", showing your appreciation for this project with a financial gift is greatly appreciated. The work will remain free indefinitely to read and listen to, no matter what. Glad to have you along.
 
 &nbsp;
 
@@ -28,6 +28,8 @@ Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Lib
 </div>
 
 &nbsp;
+
+And, of course, if you are enjoying the story yourself, you may know others with equally refined and discerning taste in art; freely share the address with friends and family and help the story find its audience. ~ https://echofuturetruth.com ~
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
