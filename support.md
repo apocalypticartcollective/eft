@@ -29,7 +29,9 @@ Have a <a href='https://littlefreelibrary.org/map/' target='new'>Little Free Lib
 
 &nbsp;
 
-And, of course, if you are enjoying the story yourself, you may know others with equally refined and discerning taste in art; freely share the address with friends and family and help the story find its audience. ~ https://echofuturetruth.com ~
+And, of course, if you are enjoying the story yourself, you may know others with equally refined and discerning taste in art; freely share the address (https://echofuturetruth.com) with friends and family and help the story find its audience. With thanks!
+
+&nbsp; 
 
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
