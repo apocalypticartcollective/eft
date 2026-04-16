@@ -11,6 +11,8 @@ title: 'Echo Future Truth: Book Three'
 
 &nbsp;<br />
 
+&nbsp;<br />
+
 <em>In finem, pro iis qui commutabuntur</em>
 
 &nbsp;<br />
