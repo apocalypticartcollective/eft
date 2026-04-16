@@ -7,8 +7,6 @@ title: 'Echo Future Truth: Book Two'
 
 <div align='center'>
 
-&nbsp;<br />
-
 <em>New chapters coming 12 February</em><br />
 
 &nbsp;<br />
