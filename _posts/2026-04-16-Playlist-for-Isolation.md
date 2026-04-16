@@ -7,7 +7,7 @@ title: 'Playlist for Isolation'
 
 <br />
 
-Songs that were a part of the Author's soundrack while writing and editing of Book Two of Echo Future Truth. 
+Songs that were a part of the Author's soundrack while writing and editing Book Two of Echo Future Truth. 
 
 *Sample songs below or click through to your player of choice (if you don't subscribe to either service, Spotify has a free tier where you can listen to the entire playlist). Note: the algorithms will autoplay 'suggested songs' after the playlist is finished. I don't trust the algorithms to add anything to your experience of my stories: maybe you'll get lucky, but when the robots take over, you are outside my jurisdiction.*
 
