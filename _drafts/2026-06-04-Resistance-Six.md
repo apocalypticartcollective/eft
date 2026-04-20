@@ -38,6 +38,7 @@ Her advice was simple: they had to spend the day on the floor. Sit with them; st
 
 As attention shifted from keeping the subjects alive to actually providing them something closer to *a life*, the Director took a particular interest in Brigid's perspective, but for reasons different than the others', and for reasons that remained hidden to her: he was trying to build more emotional machines.
  
+<br />
 
 As the engineers on duty this morning described it, the first steps taken in this direction were shaky. They had spent a couple months training the VIEPs to respond to and progressively match the affect of human subjects. It was delicate work: they didn't want to mirror emotions too precisely, because that would be weird, especially coming from a computer. So they were playing around with a more fuzzy response. But, the fuzziness of the logic was presenting like sloppiness, and imprecise in the wrong kind of way.
 
@@ -52,7 +53,8 @@ Unfortunately, on this day, during a brief interview between a living human and 
 By the time the weeping creature lunged at Brett in an attempt to comfort him with an embrace, the techs could tell that things were getting out of hand, and quickly disabled physical contact. But from the neck up, the character remained in play. In just over a minute from the start of the experiment, the programmer was screaming and banging on the door as the face of the empathy monster devolved into a keening, quivering, incoherent alien.
 
 To make matters worse, there was a systemwide awareness that a networked human subject and a sandboxed VIEP were in some kind of exceptional crisis, and alarms started going off all over the place. By the time the entire system was shut down -- no one knew who or what shut it down -- it looked like the thing's head was going to burst, and Brett had been sick in the corner.
- 
+
+<br />
 
 After several minutes of silence, the Director spoke. 'Somebody please tell me we are in control of this thing.'
 

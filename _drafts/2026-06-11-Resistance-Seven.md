@@ -28,7 +28,7 @@ Apart from her table and chair (and their counterparts, seen on the other side o
 
 She rolled the soft planet between her fingers stopping only occasionally to give it a half-hearted squeeze, though any capacity the object might have had to mitigate stress had long before been proven not to be remotely up to the task.
 
-&nbsp;
+<br />
 
 Her brother's neighborhood had been feeling increasingly unsafe. Only recently, the momentum in their home had shifted from *sheltering in place* to *heading for the hills*. At first, it was less about escape than it was about choosing the place in which to finish out your days. Her sister-in-law had passed weeks before, and her brother was in danger of drifting away in a passive fugue. His kids wouldn't let him go. They surrounded him, to spur him on to one last act of courage.
 
@@ -38,7 +38,7 @@ She had to admit they were leaving at the right time. The day before, some guy d
 
 So it was, when another giant truck rumbled down the street in the middle of the night and slowed to a stop in front of their house, she knew, finally, that she would not be traveling north, but south; away from the giant elder trees and toward something far less certain.
 
-&nbsp;
+<br />
 
 Now, as she slowly adjusted to the small, sterile space and her presence in it, Brigid sat looking through the room-divider at the dimly lit space on the other side. With nothing there to hold her attention, she was left to consider her own face, reflected in the wavy screen, looking bleary-eyed and dark in the shocking white of the place. Tendrils of her salt and pepper hair escaped from corkscrew curls, insisting on attention after a long period of neglect. She took a deep breath and pulled a tangle of grayed hair back to bind it. Her ears must have popped because now she became aware of a low, intermittent noise around the room, in the walls, like wind, almost like breathing. Just climate control, she thought. But it sounded uncanny, nothing like the familiar, monotonous drone that one expects from a ventilation system. She was painfully curious to see where she was, that is, where this place was, to understand her situation, to see past the mystery of the breathing walls. But right now, her world was shrunk.
 
@@ -72,7 +72,7 @@ He paused, then spoke like he was in a confessional, looking at the door: 'I don
 
 She flattened the stress-ball under the palm of her hand. It took little effort to do so, but made her feel tired nonetheless.
 
-&nbsp;
+<br />
 
 In second sealed room on the far side of the compound, the girl was asleep and dreaming.
 
@@ -100,7 +100,7 @@ In second sealed room on the far side of the compound, the girl was asleep and d
 
 *She felt her own stomach jump at the command; the ragged man shrank from the voice and retreated from the edge of the cliff. She turned to watch him go and saw her own coronal outline reflected in the iridescence of the damp cliff face, next to the mouth of the cave. She watched the humbled pilgrim stumble down the passage to a dark corner, climb into a marble box, and collapse -- decomposed -- into a pile of dry bones.*
 
-&nbsp;
+<br />
 
 The girl heard the command again, but this time the voice was a familiar one: 'Get up!'
 
@@ -108,7 +108,7 @@ She opened her eyes and quickly sat up. The dream-image of her sun-lit body in s
 
 'Yo! Time to get up! You have a meeting. There's someone waiting for you, girl.'
 
-She rose and stood on the cold floor, shivering, and blinked against the brightening light. As warmer air blew in from unseen apertures, she began to move, pulling herself together for another uneventful day in her typical, boring, adolescent life. She swung open the glass door of the fridge set back in the wall and took out a drink marked with the date, a scanner-code, and some other numbers that meant nothing to her; she pried off the lid and downed the purple juice, ignoring the slightly metallic taste. She carefully pushed a packaged muffin back against a second door on the opposite side of the box, a simple act of resistance calculated to communicate to hidden agents her dislike of bran. And muffins. And against pre-packaged food in general.
+She rose and stood on the cold floor, shivering, and blinked against the brightening light. As warmer air blew in from unseen apertures, she began to move, pulling herself together for another uneventful day in her typical, boring, adolescent life. She swung open the glass door of the fridge set back in the wall and took out a drink marked with the date, a scanner-code, and some other numbers that meant nothing to her; she pried off the lid and downed the purple juice, ignoring the slightly metallic taste. She carefully pushed a packaged muffin back against a second door on the opposite side of the box, a simple act of resistance calculated to communicate to hidden agents her dislike of bran. And muffins. And against this establishment's menu of packaged foods in general.
 
 She retrieved a small sealed tray from a shelf above the food. Peeling back a plastic covering revealed a circle of thick adhesive around a disk of gel filled with tiny copper flecks. She tapped the patch against a wrist monitor, waited for a vibration in response, then lined it up with a circular rash on her forearm, where she pressed it down.
 
@@ -137,7 +137,8 @@ He laughed and it shook his imposing frame, making all his layers of military eq
 'Maybe consider not punching the technology, kiddo.'
 
 She turned away. '*You* are not my wingman anymore.'
- 
+
+<br />
 
 The girl was directed through a maze of passages by a young technician whose name she couldn't remember.
 
@@ -153,7 +154,7 @@ He was taking her to a small trailer at the edge of the compound, where another 
 
 Ahead of her escort, the girl moved down the corridor, face to the east and the rising sun, which filled the hall with light ... and the planet sped her forward according to its own easterly rotation. At that exact moment, on the far side of the globe, a man stood, unsteady, with his back to the setting sun. As she moved forward, wading into the shapes of golden light that highlighted the walls and floors of her passageway, her adopted father, bottle in hand, stumbled deeper into the darkness of his cave. By their seemingly deliberate steps, hers toward the light and his away, both kicked against the motion of the Earth, applying the smallest amount of energy that, had it been multiplied a million, billion times, might have stopped the turning, and reversed the spin, but would never, ever, have been able to turn back time.
 
-&nbsp;
+<br />
 
 She came into the trailer and sat in the empty chair. The door shut and the atmosphere inside found its equilibrium again. Surrounded by a new silence, her physical presence communicated to the visitor an unexpected air of noblesse, suggesting that she was aware that everything on this campus happened because of her. But in this moment her face was drained of emotion. It seemed as if the room itself was holding its breath.
 
