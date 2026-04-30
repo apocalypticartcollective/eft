@@ -36,7 +36,7 @@ They wanted her to come with them: north to the redwoods to find a spot along th
 
 She had to admit they were leaving at the right time. The day before, some guy drove his oversized truck along the sidewalk and through front yards, knocking fences and mailboxes down, for blocks -- her cheeks flushed at the memory. Was this guy just a nihilistic idiot having his moment? Or was he a nihilist-savant who understood that the final task of Homo Sapiens was to speed along the decomposition of the built-world in anticipation of whatever came next? She thought, *when the nihilists are winning every argument by forfeit, then maybe it doesn't matter what kind of nihilist you are*. God. What was she thinking? This is not what she believed. But History was pulling every perspective along in its wake as it raced off the edge of the map to meet the dragons. Even the believers had to admit something good was coming to a terrible end. The Void had come to town and moved in next door in a kind of diabolical gentrification that robbed the joy from healthy homes. She knew several houses in the neighborhood were empty. With others the story was less clear, though she avoided close inspection. And some, doors open to the weather, gave her a creeping dread.
 
-So it was, when another giant truck rumbled down the street in the middle of the night and slowed to a stop in front of their house, she knew, finally, that she would not be traveling north, but south; away from the giant elder trees and toward something far less certain.
+So it was, when another giant truck rumbled down the street in the middle of the night and slowed to a stop in front of their house, she understood, finally, that she would not be traveling north, but south; away from the giant elder trees and toward something far less certain.
 
 <br />
 
@@ -158,7 +158,7 @@ Ahead of her escort, the girl moved down the corridor, face to the east and the 
 
 She came into the trailer and sat in the empty chair. The door shut and the atmosphere inside found its equilibrium again. Surrounded by a new silence, her physical presence communicated to the visitor an unexpected air of nobility, suggesting that she was aware that everything on this campus happened because of her. But in this moment her face was drained of emotion. It seemed as if the room itself was holding its breath.
 
-'Hello Eva. My name is Brigid,' said the woman behind the plastic curtain. She made a polite effort to smile, and gave the girl a look of caring concern: 'Do you know why you're here?'
+'Hello Eva. My name is Brigid,' said the woman behind the plastic curtain. She made a polite effort to smile, and gave the girl a look of caring concern. 'Do you know why you're here?'
 
 
 <div style="text-align:center">
