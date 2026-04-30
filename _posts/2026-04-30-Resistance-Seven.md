@@ -158,7 +158,7 @@ Ahead of her escort, the girl moved down the corridor, face to the east and the 
 
 She came into the trailer and sat in the empty chair. The door shut and the atmosphere inside found its equilibrium again. Surrounded by a new silence, her physical presence communicated to the visitor an unexpected air of nobility, suggesting that she was aware that everything on this campus happened because of her. But in this moment her face was drained of emotion. It seemed as if the room itself was holding its breath.
 
-'Hello Eva. My name is Brigid,' said the woman behind the plastic curtain. She made a polite effort to smile, and gave the girl a look of caring concern. 'Do you know why you're here?'
+'Hello Eva. My name is Brigid,' said the woman behind the plastic curtain. She made a polite effort to smile, and gave the girl a look of caring concern. 'Do you know why you're here?' 
 
 
 <div style="text-align:center">
