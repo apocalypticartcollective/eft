@@ -60,7 +60,7 @@ He showed a brief excitement, 'That's right! *Saint Brigid*, is what Ken told me
 
 She nodded, smirking. 'Kenny was nosy. Mom was Irish and ... a bit more religious than I: Brigid was her favorite saint, and a healer as well, though she and I appear to work from different modalities. Also ...' she added with learned enthusiasm, the part of the story everybody loved: 'She could turn water into beer.'
 
-'Well! We're going to have to explore the rest of your resumŽ now that we've got you here. Okay. Ten-fifteen minutes. Has someone told you what to expect?'
+'Well! We're going to have to explore the rest of your resumÃ© now that we've got you here. Okay. Ten-fifteen minutes. Has someone told you what to expect?'
 
 'Yeah. ... Albert?' She had so many questions, decided on one. 'How long? How much time ...?'
 
@@ -96,7 +96,7 @@ In second sealed room on the far side of the compound, the girl was asleep and d
 
 *Another ripple through her insides. And the shrinking figure next to her took a half-step forward, and answered with a cowering assertion: 'I have been very zealous for you, Mystery of Glory, though all your people have forgotten your words, torn down your temples, and terrorized the truth-tellers! I alone am left!' He finished on his knees, hands raised in a trembling semaphore that might have appeared to an observer equal parts worship and terror.*
 
-*And the voice, quiet but with the power to divide the mountain, spoke, and the aroma of it rushed over her like the smell of split rock: flint and ozone and sulfur. 'No.ÊIt isn't so. It's only pride that makes it seem that way. You have been zealous only in judgment. But in matters of mercy, you shrink and are in retreat. Go back. There are still some not bent with fear, and some who are that might yet be saved. Get up and go back!'*
+*And the voice, quiet but with the power to divide the mountain, spoke, and the aroma of it rushed over her like the smell of split rock: flint and ozone and sulfur. 'No.Â It isn't so. It's only pride that makes it seem that way. You have been zealous only in judgment. But in matters of mercy, you shrink and are in retreat. Go back. There are still some not bent with fear, and some who are that might yet be saved. Get up and go back!'*
 
 *She felt her own stomach jump at the command; the ragged man shrank from the voice and retreated from the edge of the cliff. She turned to watch him go and saw her own coronal outline reflected in the iridescence of the damp cliff face, next to the mouth of the cave. She watched the humbled pilgrim stumble down the passage to a dark corner, climb into a marble box, and collapse -- decomposed -- into a pile of dry bones.*
 
