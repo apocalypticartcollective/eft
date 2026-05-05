@@ -14,7 +14,7 @@ Visit [echofuturetruth.substack.com](https://echofuturetruth.substack.com) to su
 
 ## Podcast services
 
-The story is also accessible via podcast services. Follow the links below to go to a specific service, copy the link and past it into your app's search bar, or simply search for 'Echo Future Truth' from within any podcast player.  
+The story is also accessible via podcast services. Follow the links below to go to a specific service, copy the link and past it into your app's search bar, or simply search for 'Echo Future Truth' from within any podcast player. **Note: if you want to binge a number of chapters, make sure you have downloaded all the episodes (your player may only automatically download the 'latest'), and that you have set the player to sort episodes 'from oldest to newest' so that they play in order.**
 
 - [Echo Future Truth on Spotify](https://open.spotify.com/show/6165xVCKgxa9JMehnyO7MZ)
 - [Echo Future Truth on Apple podcasts](https://podcasts.apple.com/us/podcast/echo-future-truth/id1863286506)
