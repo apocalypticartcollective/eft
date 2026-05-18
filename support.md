@@ -5,7 +5,7 @@ title: Share and Support
 
 ## Support the Artist
 
-*Echo Future Truth* is free for you to enjoy and to freely share. This serialized presentation is a labor of love: please receive it in that spirit! And, if you are so moved, hit the button below to show some love for the laborer.
+*Echo Future Truth* is free for you to enjoy and to freely share. This serialized presentation is a labor of love: please receive it in that spirit! And, if you are so moved, hit the button below to show some love for the laborer. 
 
 That is, if you're listening along and thinking to yourself, "That's worth a triple seasonal-spice coffeebomination and a blueberry scone", showing your appreciation for this project with a financial gift is greatly appreciated. The work will remain free indefinitely to read and listen to, no matter what. Glad to have you along.
 
