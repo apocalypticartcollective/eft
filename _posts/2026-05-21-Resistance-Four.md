@@ -66,9 +66,9 @@ Brigid found him there and made clear her interest in holding a cold one of her 
 
 'Ha ha. Apart from the sheer power of your ...,' here he waived his own hand in her direction, '... it just so happens that someone, somewhere in the world, is drinking one of these right now. And so we know everything we need to know in order to make our own. We know what they're drinking because we can "see it." We know what it's made of because we can "taste it." And this person happens to be on the network in one of the cities left in the world where there are functional cell towers, and where we happen to have a satellite shop. That's pretty much it. You're lucky at least one person had a craving, or a drinking problem, which, would make sense under the circumstances, honestly, no judgment. Anyhow, we are fortunate ... because this information is getting hard to come by. Even if we wanted to recreate all the *beers of the world*, right now we probably couldn't do it.'
 
-She held the bottle as though she wasn't sure about a second sip: a sudden, justifiable fear of computer-generated backwash had come over her. 'What kind of weird gastro-surveillance state were we going to have in 5 years if we survived this?' He laughed. She could have used a laugh, but couldn't help pushing on him. 'Albert, really, what were you doing?'
+She held the glass as though she wasn't sure about a second sip: a sudden, justifiable fear of computer-generated backwash had come over her. 'What kind of weird gastro-surveillance state were you building?' He laughed. She could have used a laugh, but couldn't help pushing on him. 'Albert, really, what were you doing?'
 
-'Well. Maybe we never would have gotten away with it. I didn't have to answer for it, because the question of privacy just stopped being relevant. But, sure, in five years, all the politicians we saved from heart disease, liver disease, whatever, would be horrified to learn we'd built a library of their biometrics, diet, and ... other circumstantial data. They would have broken us up, taken control of the public-health division, and I would have become a political talking point.'
+'Well. Maybe we never would have gotten away with it. I didn't have to answer for it, because the question of privacy just stopped being relevant. Sure, in five years, all the politicians we saved from heart disease, liver disease, whatever, would be horrified to learn we'd built a library of their biometrics, diet, and ... other circumstantial data. They would have broken us up, taken control of the public-health division, and I would have become a political talking point.'
 
 He leaned back in his chair and looked up, speaking quietly with an exhale. 'The stars aligned for us, for sure. But I could also see the signs, even before history turned against us.'
 
@@ -80,7 +80,7 @@ After a period of silence, he pointed out a streak of color in the Milky Way, an
 
 Finally, he said, 'You know, the sky is so beautiful. It feels like we're closer to it, closer to .... I just ... honestly it sometimes moves me to tears. I don't think I've ever shed a tear over anything or anyone I share this planet with. But somehow I feel so ... close ... when I'm looking at things a trillion miles away. I don't know.' He shifted uncomfortably. 'What do you make of it all?'
 
-'Well. It's pretty, I mean. I like stars, though generally I get nervous about all the space in between 'em. We can see more of them now, and that's good, I guess. More pretty, for as long as the show lasts.'
+'Well. It's pretty. I mean, I like stars, though generally I get nervous about all the space in between 'em. We can see more of them now, and that's good, I guess. More pretty, for as long as the show lasts.'
 
 'Yeah, that's the thing. I can't find anyone who knows anything about this, and you're right, we have this beautiful view of the stars, now that all the lights are out ... but I can't stop seeing all these dark patches, like ... maybe there are fewer of them? Anyway looks that way to me. And, also -- ok, warning now -- I wonder if it's a sign.'
 
@@ -108,7 +108,7 @@ There was a moment of silence.
 
 She squirmed, laughing uncomfortably. 'Alright, that's enough!'
 
-'Sorry, ok, sorry!' He paused. 'So?'
+'Sorry, ok, sorry!' After a pause: 'So?'
 
 'So what?'
 
@@ -118,15 +118,15 @@ She squirmed, laughing uncomfortably. 'Alright, that's enough!'
 
 He made it clear he was going to wait, so she relented.
 
-'Well, it was ... strong. Like spices on hot iron. Camphor. Bay. I don't know! Burnt cinnamon? I can't stop thinking about it.'
+'Well, it was ... strong. Like spices, on a hot pan. Camphor? Bay? I don't know! Burnt cinnamon! It's a little confusing ... but I can't stop thinking about it.'
 
 'Did he say anything?'
 
 She was quiet, and he chose to respect the silence.
 
-With a shake of her head, she finally spoke. 'Albert I don't know. It feels like *something*, so .... It's just a dream, I know! But I am struggling to know what ... what else ...! It seems every other good thing has faded away, or lost its flavor, so what else do I have?'
+Finally, with a shake of her head, she said. 'I know it's just a dream!  But It seems every other good thing has faded away, so what else do I have?'
 
-She became so still, he wondered if she would ever speak again. When she did, her face was drawn. 'I feel like I'm being turned inside out, that any fire I had inside of me is gone ... because I'm completely open and exposed in every direction to the sky, and all my insides are drifting apart.' She gave a cold laugh. 'I've been thinking ... maybe once I was self-centered, but, honestly, I can't recall.
+She became so still, he wondered if she would ever speak again. When she did, it was as though she spoke from a great depth. 'I feel like I'm being turned inside out, like any fire I had inside of me is gone ... because I'm completely open and exposed in every direction to the sky, and all my insides are drifting apart.' She gave a cold laugh. 'I've been thinking ... maybe once I was self-centered, but, honestly, I can't recall.
 
 'And, if I'm inside out, where is my center now?'
 
