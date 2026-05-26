@@ -132,7 +132,7 @@ The Director forged ahead. 'And sometimes when you sleep, it will be like going 
 
 They talked about what her days would be like, how long she would sleep when she slept for a long time, and other things she ought to expect. She asked smart questions and made jokes that left him feeling, not for the first time, that he was running a focus group he wished he could shut down.
 
-Now, as Albert looked down at the image on the tablet, he saw a picture of a woman. Over the whole face, the artist had tattooed an image of a butterfly -- dark black strip down the middle of the face between the sober eyes and over the nose and mouth, darkly psychedelic wings swept back and merged with wild black hair. He regarded the creature in the drawing. Was this artist and her butterfly-spirit doomed to live so long that they might have to live through their own hurricane?
+Now, as Albert looked down at the image on the tablet, he saw a picture of a woman. Over the whole face, the artist had tattooed an image of a butterfly -- dark black strip down the middle of the face between the sober eyes and over the nose and mouth, darkly psychedelic wings swept back and merged with wild black hair. He regarded the creature in the drawing. Was this artist and her butterfly-spirit doomed to live long enough to be swept away by their own hurricane?
  
 &nbsp;
 
