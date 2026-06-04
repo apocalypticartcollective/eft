@@ -18,15 +18,15 @@ title: 'Episode 24: Resistance Two'
 &nbsp;
 
 
-A half-hour later the Director had joined her, and he'd brought tea. He was eager to report on his talk with Eva and discuss the girl's response to the news that she would not be "alone" when she woke up *alone*. He also very much wanted to process his own experience of the conversation, which had left him feeling uncomfortable -- he didn't get the chance: he hadn't considered that Brigid would also be hearing much of the same information for the first time.
+A half-hour later, and the Director had joined her, and he'd brought tea. He was eager to report on his talk with Eva and discuss the girl's response to the news that she would not be "alone" when she woke up *alone*. He also very much wanted to process his own experience of the conversation, which had left him feeling uncomfortable -- he didn't get the chance: he hadn't considered that Brigid would also be hearing much of the same information for the first time.
 
 Normally, he would have been excited to share the story -- how Medalion had been able to reproduce a limitless array of things from the "raw material" of the *swarm*, even to the point of creating fully habitable environments filled with dynamic community life. But there was nothing normal about these conversations anymore, and the audiences were less friendly now than they used to be. He could see that Brigid was no longer listening, and so he allowed a moment of silence, that she might gather her thoughts; it could be a lot to take in.
 
 She was holding a small cup of tea in her hands, and marveling at the warmth and weight of it. The psychologist was processing these final astounding revelations in the only way she knew how, by wrestling her attention onto something concrete, blocking out the global implications in favor of the safety of simple truths at hand. When her patients were overwhelmed or anxious they learned to use their physical senses to become grounded, to reach out for something soft or maybe abrasive, something cold or warm, felt, tasted, smelled, whatever. Each could be a touchpoint in an anxious person's need to be safely anchored in reality. Brigid's attempt to get grounded in this moment was unsuccessful, not merely because the threat of anxiety was greater than she was used to, but because the very thing she was touching in order to become grounded was not real. It occurred to her that the ground itself might not be real either. ... 'Don't be mad, Brigid, of course the ground is real,' she told herself, turning again to the warmth of her un-tea in one more unsuccessful attempt to focus. She felt detached from her own body, but only by a few inches, as if she were stuck in a failed out-of-body experience, unable to get free, bound to a marionette version of her fleshly self that she had forgotten how to control.
 
-Then the Director was talking again, explaining how her *entire* environmental experience since arriving had been designed and built by a computer: everywhere she'd been, everything she'd seen, even eaten; and not only the occasional beer or breadstick -- artificial meals were easy enough to accept, if only because science had been chasing the trope of food replicators for years. But, considering everything she'd witnessed since arriving, she was distressed to learn that this questionable vision for the future was happening, and that the core technology was even now represented at almost every level across the compound -- the rooms and everything inside of them, the passageways, the networked technology itself ... were all machine-made and made-of-the-machine. Most astounding of all? Many of the *staff* were built from the same *stuff* as their surroundings. The latter fact made sense when she thought back over some of the weird interactions she'd had throughout the facility.
+Then the Director was talking again, explaining how her *entire* environmental experience since arriving had been designed and built by a computer: everywhere she'd been, everything she'd seen, even eaten; and not only the occasional beer or breadstick -- artificial meals were easy enough to accept, if only because science had been chasing the trope of food replicators for years. But, considering everything she'd witnessed since arriving, she was distressed to learn that his questionable vision for the future was happening, and that the core technology was even now represented at almost every level across the compound -- the rooms and everything inside of them, the passageways, the networked technology itself ... were all machine-made and made-of-the-machine. Most astounding of all? Many of the *staff* were built from the same *stuff* as their surroundings. The latter fact made sense when she thought back over some of the weird interactions she'd had throughout the facility.
 
-Any doubt she had was driven from her mind when Albert showed her the live feed of a town being raised overnight a short distance away. Not long before, she had looked out over an empty gravel plot a mile to the east, all that remained after the demolition of the burned City Center. He explained that the open space under its now translucent dome was itself simply the top half of a massive sphere that would cradle the infrastructure of Medalion's elaborate work of architectural stage-craft. He called it the world's largest snow globe, half filled with the settled rubble of the *passing present*, sanitized and prepared as a foundations for what comes next. And what came next was apparently going to play out in an exact replica of an unremarkable suburban city center.
+Any doubt she had was driven from her mind when Albert showed her the live feed of a town being raised overnight a short distance away. Not long before, she had looked out over an empty gravel plot a mile to the east, all that remained after the demolition of the burned City Center. He explained that the open space under its now translucent dome was itself simply the top half of a massive sphere that would cradle the infrastructure of Medalion's elaborate work of architectural stage-craft. He called it the world's largest snow globe, half filled with the settled rubble of the *passing present*, sanitized and prepared as a foundation for what comes next. And what came next was apparently going to play out in an exact replica of an unremarkable suburban city center.
 
 Some part of her knew that she wasn't going to ease her fear or frustration by confronting the totality of a world she barely understood, and her attention unconsciously redirected toward problems of a smaller scale.
 
@@ -50,7 +50,7 @@ Brigid shook her head, unsure of what to think.
 
 'Ok, huh. Well. Has anyone given any thought to these kids and what the architecture is going to do to their will to live? You took Eva from her home! And you have her locked up in a prison that takes design cues from an under-funded lab. I have more freedom than she does in this place, and I'm going nuts after a couple days. It's bad enough buildings like this exist in the world, Albert, but, you had a choice! You couldn't, maybe, allow for a little creativity?'
 
-'Well, Brigid, now, you're making a valid point, but these choices serve a very important ... purpose.'
+'Well, Brigid, now, you're making a valid point, but these choices serve a very important purpose.'
 
 She looked disappointed.
 
@@ -74,7 +74,7 @@ Right then, he wanted nothing more than to tell her all the ways it was *better 
 
 She said, 'I'm still not entirely sure what we're talking about, here, Albert? I mean, if creativity is such a problem, why don't you just tell the machine what to build, what to do, and be done with it?'
 
-He stood up, suddenly, and turned to look up at the tilted window of an observation room perched above the entrance doors. She saw it for the first time and felt her stomach sink. The Director signaled to the now-visible operator at a bank of controls behind the glass. By some trick of light or attention, she became suddenly aware of how large the space really was, and that it was filled with a more diverse ecosystem than had been apparent to her before. Her apple tree appeared to be growing on the edge of a miniature rain forest.
+He stood up, suddenly, and turned to look up at the tilted window of an observation room perched above the entryway to The Garden. She saw it for the first time and felt her stomach sink. The Director signaled to the now-visible operator at a bank of controls behind the glass. By some trick of light or attention, she became suddenly aware of how large the space really was, and that it was filled with a more diverse ecosystem than had been apparent to her before. Her apple tree appeared to be growing on the edge of a miniature rain forest.
 
 'What do you think of this room?'
 
@@ -86,9 +86,9 @@ He stood up, suddenly, and turned to look up at the tilted window of an observat
 
 The temperature was dropping, rapidly, as he spoke.
 
-'Well, what makes this room heavenly? It isn't only that it's pretty, or that it somehow contains *all the good things*, you know. What do we expect from heaven, Doctor Tobin?' He was using her title the way her mother used to use her full name.
+'Well, what makes this room heavenly? It isn't only that it's pretty, or that it somehow contains *all the good things*, you know. What do we expect from heaven, Doctor Tobin?' He was using her title in the way her mother used to use her full name.
 
-'Uhm, alright. I'll bite. You can't be talking about harps and clouds. ... Like resurrection? The dead are raised up? Like that?'
+'Uhm, alright. I'll play. You can't be talking about harps and clouds. ... Like resurrection? The dead are raised up? Like that?'
 
 'Sure, I guess, yes! That's good, since we're talking about heaven -- hold that thought. Now, while there are no harps in this room, we do have clouds! The experience of humidity in here ...' as he spoke she became aware of an impossible steamy damp in the increasingly frigid room '... the humidity feels real, though we made it; we also made the warmth you felt when you first came in. But we didn't need a fire for you to feel it.'
 
@@ -98,7 +98,7 @@ She was getting anxious again. The tea in her hand had gone cold, and was still 
 
 'I'm sorry Albert! I don't remember what God did on day two.'
 
-'I know! Most people don't. Not one of the memorable ones. Now, day one? *Light and dark*? Very popular. God says it's good, yes, yes. On the second day, however, something very interesting, especially for our work here. On day two God clears an expanse in the midst of the waters, *between the waters below and the waters above*. And, he calls the expanse *Heaven*. Are you paying attention?'
+'Most people don't. Not one of the memorable ones. Now, day one? *Light and dark*? Very popular. God says it's good, yes, yes. On the second day, however, something very interesting, especially for our work here. On day two God clears an expanse in the midst of the waters, *between the waters below and the waters above*. And, he calls the expanse *Heaven*. Are you paying attention?'
 
 '... between ... the waters?'
 
@@ -108,7 +108,7 @@ Then, suddenly, without any sign that change was coming -- no blast of air from 
 
 The Director waved a hand toward the window, and the room almost instantly snapped back into a recognizable state. 'Now,' he said, 'I don't have any delusions, but we have real power, here. There are limits, certainly; but, well ...'
 
-With an anxious edge to her voice, she said, 'Yes? What ...?'
+With an anxious edge to her voice, she said, 'Yes? Albert? What ...?'
 
 He responded quietly, slowly. 'What must it mean that we are introduced to heaven in this way, so early in this creation story -- that heaven is first defined as this space between the waters? What's going on there? In the simplest sense? If you knew nothing else about this reality, because nothing else exists? If all we knew was ... *water*, *separated*, and the expanse *in between*? What happens in the midst?'
 
@@ -132,7 +132,7 @@ She was calmer now, but still wore a strained expression: 'Okay ...?'
 
 He reached down to fill his cupped hands with water and spoke with a simple, calm clarity she hadn't heard before. '... Now. Water becomes a metaphor for the possibilities: vapors take form and manifest as liquid or solid in ways that can shape the earth or change the course of history. Water has all kinds of power ... to restore vast ecosystems or flood the earth for a new beginning -- streams in the desert, glacial erosion; baptisms in a river or armies drowned in the sea ... tides, tears, torrents.' He laughed shyly. 'Well. We learned how to create things out of thin air! Doesn't this creative power connect us to the first ... to the beginning? Maybe creation isn't finished yet: there's something going on here. Something that doesn't go away. I mean. Water is essential, powerful. Maybe we are too?'
 
-She spoke with a calm voice. '*Creation waits with eager longing for the revealing ... of the true nature of the children of God.*'
+Now she spoke with a calm voice. '*Creation waits with eager longing for the revealing ... of the true nature of the children of God.*'
 
 He looked heavy, sad, all of a sudden. 'I don't think that what we are doing is equal to the mystery of creation. ... I know, really, all we're doing is a piece of complicated theater that might help our kids enjoy some life, with the hope that something better may take shape one day.'
 
