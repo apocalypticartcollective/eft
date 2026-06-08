@@ -46,7 +46,7 @@ He felt the urge to cross the square, burst into City Hall, and demand action. S
  
 <br />
 
-He pushed open the door, and walked across the hardwood floor, which creaked in a reassuring way. He approached the receptionist, who became alert to his presence in a way that appeared, somehow, aggressively passive. The young man behind the counter displayed a pleasant authority suggesting years of experience, and he calmly met the Director's gaze as if Albert was not the first person ever to require his services, was not the first real interaction to have taken place in this room since it appeared out of nowhere, on this spot, exactly three weeks before.
+He pushed open the door, and walked across the hardwood floor, which creaked in a reassuring way. He approached the receptionist, who became alert to his presence in a way that appeared, somehow, aggressively passive. The man behind the counter displayed a pleasant authority suggesting years of experience, and he calmly met the Director's gaze as if Albert was not the first person ever to require his services, was not the first real interaction to have taken place in this room since it appeared out of nowhere, on this spot, exactly three weeks before.
 
 'Afternoon, how can I help?,' asked the man sitting behind the desk, at the boundary between worlds, front-door receptionist to the here-and-now ... back-door receptionist to the future. Above him, a curiously verbose printed notice: 'Paying your utility bill? Fill out form CC-106B-R and insert it with your check into one of the provided envelopes before depositing in the dropbox. Submissions without the form, or checks drawn on insufficient funds may result in suspension of services!'
 
