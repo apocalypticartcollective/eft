@@ -56,7 +56,7 @@ It had been a harrowing process for the operators, because they couldn't predict
 
 *Shaking her head: 'I have nothing left. I have no one left.'*
 
-*The trees shivered on the opposite shore and she perceived a whispering murmur from within the wood. But she was confused: there was no wind. It was like each tree had been the source of the breeze that stirred its own leaves ... as if ...? whaaat? The trees were laughing! And with the warmth of one in on the joke, the presence said, 'Alone? You and I are only separated by the waters, and you can still hear my voice. Though it's true you can't yet take hold of me, we may yet be bound together. When you are two, I will be the third, then second, then the first and the last. But before that, you will have to be* one*. A choice remains before you!'*
+*The trees shivered on the opposite shore and she perceived a whispering murmur from within the wood. But she was confused: there was no wind. It was like each tree had been the source of the breeze that stirred its own leaves ... as if ...? Whaaat? The trees were laughing! And with the warmth of one in on the joke, the presence said, 'Alone? You and I are only separated by the waters, and you can still hear my voice. Though it's true you can't yet take hold of me, we may yet be bound together. When you are two, I will be the third, then second, then the first and the last. But before that, you will have to be* one*. A choice remains before you!'*
 
 *'I can't choose. I won't.'*
 
