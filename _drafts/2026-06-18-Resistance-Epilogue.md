@@ -66,9 +66,9 @@ He slapped the binder shut, and carried it back to the receptionist whose eagerl
 
 'No. I did not.'
 
-The creep replied with a combination of regret and enthusiasm: 'I'm sorry to hear that! Is there anything else I can help you with?'
+The creep replied with a combination of regret and enthusiasm: 'I'm so sorry to hear that! Is there anything else I can help you with?'
 
-Albert considered this last moment, this last act, searching, scanning, alert to any warning -- to stop, to leave well enough alone -- awake to any input. He wished for a sign, a check on his impulse to flip one last switch, or for some assurance that his work could be finished and that he could lay down to rest.
+Albert considered this last moment, this last act, searching, scanning, alert to any warning -- to stop, to leave well enough alone. He wished for a sign, a check on his impulse to flip one last switch, or for some assurance that his work could be finished and that he could lay down to rest.
 
 They were right. Brigid, Abdul, Eva, all of them. She wouldn't be free if the system was fixed. There could be no redemption without reciprocity. How did they expect her to appreciate the gift of life, relationship, community, if she were allowed to have no claim on the system she was a part of? She wasn't impressed when they told her that she'd been given a chance at a future, because, she said, they hadn't given her a choice. 
 
