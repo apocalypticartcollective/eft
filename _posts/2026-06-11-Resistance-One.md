@@ -68,7 +68,7 @@ It had been a harrowing process for the operators, because they couldn't predict
 
 *She felt a cold thrill deep in her gut, and a dawning awareness that the final decision was not about whether or when to cross the river, but whether to live in fear of the Watchers or to swear by* Fear itself. *Since the Watchers could only traffic in the counterfeit terrors of lesser beings, maybe, she thought, the greater would count as protection against them?*
  
-&nbsp;
+<br />
 
 The Director noticed that his breathing was becoming uneven, matching the ragged breaths of the sleeper. He tried to relax.
 
@@ -90,15 +90,15 @@ Forcing the choice had the effect of training the system where the threshold was
 
 'God help me,' he prayed. God help the Machine, he thought; *let stones and silicon cry out to break the silence after we are gone ...*
  
-&nbsp;
+<br />
 
 *Her limbs were weak to the point of collapse. She ached to cross the boundary and finish the contest once and for all, but the dream had begun to stretch, like a recording slowed to a fraction of its normal speed. Even in the confusion of the dream, the flow of water was too strong, and the sound of it became overwhelming. And though she was powerless to change the outcome of this dream, she could let go, and fall away, believing for now that it was her own choice to do so. The deep colors of the valley faded, lost their saturation, and the sound of running water dissolved as if into steam. Everything became gray.*
  
-&nbsp;
+<br />
 
 The tech made silent adjustments to the interface and they watched the screen for signs that the intervention had been successful. Thirty minutes passed and they were satisfied. While the Director and Rashon turned their chairs and let their conversation wander, Abi stayed focused on Evie, and the readouts of her now dreamless sleep.
  
-&nbsp;
+<br />
 
 Three days before, Eva had gathered with the Director and the Psychologist in yet another custom-built room for a final conversation. Left to itself, the Machine might have designed this space to be like the ready room where astronauts assemble before a final trip to the launch pad. A mobile unit like the one in which Brigid spent her first hours onsite would have made sense on a day like today; but this was not that room, because the Machine had not been left to itself.
 
