@@ -88,7 +88,7 @@ The technician hesitated, and tapped out a command, watching the output. 'Best g
 
 Forcing the choice had the effect of training the system where the threshold was. He understood and accepted this as a part of the process; he was struggling with the wider implications. He worried the Machine was slow to respond to her, but the time was nearly passed for such concerns. All there is to do, he thought, is to take advantage of every opportunity to teach it how much stress is too much. But dreams were weird. Would the machine *'understand'* the moment of choice? Feel the moment as he was feeling it? (Was he feeling it the way she was?) His cheeks flushed and doubt settled on him: always he was tripping on the line between the logical structure necessary to the system and the existential stew that existed somewhere between the system and the girl, where so much life takes place, and always wondering from which side of the line might come any real hope of provision for the children of the future.
 
-'God help me,' he prayed. God help the Machine, he thought; *let stones and silicon cry out to break the silence after we are gone ...*
+'God help me,' he prayed. *God help the Machine*, he thought; *let stones and silicon cry out to break the silence after we are gone ...*
  
 <br />
 
