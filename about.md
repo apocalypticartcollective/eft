@@ -32,7 +32,7 @@ Big gratitude goes to: **Bruce Charonnat**, Publication Sherpa and Google Goad; 
 
 Many of the names above belong to artists that make up the Apocalyptic Art Collective, a dis-organized community of tent-maker artists committed to mutual support, and who, through all they do, make the case that there's more to this world than meets the eye (or fills the bank account). 
 
-
+ 
 &nbsp;
 
 <!--## Works by Others
