@@ -59,12 +59,11 @@ Sample songs below or click through to your player of choice (if you don't subsc
 
 ### Resistance
 
-<br />
-
-*Coming soon.*
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/resistance/pl.u-BNA6Yabu6Kxd4"></iframe>
 
 <br />
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1GOYqY5CK15DeYN9t0fxCo?utm_source=generator&si=fa2d0670fb244bac" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 <div style="text-align:center">
