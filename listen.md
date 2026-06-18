@@ -39,7 +39,7 @@ Sample songs below or click through to your player of choice (if you don't subsc
 
 ### Abrasion
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/abrasion/pl.u-RRbVvBNsDk9lE"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" src="https://embed.music.apple.com/us/playlist/abrasion/pl.u-RRbVvBNsDk9lE"></iframe>
 
 <br />
 
@@ -49,7 +49,7 @@ Sample songs below or click through to your player of choice (if you don't subsc
 
 ### Isolation
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/isolation/pl.u-leyl0kPUdymKq"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" src="https://embed.music.apple.com/us/playlist/isolation/pl.u-leyl0kPUdymKq"></iframe>
 
 <br />
 
@@ -70,6 +70,5 @@ Sample songs below or click through to your player of choice (if you don't subsc
 <div style="text-align:center">
 <img src="{{ '/assets/images/divider.svg' | relative_url }}" />
 </div>
-
 
 &nbsp;
