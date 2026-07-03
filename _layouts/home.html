@@ -28,13 +28,48 @@ layout: default
 <main class="home" id="main" role="main" aria-label="Content">
 
   <h1 class="content-title divided">
-    Latest
+    Contents
   </h1>
 
-  <ul class="post-list">
+  <div class="post-order-controls" style="text-align:center;margin:0.5rem 0 1rem;">
+    <span class="visually-hidden">Post order controls</span>
+    <span class="post-order-line">Reverse the Order: <button id="toggle-post-order" class="link-like" aria-pressed="false">Oldest First</button></span>
+  </div>
+
+  <ul class="post-list" id="post-list">
     {% for post in site.posts %}
       {% include post-list-item.html %}
     {% endfor %}
   </ul>
 
 </main>
+
+<style>
+  /* Minimal, inheriting link-like button so it matches post titles visually but smaller */
+  .link-like {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 0.95em; /* slightly smaller than titles */
+  }
+  .link-like:focus {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+  }
+
+  /* Dim posts when the toggle is hovered/focused */
+  .post-list.dimmed > li {
+    opacity: 0.35;
+    transition: opacity 180ms ease;
+  }
+  .post-list.dimmed > li.hovered {
+    opacity: 1;
+  }
+</style>
+
+<script src="{{ '/assets/js/toggle-order.js' | relative_url }}"></script>
