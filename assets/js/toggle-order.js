@@ -7,6 +7,7 @@
 // Fixes:
 // - Avoids leaving the toggle focused after click (btn.blur()) so the "dimmed" state doesn't persist on mobile.
 // - Guards localStorage access with try/catch for browsers/private modes that disable storage.
+// - Adds pointerup/touchend handlers to ensure dim is cleared after touch interactions.
 
 (function () {
   var STORAGE_KEY = 'posts-order';
@@ -79,9 +80,19 @@
     setButtonText();
     // On many mobile browsers the element keeps focus after touch; blur to remove lingering :focus styles
     try { btn.blur(); } catch (e) { /* ignore */ }
+    // extra delayed blur for stubborn browsers
+    setTimeout(function () { try { btn.blur(); } catch (e) {} }, 20);
     // Ensure the dimmed state is removed after toggling so mobile doesn't stay faded
     removeDim();
   });
+
+  // Clear dim on pointerup/touchend as a safety net for touch interactions
+  try {
+    btn.addEventListener('pointerup', function () { removeDim(); try { btn.blur(); } catch (e) {} });
+  } catch (e) { /* pointer events may not be supported */ }
+  try {
+    btn.addEventListener('touchend', function () { removeDim(); try { btn.blur(); } catch (e) {} }, { passive: true });
+  } catch (e) { /* ignore */ }
 
   // Dim interaction: when button hovered/focused, dim the list; hovering individual items highlights them
   function addDimBehavior() {
