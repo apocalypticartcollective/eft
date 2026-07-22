@@ -11,6 +11,7 @@
 
 (function () {
   var STORAGE_KEY = 'posts-order';
+  var DEFAULT_ORDER = 'asc'; // Default to oldest-first (chronological order)
   var list = document.getElementById('post-list');
   var btn = document.getElementById('toggle-post-order');
   if (!list || !btn) return;
@@ -39,7 +40,8 @@
   }
 
   function isAsc() {
-    return safeGet(STORAGE_KEY) === 'asc';
+    var stored = safeGet(STORAGE_KEY);
+    return stored === null ? DEFAULT_ORDER === 'asc' : stored === 'asc';
   }
   function setPrefAsc(v) {
     safeSet(STORAGE_KEY, v ? 'asc' : 'desc');
@@ -60,7 +62,7 @@
 
   function applyOrderFromPref() {
     var prefAsc = isAsc();
-    if (prefAsc) reverseListDom();
+    if (!prefAsc) reverseListDom();
     setButtonText();
   }
 
