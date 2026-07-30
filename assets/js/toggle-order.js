@@ -68,12 +68,13 @@
   }
 
   function applyOrderFromPref() {
-    var prefAsc = isAsc();
-    // prefAsc = true: oldest first (no reversal needed, posts come in this order)
-    // prefAsc = false: newest first (need to reverse the DOM)
-    if (!prefAsc) reverseListDom();
-    setButtonText();
-  }
+  var prefAsc = isAsc();
+  // Jekyll serves site.posts newest-first (reverse-chronological) natively.
+  // prefAsc = true (oldest-first desired): reverse the native DOM order.
+  // prefAsc = false (newest-first desired): native order already matches, no change.
+  if (prefAsc) reverseListDom();
+  setButtonText();
+}
 
   // Dim / highlight helpers placed in outer scope so click can clear them
   function addDim() { list.classList.add('dimmed'); }
