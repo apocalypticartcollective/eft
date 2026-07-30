@@ -56,7 +56,7 @@
  function setButtonText() {
   var currentlyAsc = isAsc();
   // Label describes the ACTION (what clicking will do), i.e. the opposite of current state
-  btn.textContent = currentlyAsc ? '(Show me: newest to oldest)' : '(Show me: oldest to newest)';
+  btn.textContent = currentlyAsc ? '(Blog-Style: Newest to Oldest)' : '(TOC-Style: Oldest to Newest)';
   btn.setAttribute('aria-pressed', String(currentlyAsc));
 }
 
