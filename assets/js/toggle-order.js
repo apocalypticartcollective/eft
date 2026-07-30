@@ -4,6 +4,12 @@
 // - Button text shows the action (what will happen when clicked).
 // - While the toggle is hovered/focused the post list is dimmed; hovering a post highlights it.
 //
+// Logic:
+// - Posts are served in chronological order (oldest first) by Jekyll/Liquid
+// - isAsc() = true: oldest first (default, no reversal needed)
+// - isAsc() = false: newest first (need to reverse DOM)
+// - Button text describes what WILL happen when clicked (toggle to opposite state)
+//
 // Fixes:
 // - Avoids leaving the toggle focused after click (btn.blur()) so the "dimmed" state doesn't persist on mobile.
 // - Guards localStorage access with try/catch for browsers/private modes that disable storage.
@@ -49,8 +55,9 @@
 
   function setButtonText() {
     var currentlyAsc = isAsc();
-    // If currently asc (oldest first), clicking will toggle to desc (newest first)
-    // If currently desc (newest first), clicking will toggle to asc (oldest first)
+    // currentlyAsc = true means oldest first is displayed
+    // currentlyAsc = false means newest first is displayed
+    // Button should show what WILL be displayed after clicking
     btn.textContent = currentlyAsc ? '(Show me: newest to oldest)' : '(Show me: oldest to newest)';
     btn.setAttribute('aria-pressed', String(currentlyAsc));
   }
@@ -64,6 +71,8 @@
 
   function applyOrderFromPref() {
     var prefAsc = isAsc();
+    // prefAsc = true: oldest first (no reversal needed, posts come in this order)
+    // prefAsc = false: newest first (need to reverse the DOM)
     if (!prefAsc) reverseListDom();
     setButtonText();
   }
