@@ -53,12 +53,12 @@
     safeSet(STORAGE_KEY, v ? 'asc' : 'desc');
   }
 
-  function setButtonText() {
-    var currentlyAsc = isAsc();
-    // Swap the text options: asc gets oldest to newest, desc gets newest to oldest
-    btn.textContent = currentlyAsc ? '(Show me: oldest to newest)' : '(Show me: newest to oldest)';
-    btn.setAttribute('aria-pressed', String(currentlyAsc));
-  }
+ function setButtonText() {
+  var currentlyAsc = isAsc();
+  // Label describes the ACTION (what clicking will do), i.e. the opposite of current state
+  btn.textContent = currentlyAsc ? '(Show me: newest to oldest)' : '(Show me: oldest to newest)';
+  btn.setAttribute('aria-pressed', String(currentlyAsc));
+}
 
   function reverseListDom() {
     var nodes = Array.prototype.slice.call(list.children);
