@@ -1,7 +1,7 @@
 // assets/js/toggle-order.js
 // Toggle the home post order (newest-first <-> oldest-first).
 // - Persists choice in localStorage key 'posts-order' with values 'desc' (newest-first) or 'asc' (oldest-first).
-// - Button text shows the action (what will happen when clicked): "(Show me: oldest to newest)" when currently newest-first, and vice versa.
+// - Button text shows the action (what will happen when clicked): "(Show me: newest to oldest)" when currently oldest-first, and vice versa.
 // - While the toggle is hovered/focused the post list is dimmed; hovering a post highlights it.
 //
 // Fixes:
@@ -49,6 +49,8 @@
 
   function setButtonText() {
     var currentlyAsc = isAsc();
+    // If currently asc (oldest first), clicking will make it desc (newest first)
+    // If currently desc (newest first), clicking will make it asc (oldest first)
     btn.textContent = currentlyAsc ? '(Show me: newest to oldest)' : '(Show me: oldest to newest)';
     btn.setAttribute('aria-pressed', String(currentlyAsc));
   }
