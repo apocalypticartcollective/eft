@@ -55,10 +55,8 @@
 
   function setButtonText() {
     var currentlyAsc = isAsc();
-    // currentlyAsc = true means oldest first is displayed
-    // currentlyAsc = false means newest first is displayed
-    // Button should show what WILL be displayed after clicking
-    btn.textContent = currentlyAsc ? '(Show me: newest to oldest)' : '(Show me: oldest to newest)';
+    // Swap the text options: asc gets oldest to newest, desc gets newest to oldest
+    btn.textContent = currentlyAsc ? '(Show me: oldest to newest)' : '(Show me: newest to oldest)';
     btn.setAttribute('aria-pressed', String(currentlyAsc));
   }
 
